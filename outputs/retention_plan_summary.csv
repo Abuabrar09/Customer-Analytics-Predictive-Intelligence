@@ -1,0 +1,9 @@
+segment,households,offer_cost,revenue_saved,gross_profit_saved,net_value,action,roi
+At Risk (High Value),53,540.0,6765.0,1691.0,1151.0,Win back now: personal outreach plus a strong offer; highest value per household,2.13
+Champions,10,97.0,4067.0,1017.0,920.0,"Protect: loyalty perks, early access, no discounting needed unless risk is High",9.48
+About to Sleep,68,740.0,4351.0,1088.0,348.0,Nudge: 'we miss you' coupon with a short expiry,0.47
+Lost,52,520.0,3175.0,794.0,274.0,Low-cost win-back only; do not spend heavily,0.53
+Needs Attention,57,484.0,2853.0,713.0,229.0,Re-engage: personalized offer on their most-bought categories,0.47
+New / Light Shoppers,45,456.0,2658.0,665.0,209.0,Onboard: welcome series and a second-trip coupon,0.46
+Potential Loyalists,23,154.0,969.0,242.0,88.0,Build habit: points multiplier for a 4-week streak of weekly trips,0.57
+Loyal,6,40.0,209.0,52.0,12.0,"Grow basket: bundle and cross-category offers (frequent trips, small baskets)",0.3

@@ -1,0 +1,9 @@
+segment,households,lapsed_households,lapsed_run_rate_lost,predicted_clv_12m,revenue_at_risk_12m,at_risk_share_of_clv
+About to Sleep,159,0,0.0,143887.0,48675.0,0.338
+Champions,714,0,0.0,2663114.0,42367.0,0.016
+Needs Attention,266,0,0.0,325053.0,42331.0,0.13
+New / Light Shoppers,153,0,0.0,170221.0,35568.0,0.209
+Potential Loyalists,659,0,0.0,1239729.0,32524.0,0.026
+At Risk (High Value),70,33,96224.0,107480.0,16609.0,0.155
+Loyal,234,0,0.0,371747.0,7443.0,0.02
+Lost,245,245,123619.0,176960.0,0.0,0.0
