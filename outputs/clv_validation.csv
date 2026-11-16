@@ -1,0 +1,4 @@
+metric,model,baseline
+Mean absolute error per household ($),655.0,686.0
+Total next-year spend error (%),-2.7,-3.4
+Actual spend captured by top-10% predicted households (%),32.2,

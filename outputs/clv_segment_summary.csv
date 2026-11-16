@@ -1,0 +1,9 @@
+segment,households,historical_spend,predicted_clv_12m,avg_predicted_clv,predicted_gross_profit_12m,share_of_predicted_clv
+Champions,714,4914538.0,2663114.0,3730.0,665778.0,0.512
+Potential Loyalists,659,1460654.0,1239729.0,1881.0,309932.0,0.238
+Loyal,234,580797.0,371747.0,1589.0,92937.0,0.072
+Needs Attention,266,391894.0,325053.0,1222.0,81263.0,0.063
+Lost,245,160123.0,176960.0,722.0,44240.0,0.034
+New / Light Shoppers,153,106406.0,170221.0,1113.0,42555.0,0.033
+About to Sleep,159,144391.0,143887.0,905.0,35972.0,0.028
+At Risk (High Value),70,298641.0,107480.0,1535.0,26870.0,0.021
