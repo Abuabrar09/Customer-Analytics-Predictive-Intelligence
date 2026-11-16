@@ -18,24 +18,24 @@
 | Lost | 245 | 245 | $123,619 | $0 |
 
 ## 2. What the retailer's own campaigns show
-Across 30 campaigns, **12.3% of targeted households redeemed at least one coupon**. **Caution:** the highest save-rate assumption (15%) is above this redemption rate. The plan's dollar figures are therefore optimistic; a holdout test (section 5) should confirm the real save rate before scaling.
+Across 30 campaigns, **12.3% of targeted households redeemed at least one coupon**. The save-rate assumptions (4%-10%) are set at or below this redemption rate, because redeeming a coupon is easier than changing a habit.
 
 ## 3. Who to contact
 Each active household is contacted only if **expected gross profit saved > offer cost**. This is value-based targeting: a high-risk household with low value may not be worth a paid offer, while a medium-risk Champion often is.
 
-- **Plan:** contact **314 households** for **$3,031**, saving an expected **$25,049 revenue / $6,262 gross profit** (net **$3,231**).
-- **Blanket alternative:** offering every High and Medium risk household (473) costs $4,275 and nets **$1,457**.
+- **Plan:** contact **178 households** for **$1,781**, saving an expected **$15,373 revenue / $3,843 gross profit** (net **$2,062**).
+- **Blanket alternative:** offering every High and Medium risk household (473) costs $4,275 and nets **-$409**.
 
 | Segment | Households contacted | Offer cost | Revenue saved | Gross profit saved | Net value | Action |
 |---|---|---|---|---|---|---|
-| At Risk (High Value) | 53 | $540 | $6,765 | $1,691 | $1,151 | Win back now: personal outreach plus a strong offer; highest value per household |
-| Champions | 10 | $97 | $4,067 | $1,017 | $920 | Protect: loyalty perks, early access, no discounting needed unless risk is High |
-| About to Sleep | 68 | $740 | $4,351 | $1,088 | $348 | Nudge: 'we miss you' coupon with a short expiry |
+| At Risk (High Value) | 45 | $480 | $5,925 | $1,481 | $1,001 | Win back now: personal outreach plus a strong offer; highest value per household |
+| Champions | 10 | $97 | $2,720 | $680 | $583 | Protect: loyalty perks, early access, no discounting needed unless risk is High |
 | Lost | 52 | $520 | $3,175 | $794 | $274 | Low-cost win-back only; do not spend heavily |
-| Needs Attention | 57 | $484 | $2,853 | $713 | $229 | Re-engage: personalized offer on their most-bought categories |
-| New / Light Shoppers | 45 | $456 | $2,658 | $665 | $209 | Onboard: welcome series and a second-trip coupon |
-| Potential Loyalists | 23 | $154 | $969 | $242 | $88 | Build habit: points multiplier for a 4-week streak of weekly trips |
-| Loyal | 6 | $40 | $209 | $52 | $12 | Grow basket: bundle and cross-category offers (frequent trips, small baskets) |
+| About to Sleep | 25 | $275 | $1,400 | $350 | $75 | Nudge: 'we miss you' coupon with a short expiry |
+| Needs Attention | 18 | $167 | $898 | $224 | $57 | Re-engage: personalized offer on their most-bought categories |
+| New / Light Shoppers | 17 | $169 | $854 | $213 | $44 | Onboard: welcome series and a second-trip coupon |
+| Potential Loyalists | 10 | $68 | $381 | $95 | $27 | Build habit: points multiplier for a 4-week streak of weekly trips |
+| Loyal | 1 | $5 | $20 | $5 | $0 | Grow basket: bundle and cross-category offers (frequent trips, small baskets) |
 
 ## 4. Playbook by segment
 - **Champions:** Protect: loyalty perks, early access, no discounting needed unless risk is High
@@ -52,6 +52,6 @@ Hold out a random 10-20% of the households selected for contact. After 8 weeks, 
 
 ## Assumptions
 - Gross margin 25% (the data has no product costs)
-- Save rate (share of would-be churners kept): High 15%, Medium 10%, Low 5%
+- Save rate (share of would-be churners kept): High 10%, Medium 7%, Low 4%
 - Offer cost per household: High $15, Medium $5, Low $2
 - Win-back: 5% of lapsed households reactivated at $10 each

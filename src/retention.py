@@ -39,7 +39,7 @@ DOCS = ROOT / "docs"
 
 ASSUMPTIONS = {
     "gross_margin": 0.25,                 # same assumption as Phase 5 (data has no product costs)
-    "save_rate": {"High": 0.15, "Medium": 0.10, "Low": 0.05},   # share of would-be churners kept
+    "save_rate": {"High": 0.10, "Medium": 0.07, "Low": 0.04},   # share of would-be churners kept
     "offer_cost": {"High": 15.0, "Medium": 5.0, "Low": 2.0},    # $ per household contacted
     "winback_rate": 0.05,                 # share of lapsed households reactivated
     "winback_cost": 10.0,
