@@ -1,0 +1,13 @@
+table,check,rows_affected,action
+transactions,Raw row count,2595732,Loaded
+transactions,Households in data,2500,Info
+transactions,Day range,711,Days 1 to 711
+transactions,Rows with any missing value,0,None found
+transactions,Exact duplicate rows,0,None found
+transactions,Quantity <= 0 (no item sold),14466,Removed
+transactions,Sales value <= 0 (free or fully discounted),18850,Removed
+transactions,Line value > 10x the 99.9th percentile ($455.92),4,"Flagged, kept"
+households,Households without demographics,1699,Kept; demographics used only where available
+transactions,Lines with product not in product table,0,Kept
+transactions,Clean row count,2576815,99.3% of raw rows kept
+baskets,Shopping trips (baskets),275539,Built from clean transactions
