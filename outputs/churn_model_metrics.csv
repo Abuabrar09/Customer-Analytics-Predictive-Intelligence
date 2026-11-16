@@ -1,0 +1,4 @@
+model,roc_auc,pr_auc,churners_caught_top_20pct,churners_caught_top_10pct
+Logistic regression,0.841,0.261,0.691,0.395
+Gradient boosting,0.847,0.282,0.664,0.395
+Rule: days since last trip / usual gap,0.587,0.111,0.257,0.164

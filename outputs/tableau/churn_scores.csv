@@ -1,0 +1,2501 @@
+household_key,churn_probability,status,risk_tier,segment,predicted_clv_12m,historical_spend,expected_revenue_at_risk
+1,0.005,Active,Low,Potential Loyalists,2759.42,4330.16,13.8
+2,0.141,Active,Medium,About to Sleep,1229.31,1954.34,173.33
+3,0.097,Active,Low,Potential Loyalists,1586.09,2653.21,153.85
+4,,Already lapsed (56+ days),Lapsed,Lost,919.22,1200.11,0.0
+5,0.101,Active,Medium,Potential Loyalists,878.88,779.06,88.77
+6,0.005,Active,Low,Champions,2189.96,5996.16,10.95
+7,0.006,Active,Low,Potential Loyalists,3576.77,3400.05,21.46
+8,0.005,Active,Low,Champions,4930.03,5534.97,24.65
+9,0.143,Active,Medium,Needs Attention,1082.31,797.42,154.77
+10,0.632,Active,High,Needs Attention,728.99,234.34,460.72
+11,,Already lapsed (56+ days),Lapsed,Lost,409.52,33.39,0.0
+12,,Already lapsed (56+ days),Lapsed,Lost,433.16,266.21,0.0
+13,0.863,Active,High,Champions,5526.39,13190.92,4769.27
+14,0.009,Active,Low,Loyal,1482.77,2761.19,13.34
+15,0.021,Active,Low,Potential Loyalists,1372.36,972.53,28.82
+16,0.068,Active,Low,Needs Attention,1013.61,1512.02,68.93
+17,0.036,Active,Low,Loyal,1658.33,5139.63,59.7
+18,0.004,Active,Low,Champions,5220.49,7118.91,20.88
+19,0.005,Active,Low,Champions,5417.49,11299.61,27.09
+20,0.004,Active,Low,Champions,4634.66,7486.11,18.54
+21,0.346,Active,High,About to Sleep,984.68,870.11,340.7
+22,0.004,Active,Low,Champions,4836.41,6256.04,19.35
+23,0.005,Active,Low,Champions,1739.97,3158.58,8.7
+24,0.019,Active,Low,Potential Loyalists,2058.12,1911.11,39.1
+25,0.014,Active,Low,Potential Loyalists,2065.8,3149.65,28.92
+26,0.006,Active,Low,Loyal,1471.98,1937.39,8.83
+27,0.004,Active,Low,Champions,3719.12,5736.24,14.88
+28,0.012,Active,Low,Loyal,1448.47,2119.62,17.38
+29,0.021,Active,Low,Potential Loyalists,996.33,1343.03,20.92
+30,0.194,Active,Medium,New / Light Shoppers,1011.56,622.8,196.24
+31,0.01,Active,Low,Potential Loyalists,5643.65,4396.9,56.44
+32,0.004,Active,Low,Champions,2296.39,3381.82,9.19
+33,0.027,Active,Low,Potential Loyalists,1248.89,1200.74,33.72
+34,0.057,Active,Low,Potential Loyalists,789.29,407.38,44.99
+35,0.019,Active,Low,Potential Loyalists,1087.63,1119.51,20.66
+36,0.005,Active,Low,Champions,4069.74,4898.25,20.35
+37,0.006,Active,Low,Potential Loyalists,3080.64,2976.66,18.48
+38,,Already lapsed (56+ days),Lapsed,Lost,657.79,706.13,0.0
+39,0.029,Active,Low,Needs Attention,1822.44,5033.66,52.85
+40,0.004,Active,Low,Champions,7861.43,12907.89,31.45
+41,0.005,Active,Low,Potential Loyalists,2562.46,3107.13,12.81
+42,0.009,Active,Low,Potential Loyalists,1468.86,1985.86,13.22
+43,0.014,Active,Low,Loyal,813.43,884.84,11.39
+44,,Already lapsed (56+ days),Lapsed,Lost,793.95,877.76,0.0
+45,,Already lapsed (56+ days),Lapsed,Lost,776.88,807.09,0.0
+46,0.005,Active,Low,Champions,5674.26,8433.43,28.37
+47,0.004,Active,Low,Loyal,1642.45,2329.13,6.57
+48,0.039,Active,Low,Potential Loyalists,1294.02,1172.83,50.47
+49,0.005,Active,Low,Champions,4867.32,6445.03,24.34
+50,0.273,Active,Medium,About to Sleep,815.29,351.39,222.57
+51,0.005,Active,Low,Potential Loyalists,1922.36,3046.86,9.61
+52,0.004,Active,Low,Champions,2812.73,5487.28,11.25
+53,0.009,Active,Low,Potential Loyalists,1740.47,1961.49,15.66
+54,,Already lapsed (56+ days),Lapsed,Lost,417.23,103.09,0.0
+55,0.008,Active,Low,Loyal,658.27,1072.79,5.27
+56,0.005,Active,Low,Champions,4214.53,6691.53,21.07
+57,0.005,Active,Low,Champions,2100.08,3105.87,10.5
+58,0.005,Active,Low,Champions,5384.41,10367.08,26.92
+59,0.124,Active,Medium,Needs Attention,1400.06,1688.33,173.61
+60,0.418,Active,High,New / Light Shoppers,922.16,400.94,385.46
+61,0.72,Active,High,Needs Attention,604.12,183.8,434.97
+62,0.922,Active,High,About to Sleep,548.3,359.29,505.53
+63,0.068,Active,Low,Potential Loyalists,995.0,589.6,67.66
+64,0.004,Active,Low,Champions,3248.8,3917.81,13.0
+65,0.083,Active,Low,At Risk (High Value),1415.18,2042.17,117.46
+66,0.217,Active,Medium,Needs Attention,583.93,395.95,126.71
+67,0.005,Active,Low,Champions,7584.48,9618.9,37.92
+68,0.005,Active,Low,Champions,1896.74,4960.77,9.48
+69,0.005,Active,Low,Champions,3391.72,5704.34,16.96
+70,0.275,Active,Medium,New / Light Shoppers,535.99,76.4,147.4
+71,0.009,Active,Low,Potential Loyalists,1676.91,3376.03,15.09
+72,0.008,Active,Low,Loyal,1900.85,6473.43,15.21
+73,0.716,Active,High,At Risk (High Value),1031.4,2864.18,738.48
+74,0.118,Active,Medium,At Risk (High Value),1076.11,2047.64,126.98
+75,0.008,Active,Low,Potential Loyalists,1455.8,1167.09,11.65
+76,0.869,Active,High,New / Light Shoppers,573.45,315.94,498.33
+77,0.005,Active,Low,Potential Loyalists,4097.78,6227.1,20.49
+78,0.005,Active,Low,Loyal,2006.6,2505.14,10.03
+79,0.005,Active,Low,Champions,2583.45,3950.12,12.92
+80,0.008,Active,Low,Needs Attention,2304.21,3002.09,18.43
+81,0.009,Active,Low,Champions,1246.97,5553.7,11.22
+82,0.015,Active,Low,Potential Loyalists,936.35,566.51,14.05
+83,0.023,Active,Low,Loyal,988.52,1183.74,22.74
+84,0.047,Active,Low,Needs Attention,1100.18,1208.09,51.71
+85,0.01,Active,Low,Champions,2214.69,4696.49,22.15
+86,0.191,Active,Medium,At Risk (High Value),1985.28,4019.44,379.19
+87,0.016,Active,Low,Potential Loyalists,1425.97,1202.3,22.82
+88,0.005,Active,Low,Champions,6069.64,11615.66,30.35
+89,,Already lapsed (56+ days),Lapsed,Lost,431.85,177.56,0.0
+90,0.368,Active,High,About to Sleep,1086.24,490.41,399.74
+91,0.005,Active,Low,Champions,2442.81,2899.66,12.21
+92,0.007,Active,Low,Potential Loyalists,1701.03,1587.38,11.91
+93,,Already lapsed (56+ days),Lapsed,At Risk (High Value),1362.25,3346.72,0.0
+94,0.073,Active,Low,Potential Loyalists,799.72,442.64,58.38
+95,0.006,Active,Low,Champions,4761.18,6500.18,28.57
+96,0.665,Active,High,Potential Loyalists,997.79,1182.43,663.53
+97,0.005,Active,Low,Champions,2663.1,5323.95,13.32
+98,0.004,Active,Low,Loyal,3169.91,2547.3,12.68
+99,0.005,Active,Low,Champions,1515.2,6926.15,7.58
+100,0.061,Active,Low,Needs Attention,2082.22,2294.62,127.02
+101,0.005,Active,Low,Champions,6053.24,6651.58,30.27
+102,,Already lapsed (56+ days),Lapsed,Lost,512.55,304.84,0.0
+103,0.033,Active,Low,Potential Loyalists,897.04,541.99,29.6
+104,0.005,Active,Low,Champions,7892.29,6546.74,39.46
+105,0.005,Active,Low,Champions,2818.17,4591.67,14.09
+106,0.012,Active,Low,Potential Loyalists,3601.91,2014.66,43.22
+107,0.476,Active,High,About to Sleep,988.1,1222.83,470.34
+108,0.03,Active,Low,Needs Attention,1330.71,2671.16,39.92
+109,0.004,Active,Low,Champions,2676.26,3501.07,10.71
+110,0.005,Active,Low,Champions,1764.22,3461.32,8.82
+111,0.181,Active,Medium,Needs Attention,1154.42,1515.65,208.95
+112,0.015,Active,Low,Potential Loyalists,1204.24,1342.65,18.06
+113,0.004,Active,Low,Champions,7841.56,15324.95,31.37
+114,0.005,Active,Low,Potential Loyalists,2123.06,3315.63,10.62
+115,0.004,Active,Low,Champions,6744.49,13262.1,26.98
+116,0.022,Active,Low,Potential Loyalists,814.09,647.72,17.91
+117,0.012,Active,Low,Potential Loyalists,1361.4,2568.21,16.34
+118,0.005,Active,Low,Potential Loyalists,3007.81,4526.21,15.04
+119,0.011,Active,Low,Potential Loyalists,2266.45,2593.01,24.93
+120,,Already lapsed (56+ days),Lapsed,Lost,350.61,242.32,0.0
+121,0.114,Active,Medium,At Risk (High Value),1203.7,2225.58,137.22
+122,0.174,Active,Medium,At Risk (High Value),1125.14,2354.22,195.77
+123,0.06,Active,Low,Loyal,1457.23,3222.65,87.43
+124,0.049,Active,Low,Potential Loyalists,928.29,683.41,45.49
+125,0.005,Active,Low,Champions,5286.36,10601.5,26.43
+126,0.151,Active,Medium,New / Light Shoppers,958.86,853.45,144.79
+127,0.005,Active,Low,Champions,3207.53,4658.23,16.04
+128,0.021,Active,Low,Potential Loyalists,2506.24,1381.08,52.63
+129,0.075,Active,Low,Needs Attention,576.78,475.73,43.26
+130,,Already lapsed (56+ days),Lapsed,Lost,763.97,511.62,0.0
+131,0.005,Active,Low,Champions,1501.18,6156.22,7.51
+132,0.005,Active,Low,Potential Loyalists,1678.31,2875.24,8.39
+133,0.005,Active,Low,Potential Loyalists,2982.18,3823.89,14.91
+134,0.005,Active,Low,Potential Loyalists,2958.42,5535.09,14.79
+135,0.008,Active,Low,Potential Loyalists,947.83,717.5,7.58
+136,0.032,Active,Low,Needs Attention,1352.1,2804.82,43.27
+137,,Already lapsed (56+ days),Lapsed,Lost,822.85,1062.17,0.0
+138,0.005,Active,Low,Potential Loyalists,2469.53,3529.19,12.35
+139,0.006,Active,Low,Potential Loyalists,2863.24,3073.33,17.18
+140,0.05,Active,Low,Loyal,811.09,1720.64,40.55
+141,0.038,Active,Low,Potential Loyalists,801.11,448.34,30.44
+142,0.005,Active,Low,Loyal,1540.39,2324.19,7.7
+143,0.009,Active,Low,Champions,915.97,6574.22,8.24
+144,,Already lapsed (56+ days),Lapsed,Lost,1014.64,2126.31,0.0
+145,0.008,Active,Low,Potential Loyalists,1651.33,1470.49,13.21
+146,0.231,Active,Medium,Potential Loyalists,956.4,843.02,220.93
+147,0.106,Active,Medium,Needs Attention,1288.16,1487.21,136.54
+148,0.013,Active,Low,Potential Loyalists,1187.64,1231.76,15.44
+149,,Already lapsed (56+ days),Lapsed,At Risk (High Value),4030.83,11920.93,0.0
+150,,Already lapsed (56+ days),Lapsed,Lost,489.0,230.35,0.0
+151,0.108,Active,Medium,Potential Loyalists,1024.8,1226.14,110.68
+152,0.07,Active,Low,Needs Attention,1258.32,1454.28,88.08
+153,0.015,Active,Low,Potential Loyalists,1152.63,1558.65,17.29
+154,,Already lapsed (56+ days),Lapsed,Lost,794.13,867.18,0.0
+155,0.075,Active,Low,Potential Loyalists,1359.09,2101.05,101.93
+156,0.005,Active,Low,Champions,2657.36,5224.06,13.29
+157,0.005,Active,Low,Loyal,1919.78,2748.95,9.6
+158,0.012,Active,Low,Loyal,1111.37,1869.79,13.34
+159,0.008,Active,Low,Potential Loyalists,1603.15,2143.87,12.83
+160,0.006,Active,Low,Potential Loyalists,1864.34,1536.09,11.19
+161,0.005,Active,Low,Champions,5598.17,6071.52,27.99
+162,0.007,Active,Low,Potential Loyalists,2237.17,3037.54,15.66
+163,,Already lapsed (56+ days),Lapsed,Lost,427.58,272.52,0.0
+164,0.005,Active,Low,Champions,2994.77,4272.41,14.97
+165,0.005,Active,Low,Champions,1932.73,2995.47,9.66
+166,0.004,Active,Low,Champions,2637.21,3059.69,10.55
+167,0.058,Active,Low,New / Light Shoppers,1546.66,1268.02,89.71
+168,0.13,Active,Medium,Potential Loyalists,654.19,510.8,85.04
+169,0.295,Active,Medium,About to Sleep,378.04,255.58,111.52
+170,0.438,Active,High,Needs Attention,1344.59,2024.51,588.93
+171,0.071,Active,Low,New / Light Shoppers,1230.59,740.46,87.37
+172,0.007,Active,Low,Loyal,1111.98,1770.87,7.78
+173,,Already lapsed (56+ days),Lapsed,Lost,485.97,234.97,0.0
+174,0.792,Active,High,About to Sleep,1027.23,1208.39,813.57
+175,0.253,Active,Medium,About to Sleep,1016.09,1154.02,257.07
+176,,Already lapsed (56+ days),Lapsed,Lost,767.28,788.29,0.0
+177,0.188,Active,Medium,Needs Attention,962.38,1130.58,180.93
+178,0.024,Active,Low,Loyal,3807.4,2028.47,91.38
+179,,Already lapsed (56+ days),Lapsed,Lost,786.72,620.56,0.0
+180,0.066,Active,Low,Needs Attention,1048.69,2103.4,69.21
+181,,Already lapsed (56+ days),Lapsed,Lost,1259.19,1670.82,0.0
+182,0.225,Active,Medium,About to Sleep,995.64,1162.34,224.02
+183,0.163,Active,Medium,At Risk (High Value),1019.17,1560.67,166.12
+184,0.004,Active,Low,Champions,5317.77,7090.07,21.27
+185,0.02,Active,Low,Potential Loyalists,1981.9,2137.62,39.64
+186,0.904,Active,High,New / Light Shoppers,544.48,59.52,492.21
+187,0.044,Active,Low,Potential Loyalists,972.17,701.0,42.78
+188,0.105,Active,Medium,Needs Attention,1270.18,1847.62,133.37
+189,0.115,Active,Medium,Needs Attention,774.48,801.99,89.07
+190,0.259,Active,Medium,About to Sleep,792.56,696.28,205.27
+191,0.089,Active,Low,Potential Loyalists,1086.75,552.85,96.72
+192,0.004,Active,Low,Potential Loyalists,2047.99,3778.08,8.19
+193,0.015,Active,Low,Loyal,1832.26,4814.66,27.48
+194,0.006,Active,Low,Potential Loyalists,1841.78,1882.81,11.05
+195,0.013,Active,Low,Potential Loyalists,1319.82,4166.72,17.16
+196,0.006,Active,Low,Champions,1441.01,5261.19,8.65
+197,0.01,Active,Low,Potential Loyalists,1845.69,1929.23,18.46
+198,0.005,Active,Low,Champions,3212.64,8659.17,16.06
+199,0.02,Active,Low,Potential Loyalists,1048.79,667.97,20.98
+200,0.031,Active,Low,Potential Loyalists,1240.6,1166.63,38.46
+201,0.014,Active,Low,Potential Loyalists,1900.32,1435.17,26.6
+202,0.175,Active,Medium,Needs Attention,1278.65,964.88,223.76
+203,0.032,Active,Low,Potential Loyalists,1033.64,908.83,33.08
+204,0.021,Active,Low,Potential Loyalists,1019.06,929.27,21.4
+205,0.011,Active,Low,Champions,3675.15,3749.64,40.43
+206,0.811,Active,High,About to Sleep,558.14,386.6,452.65
+207,,Already lapsed (56+ days),Lapsed,Lost,1170.98,995.72,0.0
+208,0.006,Active,Low,Champions,2284.89,4296.33,13.71
+209,0.005,Active,Low,Champions,5063.92,6876.56,25.32
+210,0.005,Active,Low,Champions,2532.22,3772.56,12.66
+211,0.005,Active,Low,Loyal,2174.88,2244.06,10.87
+212,0.013,Active,Low,Champions,1669.77,3052.66,21.71
+213,0.787,Active,High,About to Sleep,946.85,606.5,745.17
+214,0.022,Active,Low,Potential Loyalists,1752.12,2657.91,38.55
+215,0.005,Active,Low,Loyal,1386.28,1672.66,6.93
+216,0.007,Active,Low,Loyal,1874.13,2624.5,13.12
+217,0.011,Active,Low,Needs Attention,2002.85,2435.12,22.03
+218,0.004,Active,Low,Champions,4963.41,9211.72,19.85
+219,0.004,Active,Low,Champions,5828.74,11884.79,23.31
+220,0.045,Active,Low,About to Sleep,1260.56,2525.24,56.73
+221,0.016,Active,Low,Needs Attention,1964.23,2879.29,31.43
+222,0.004,Active,Low,Champions,2415.24,5897.9,9.66
+223,0.013,Active,Low,Loyal,1239.21,2738.98,16.11
+224,0.045,Active,Low,Potential Loyalists,1423.26,1600.8,64.05
+225,0.371,Active,High,About to Sleep,865.19,729.82,320.99
+226,0.747,Active,High,About to Sleep,975.8,1205.06,728.92
+227,0.006,Active,Low,Loyal,1458.27,1390.25,8.75
+228,0.009,Active,Low,Potential Loyalists,1298.29,2404.81,11.68
+229,0.096,Active,Low,Needs Attention,778.34,1004.89,74.72
+230,0.005,Active,Low,Champions,2252.25,4521.01,11.26
+231,,Already lapsed (56+ days),Lapsed,Lost,716.46,325.68,0.0
+232,0.573,Active,High,At Risk (High Value),2433.46,12695.57,1394.37
+233,0.237,Active,Medium,Needs Attention,1686.05,645.39,399.59
+234,0.634,Active,High,Needs Attention,643.05,260.64,407.69
+235,0.004,Active,Low,Champions,4182.24,12156.64,16.73
+236,0.043,Active,Low,Potential Loyalists,1310.17,1591.78,56.34
+237,,Already lapsed (56+ days),Lapsed,Lost,981.49,549.59,0.0
+238,,Already lapsed (56+ days),Lapsed,Lost,761.86,693.4,0.0
+239,0.005,Active,Low,Champions,2844.67,4671.2,14.22
+240,0.307,Active,High,New / Light Shoppers,1222.66,365.61,375.36
+241,0.43,Active,High,About to Sleep,484.73,199.73,208.43
+242,0.005,Active,Low,Potential Loyalists,3549.07,5231.8,17.75
+243,0.004,Active,Low,Champions,5340.71,8074.12,21.36
+244,0.059,Active,Low,About to Sleep,1245.24,1698.95,73.47
+245,0.099,Active,Low,Needs Attention,1563.57,1396.45,154.79
+246,0.064,Active,Low,Needs Attention,822.06,847.25,52.61
+247,0.012,Active,Low,Potential Loyalists,1426.97,1243.06,17.12
+248,0.014,Active,Low,Potential Loyalists,5648.61,6039.01,79.08
+249,0.04,Active,Low,Champions,942.16,2822.44,37.69
+250,0.005,Active,Low,Champions,5061.05,5991.84,25.31
+251,0.022,Active,Low,Potential Loyalists,1542.83,2268.51,33.94
+252,0.674,Active,High,About to Sleep,561.51,93.78,378.46
+253,0.005,Active,Low,Champions,4571.98,10993.71,22.86
+254,0.024,Active,Low,Potential Loyalists,863.86,442.14,20.73
+255,0.649,Active,High,New / Light Shoppers,1051.65,672.09,682.52
+256,0.004,Active,Low,Champions,5174.36,9849.75,20.7
+257,0.016,Active,Low,Loyal,1906.9,2689.99,30.51
+258,0.008,Active,Low,Loyal,1725.25,2631.11,13.8
+259,0.038,Active,Low,Needs Attention,1030.19,1158.33,39.15
+260,0.125,Active,Medium,New / Light Shoppers,786.92,425.04,98.36
+261,,Already lapsed (56+ days),Lapsed,Lost,987.04,1241.87,0.0
+262,0.033,Active,Low,Champions,1089.08,4802.27,35.94
+263,0.005,Active,Low,Champions,3097.5,5870.33,15.49
+264,0.216,Active,Medium,About to Sleep,1098.09,1783.07,237.19
+265,0.362,Active,High,Potential Loyalists,1514.39,1881.76,548.21
+266,0.009,Active,Low,Potential Loyalists,2980.12,3130.22,26.82
+267,0.599,Active,High,About to Sleep,746.43,385.56,447.11
+268,0.243,Active,Medium,About to Sleep,787.27,809.21,191.31
+269,0.009,Active,Low,Potential Loyalists,2529.94,1764.76,22.77
+270,0.036,Active,Low,Potential Loyalists,1223.44,923.46,44.04
+271,0.036,Active,Low,Potential Loyalists,1806.29,1375.52,65.03
+272,,Already lapsed (56+ days),Lapsed,Lost,694.81,401.62,0.0
+273,0.007,Active,Low,Loyal,2178.77,2500.86,15.25
+274,0.148,Active,Medium,About to Sleep,536.46,120.07,79.4
+275,0.005,Active,Low,Champions,3882.29,6284.99,19.41
+276,0.008,Active,Low,Champions,1958.03,5758.71,15.66
+277,0.168,Active,Medium,Needs Attention,978.01,754.05,164.31
+278,0.01,Active,Low,Potential Loyalists,1459.44,2053.56,14.59
+279,0.231,Active,Medium,About to Sleep,1267.02,1816.62,292.68
+280,0.005,Active,Low,Loyal,1833.25,2375.86,9.17
+281,0.017,Active,Low,Potential Loyalists,1056.63,1495.08,17.96
+282,0.004,Active,Low,Champions,2771.58,4162.56,11.09
+283,0.007,Active,Low,Potential Loyalists,4879.86,6023.37,34.16
+284,0.592,Active,High,New / Light Shoppers,791.81,534.98,468.75
+285,0.005,Active,Low,Champions,2444.44,4227.64,12.22
+286,0.013,Active,Low,Potential Loyalists,1321.2,1245.24,17.18
+287,0.005,Active,Low,Champions,2440.45,3229.28,12.2
+288,0.005,Active,Low,Potential Loyalists,1962.08,3114.77,9.81
+289,0.007,Active,Low,Champions,4389.69,5970.47,30.73
+290,0.005,Active,Low,Champions,3122.03,5524.34,15.61
+291,0.07,Active,Low,Needs Attention,1949.83,2474.49,136.49
+292,0.028,Active,Low,Potential Loyalists,902.52,977.07,25.27
+293,0.008,Active,Low,Loyal,1419.84,3957.66,11.36
+294,0.005,Active,Low,Champions,2065.47,5411.36,10.33
+295,0.247,Active,Medium,New / Light Shoppers,538.98,149.31,133.13
+296,0.142,Active,Medium,New / Light Shoppers,603.03,149.25,85.63
+297,0.013,Active,Low,Champions,4389.53,3535.62,57.06
+298,,Already lapsed (56+ days),Lapsed,Lost,574.41,224.86,0.0
+299,0.85,Active,High,New / Light Shoppers,545.78,242.24,463.91
+300,0.023,Active,Low,Loyal,1689.77,4974.31,38.86
+301,0.005,Active,Low,Potential Loyalists,4654.14,7211.68,23.27
+302,0.025,Active,Low,Needs Attention,1237.02,1797.53,30.93
+303,0.005,Active,Low,Champions,3990.25,4879.67,19.95
+304,0.005,Active,Low,Champions,5079.54,8586.28,25.4
+305,0.005,Active,Low,Champions,1688.74,3827.02,8.44
+306,0.005,Active,Low,Champions,5827.84,5716.73,29.14
+307,0.005,Active,Low,Loyal,1883.16,2582.03,9.42
+308,0.007,Active,Low,Potential Loyalists,2584.35,2465.26,18.09
+309,,Already lapsed (56+ days),Lapsed,Lost,1640.63,2325.59,0.0
+310,0.048,Active,Low,New / Light Shoppers,686.87,184.02,32.97
+311,0.018,Active,Low,Potential Loyalists,1478.69,1351.13,26.62
+312,0.039,Active,Low,Needs Attention,1751.86,2578.05,68.32
+313,,Already lapsed (56+ days),Lapsed,Lost,500.1,92.54,0.0
+314,0.016,Active,Low,Potential Loyalists,2607.16,3004.01,41.71
+315,,Already lapsed (56+ days),Lapsed,Lost,469.61,182.19,0.0
+316,0.011,Active,Low,Potential Loyalists,1534.24,1037.78,16.88
+317,0.008,Active,Low,Potential Loyalists,3375.65,6083.3,27.01
+318,0.007,Active,Low,Potential Loyalists,970.99,1242.25,6.8
+319,0.027,Active,Low,Loyal,1729.73,3758.5,46.7
+320,0.3,Active,High,Needs Attention,781.94,497.41,234.58
+321,0.013,Active,Low,Loyal,2245.76,5935.66,29.19
+322,0.007,Active,Low,Potential Loyalists,1921.86,2418.88,13.45
+323,0.777,Active,High,New / Light Shoppers,699.67,156.99,543.64
+324,0.004,Active,Low,Champions,4431.51,8554.87,17.73
+325,0.008,Active,Low,Potential Loyalists,2442.55,2849.69,19.54
+326,0.137,Active,Medium,New / Light Shoppers,1308.59,739.72,179.28
+327,0.581,Active,High,About to Sleep,412.8,226.71,239.84
+328,0.005,Active,Low,Champions,8157.65,17332.13,40.79
+329,0.005,Active,Low,Champions,2189.45,3026.71,10.95
+330,0.434,Active,High,Loyal,710.27,1679.38,308.26
+331,0.046,Active,Low,Needs Attention,1088.99,1273.3,50.09
+332,0.005,Active,Low,Champions,5026.42,5519.02,25.13
+333,0.72,Active,High,About to Sleep,916.84,1248.81,660.12
+334,0.005,Active,Low,Champions,1855.28,4827.8,9.28
+335,0.006,Active,Low,Champions,1154.15,2822.18,6.92
+336,0.202,Active,Medium,Loyal,1446.25,3089.74,292.14
+337,0.084,Active,Low,Potential Loyalists,800.14,933.59,67.21
+338,0.005,Active,Low,Loyal,3048.04,2690.97,15.24
+339,0.017,Active,Low,Needs Attention,1050.14,1668.92,17.85
+340,,Already lapsed (56+ days),Lapsed,Lost,841.86,1057.56,0.0
+341,,Already lapsed (56+ days),Lapsed,Lost,523.11,393.5,0.0
+342,0.011,Active,Low,Potential Loyalists,1888.08,2125.51,20.77
+343,0.007,Active,Low,Potential Loyalists,1875.22,1650.64,13.13
+344,0.156,Active,Medium,Potential Loyalists,1567.28,2237.91,244.5
+345,0.005,Active,Low,Champions,5277.37,5741.08,26.39
+346,0.005,Active,Low,Champions,1803.3,5351.41,9.02
+347,0.777,Active,High,About to Sleep,817.82,540.76,635.45
+348,0.006,Active,Low,Champions,3265.75,2961.83,19.59
+349,0.046,Active,Low,Potential Loyalists,1992.72,869.16,91.67
+350,0.004,Active,Low,Champions,2245.9,3083.25,8.98
+351,0.005,Active,Low,Champions,2635.47,7659.67,13.18
+352,0.308,Active,High,Needs Attention,630.17,178.7,194.09
+353,0.006,Active,Low,Champions,2874.09,3799.2,17.24
+354,0.005,Active,Low,Champions,5238.65,8729.87,26.19
+355,,Already lapsed (56+ days),Lapsed,Lost,596.46,340.34,0.0
+356,0.005,Active,Low,Champions,1792.31,2837.33,8.96
+357,0.074,Active,Low,Needs Attention,2438.81,1704.27,180.47
+358,0.004,Active,Low,Champions,6249.42,12729.34,25.0
+359,,Already lapsed (56+ days),Lapsed,Lost,1151.78,172.85,0.0
+360,0.035,Active,Low,Potential Loyalists,860.34,447.6,30.11
+361,0.005,Active,Low,Champions,5139.63,8747.1,25.7
+362,0.005,Active,Low,Potential Loyalists,1701.68,2987.49,8.51
+363,,Already lapsed (56+ days),Lapsed,Lost,532.49,52.4,0.0
+364,0.017,Active,Low,Potential Loyalists,1419.04,2566.92,24.12
+365,0.007,Active,Low,Champions,2486.34,7048.43,17.4
+366,0.381,Active,High,About to Sleep,755.43,614.69,287.82
+367,0.005,Active,Low,Champions,5223.47,7186.37,26.12
+368,0.196,Active,Medium,Needs Attention,1116.73,1346.46,218.88
+369,0.04,Active,Low,Potential Loyalists,1046.68,1034.94,41.87
+370,,Already lapsed (56+ days),Lapsed,At Risk (High Value),1470.13,3386.78,0.0
+371,0.004,Active,Low,Champions,8822.91,15716.54,35.29
+372,,Already lapsed (56+ days),Lapsed,Lost,605.52,440.42,0.0
+373,0.208,Active,Medium,New / Light Shoppers,598.72,96.91,124.53
+374,0.008,Active,Low,Champions,1482.52,7099.56,11.86
+375,0.275,Active,Medium,Needs Attention,468.24,203.94,128.77
+376,0.004,Active,Low,Champions,1555.4,4714.62,6.22
+377,0.005,Active,Low,Champions,2390.53,3166.45,11.95
+378,0.004,Active,Low,Champions,1917.88,4715.42,7.67
+379,0.986,Active,High,New / Light Shoppers,543.88,55.64,536.27
+380,0.005,Active,Low,Champions,5089.4,7726.44,25.45
+381,0.009,Active,Low,Potential Loyalists,2282.39,3120.79,20.54
+382,0.286,Active,Medium,About to Sleep,1104.25,694.7,315.82
+383,0.009,Active,Low,Loyal,1759.78,5763.44,15.84
+384,0.005,Active,Low,Potential Loyalists,3831.64,3914.84,19.16
+385,0.043,Active,Low,Potential Loyalists,1693.38,2929.72,72.82
+386,0.005,Active,Low,Champions,2429.18,4676.43,12.15
+387,0.005,Active,Low,Champions,3306.03,5697.25,16.53
+388,0.009,Active,Low,Potential Loyalists,1326.64,1286.54,11.94
+389,0.005,Active,Low,Champions,7017.47,14880.92,35.09
+390,0.014,Active,Low,Loyal,1355.02,1806.02,18.97
+391,,Already lapsed (56+ days),Lapsed,Lost,1249.05,1412.64,0.0
+392,0.004,Active,Low,Champions,5325.57,11443.97,21.3
+393,0.005,Active,Low,Champions,2289.64,3895.24,11.45
+394,0.023,Active,Low,Potential Loyalists,1219.74,1565.89,28.05
+395,0.028,Active,Low,Potential Loyalists,939.3,872.91,26.3
+396,0.008,Active,Low,Loyal,1417.25,1790.73,11.34
+397,0.005,Active,Low,Champions,3283.42,6161.99,16.42
+398,0.007,Active,Low,Loyal,1483.13,2092.6,10.38
+399,0.403,Active,High,About to Sleep,929.23,978.48,374.48
+400,0.004,Active,Low,Champions,8063.37,18494.14,32.25
+401,0.006,Active,Low,Potential Loyalists,2817.03,2538.88,16.9
+402,0.008,Active,Low,Potential Loyalists,1978.66,2233.84,15.83
+403,,Already lapsed (56+ days),Lapsed,Lost,821.26,914.56,0.0
+404,0.004,Active,Low,Champions,2660.66,6107.18,10.64
+405,0.008,Active,Low,Potential Loyalists,1918.01,3652.97,15.34
+406,0.079,Active,Low,Potential Loyalists,2100.46,1776.65,165.94
+407,0.086,Active,Low,Potential Loyalists,1035.5,696.38,89.05
+408,0.032,Active,Low,Potential Loyalists,1415.81,2470.99,45.31
+409,0.005,Active,Low,Champions,3048.3,4499.85,15.24
+410,0.012,Active,Low,Loyal,1289.29,1148.42,15.47
+411,0.007,Active,Low,Champions,1215.86,6697.21,8.51
+412,0.005,Active,Low,Loyal,1647.96,2426.3,8.24
+413,0.005,Active,Low,Champions,1304.14,5963.78,6.52
+414,0.008,Active,Low,Loyal,1370.31,2488.65,10.96
+415,0.141,Active,Medium,Needs Attention,1265.86,514.63,178.49
+416,,Already lapsed (56+ days),Lapsed,Lost,1253.49,2177.04,0.0
+417,0.005,Active,Low,Potential Loyalists,2051.12,3012.96,10.26
+418,0.007,Active,Low,Champions,2815.15,6960.96,19.71
+419,,Already lapsed (56+ days),Lapsed,Lost,1115.32,1696.61,0.0
+420,0.027,Active,Low,Loyal,1628.18,2130.58,43.96
+421,0.005,Active,Low,Champions,2700.96,6013.04,13.5
+422,0.242,Active,Medium,New / Light Shoppers,1103.2,983.32,266.97
+423,,Already lapsed (56+ days),Lapsed,Lost,477.04,230.85,0.0
+424,0.123,Active,Medium,Needs Attention,1843.91,2441.79,226.8
+425,0.005,Active,Low,Champions,2779.96,5543.91,13.9
+426,0.005,Active,Low,Champions,4212.73,7860.85,21.06
+427,0.088,Active,Low,Potential Loyalists,1452.11,1073.01,127.79
+428,0.036,Active,Low,Needs Attention,1473.99,3361.43,53.06
+429,0.084,Active,Low,Potential Loyalists,847.88,542.89,71.22
+430,0.006,Active,Low,Loyal,3588.14,2377.09,21.53
+431,0.098,Active,Low,Potential Loyalists,782.24,531.67,76.66
+432,0.004,Active,Low,Champions,2500.09,3486.55,10.0
+433,0.015,Active,Low,Needs Attention,850.33,949.82,12.75
+434,0.005,Active,Low,Champions,2263.3,3778.75,11.32
+435,0.016,Active,Low,Potential Loyalists,3459.55,1817.18,55.35
+436,0.042,Active,Low,New / Light Shoppers,1927.66,2318.74,80.96
+437,0.006,Active,Low,Potential Loyalists,2378.42,5915.73,14.27
+438,0.01,Active,Low,Potential Loyalists,4863.94,4456.52,48.64
+439,0.144,Active,Medium,Potential Loyalists,925.18,568.21,133.23
+440,,Already lapsed (56+ days),Lapsed,Lost,435.95,83.88,0.0
+441,0.008,Active,Low,Potential Loyalists,1457.48,2369.9,11.66
+442,0.005,Active,Low,Champions,3981.32,3094.71,19.91
+443,0.007,Active,Low,Loyal,2429.11,2644.21,17.0
+444,,Already lapsed (56+ days),Lapsed,Lost,913.65,1261.62,0.0
+445,,Already lapsed (56+ days),Lapsed,At Risk (High Value),967.4,2696.5,0.0
+446,0.054,Active,Low,New / Light Shoppers,486.98,212.05,26.3
+447,0.017,Active,Low,Loyal,1420.27,1670.44,24.14
+448,0.04,Active,Low,Potential Loyalists,968.34,493.37,38.73
+449,0.051,Active,Low,Potential Loyalists,1505.22,827.44,76.77
+450,0.022,Active,Low,Needs Attention,1137.93,1540.45,25.03
+451,0.004,Active,Low,Loyal,2085.61,2376.28,8.34
+452,0.588,Active,High,Needs Attention,1079.85,786.99,634.95
+453,0.065,Active,Low,Potential Loyalists,877.16,742.95,57.02
+454,0.005,Active,Low,Champions,5396.64,8215.93,26.98
+455,0.262,Active,Medium,New / Light Shoppers,1351.12,1253.4,353.99
+456,0.008,Active,Low,Potential Loyalists,2485.25,6314.03,19.88
+457,0.057,Active,Low,Needs Attention,838.74,718.0,47.81
+458,0.008,Active,Low,Loyal,1405.45,1685.64,11.24
+459,0.013,Active,Low,Potential Loyalists,1172.0,1194.94,15.24
+460,0.011,Active,Low,Loyal,819.01,760.45,9.01
+461,0.475,Active,High,Needs Attention,778.99,664.8,370.02
+462,0.008,Active,Low,Potential Loyalists,1207.16,1510.63,9.66
+463,0.005,Active,Low,Champions,4069.9,5803.3,20.35
+464,0.005,Active,Low,Champions,2973.46,3590.49,14.87
+465,0.232,Active,Medium,Needs Attention,775.05,382.55,179.81
+466,0.266,Active,Medium,About to Sleep,721.22,423.32,191.84
+467,0.005,Active,Low,Loyal,1602.2,2642.99,8.01
+468,0.005,Active,Low,Champions,4659.87,5835.68,23.3
+469,0.016,Active,Low,Champions,2805.15,7748.49,44.88
+470,0.005,Active,Low,Loyal,1328.07,2305.0,6.64
+471,0.019,Active,Low,Potential Loyalists,1843.46,1530.12,35.03
+472,0.977,Active,High,At Risk (High Value),2025.7,8295.58,1979.11
+473,0.008,Active,Low,Potential Loyalists,2306.52,3208.71,18.45
+474,0.041,Active,Low,Potential Loyalists,3481.35,2102.36,142.74
+475,0.072,Active,Low,Potential Loyalists,1346.63,1525.02,96.96
+476,,Already lapsed (56+ days),Lapsed,Lost,1122.95,1551.27,0.0
+477,0.036,Active,Low,Needs Attention,924.63,812.28,33.29
+478,0.148,Active,Medium,About to Sleep,464.09,286.02,68.69
+479,0.025,Active,Low,Loyal,911.16,1773.3,22.78
+480,0.153,Active,Medium,At Risk (High Value),1819.68,3646.39,278.41
+481,0.273,Active,Medium,Needs Attention,1352.23,2055.92,369.16
+482,0.036,Active,Low,Potential Loyalists,1979.97,1848.52,71.28
+483,0.005,Active,Low,Potential Loyalists,2037.66,2718.99,10.19
+484,0.005,Active,Low,Champions,1757.03,2964.51,8.79
+485,0.005,Active,Low,Champions,3500.79,5431.01,17.5
+486,0.052,Active,Low,Needs Attention,1132.39,922.39,58.88
+487,0.487,Active,High,About to Sleep,568.31,133.68,276.77
+488,0.291,Active,Medium,About to Sleep,520.09,406.96,151.35
+489,0.004,Active,Low,Champions,4853.27,5866.56,19.41
+490,0.008,Active,Low,Needs Attention,2060.66,3886.87,16.49
+491,0.004,Active,Low,Champions,3335.15,4835.71,13.34
+492,,Already lapsed (56+ days),Lapsed,At Risk (High Value),2530.44,7148.28,0.0
+493,0.005,Active,Low,Champions,3029.63,4925.56,15.15
+494,,Already lapsed (56+ days),Lapsed,Lost,985.06,8.17,0.0
+495,0.044,Active,Low,At Risk (High Value),1476.24,3050.52,64.95
+496,,Already lapsed (56+ days),Lapsed,Lost,920.24,648.4,0.0
+497,0.016,Active,Low,Potential Loyalists,869.05,766.4,13.9
+498,0.214,Active,Medium,Potential Loyalists,970.85,904.18,207.76
+499,,Already lapsed (56+ days),Lapsed,Lost,726.6,753.36,0.0
+500,,Already lapsed (56+ days),Lapsed,Lost,429.94,84.82,0.0
+501,0.281,Active,Medium,Needs Attention,786.73,478.13,221.07
+502,0.035,Active,Low,Potential Loyalists,1583.18,2298.84,55.41
+503,0.005,Active,Low,Champions,2905.39,4723.8,14.53
+504,,Already lapsed (56+ days),Lapsed,Lost,678.24,516.34,0.0
+505,0.208,Active,Medium,New / Light Shoppers,726.87,188.54,151.19
+506,0.017,Active,Low,New / Light Shoppers,1939.18,1254.17,32.97
+507,0.029,Active,Low,Needs Attention,980.68,1455.43,28.44
+508,0.054,Active,Low,Needs Attention,996.4,1190.51,53.81
+509,,Already lapsed (56+ days),Lapsed,Lost,448.7,277.14,0.0
+510,0.005,Active,Low,Champions,3430.21,7903.36,17.15
+511,0.005,Active,Low,Champions,3190.89,5425.53,15.95
+512,0.136,Active,Medium,New / Light Shoppers,1498.74,1114.44,203.83
+513,0.005,Active,Low,Champions,5191.74,12130.01,25.96
+514,0.006,Active,Low,Potential Loyalists,1729.99,2339.27,10.38
+515,0.02,Active,Low,Potential Loyalists,1558.15,1826.73,31.16
+516,0.238,Active,Medium,New / Light Shoppers,601.32,295.23,143.11
+517,0.012,Active,Low,Champions,2002.25,3742.89,24.03
+518,0.006,Active,Low,Champions,3049.67,4926.37,18.3
+519,0.212,Active,Medium,About to Sleep,734.15,819.13,155.64
+520,0.014,Active,Low,Loyal,1430.46,2071.15,20.03
+521,0.06,Active,Low,Needs Attention,1054.69,858.8,63.28
+522,,Already lapsed (56+ days),Lapsed,Lost,455.86,29.34,0.0
+523,0.007,Active,Low,Champions,3114.84,5731.87,21.8
+524,0.074,Active,Low,Needs Attention,1056.88,1984.58,78.21
+525,0.105,Active,Medium,Needs Attention,870.94,902.77,91.45
+526,0.005,Active,Low,Champions,5070.91,4574.92,25.35
+527,0.005,Active,Low,Champions,2229.66,3581.52,11.15
+528,0.241,Active,Medium,New / Light Shoppers,820.7,373.83,197.79
+529,0.627,Active,High,Needs Attention,1138.2,1831.14,713.65
+530,0.202,Active,Medium,Needs Attention,974.6,1476.22,196.87
+531,0.029,Active,Low,Potential Loyalists,1049.93,1060.64,30.45
+532,,Already lapsed (56+ days),Lapsed,Lost,583.08,401.88,0.0
+533,0.022,Active,Low,Needs Attention,1524.18,2792.87,33.53
+534,0.007,Active,Low,Loyal,1117.37,1315.44,7.82
+535,,Already lapsed (56+ days),Lapsed,Lost,975.77,1308.76,0.0
+536,0.007,Active,Low,Potential Loyalists,1086.2,1557.13,7.6
+537,0.121,Active,Medium,About to Sleep,996.24,1411.25,120.55
+538,0.005,Active,Low,Potential Loyalists,3931.68,4382.21,19.66
+539,0.025,Active,Low,Potential Loyalists,2366.06,1269.09,59.15
+540,0.004,Active,Low,Potential Loyalists,3407.31,3280.73,13.63
+541,0.031,Active,Low,Needs Attention,1275.93,1784.19,39.55
+542,0.02,Active,Low,Loyal,1501.58,2312.93,30.03
+543,0.004,Active,Low,Champions,2758.79,3697.55,11.04
+544,0.068,Active,Low,Loyal,943.9,1594.85,64.19
+545,0.005,Active,Low,Potential Loyalists,2095.71,2660.28,10.48
+546,,Already lapsed (56+ days),Lapsed,At Risk (High Value),1692.84,3339.0,0.0
+547,0.205,Active,Medium,Potential Loyalists,1394.49,1676.76,285.87
+548,0.029,Active,Low,Needs Attention,1306.36,4255.83,37.88
+549,0.019,Active,Low,Potential Loyalists,1804.99,2299.35,34.29
+550,0.048,Active,Low,Potential Loyalists,1420.67,854.91,68.19
+551,0.028,Active,Low,Potential Loyalists,1002.84,853.65,28.08
+552,0.079,Active,Low,Potential Loyalists,1736.24,2289.47,137.16
+553,0.005,Active,Low,Champions,3549.64,7259.09,17.75
+554,0.083,Active,Low,Needs Attention,1845.06,1524.33,153.14
+555,,Already lapsed (56+ days),Lapsed,Lost,796.48,561.03,0.0
+556,0.809,Active,High,About to Sleep,951.03,693.86,769.38
+557,0.463,Active,High,Needs Attention,719.32,718.46,333.05
+558,0.013,Active,Low,Loyal,1334.83,2426.35,17.35
+559,,Already lapsed (56+ days),Lapsed,Lost,410.22,249.34,0.0
+560,0.004,Active,Low,Champions,5247.36,7290.9,20.99
+561,0.143,Active,Medium,New / Light Shoppers,1559.17,1404.36,222.96
+562,0.018,Active,Low,Needs Attention,2319.98,3178.11,41.76
+563,0.018,Active,Low,Potential Loyalists,1626.39,2488.77,29.28
+564,0.019,Active,Low,Potential Loyalists,988.54,842.45,18.78
+565,0.135,Active,Medium,New / Light Shoppers,708.52,498.06,95.65
+566,0.113,Active,Medium,Loyal,764.53,1218.08,86.39
+567,0.005,Active,Low,Champions,2158.77,3134.9,10.79
+568,0.004,Active,Low,Champions,5785.47,8612.85,23.14
+569,0.005,Active,Low,Champions,2538.84,6749.19,12.69
+570,0.015,Active,Low,Potential Loyalists,1666.67,1400.11,25.0
+571,,Already lapsed (56+ days),Lapsed,Lost,1065.84,1114.16,0.0
+572,,Already lapsed (56+ days),Lapsed,Lost,770.46,903.15,0.0
+573,0.059,Active,Low,Loyal,1299.72,3111.55,76.68
+574,0.005,Active,Low,Champions,5826.48,6753.54,29.13
+575,0.004,Active,Low,Champions,5775.05,11771.13,23.1
+576,0.313,Active,High,At Risk (High Value),1386.32,3750.12,433.92
+577,0.015,Active,Low,Potential Loyalists,2851.5,4399.53,42.77
+578,0.005,Active,Low,Champions,2773.84,2996.69,13.87
+579,0.704,Active,High,New / Light Shoppers,831.32,435.26,585.25
+580,0.008,Active,Low,Potential Loyalists,1149.09,1337.7,9.19
+581,0.024,Active,Low,Champions,1506.99,5060.44,36.17
+582,0.004,Active,Low,Champions,2717.75,5137.74,10.87
+583,0.018,Active,Low,Loyal,1611.53,3063.34,29.01
+584,,Already lapsed (56+ days),Lapsed,Lost,949.58,1098.3,0.0
+585,0.202,Active,Medium,Needs Attention,913.57,805.07,184.54
+586,0.004,Active,Low,Champions,5066.61,5822.64,20.27
+587,0.179,Active,Medium,New / Light Shoppers,670.63,247.93,120.04
+588,0.004,Active,Low,Champions,5109.41,9540.54,20.44
+589,0.57,Active,High,Needs Attention,649.94,298.97,370.47
+590,0.016,Active,Low,Champions,2834.53,3338.41,45.35
+591,0.005,Active,Low,Champions,2732.74,13534.93,13.66
+592,0.222,Active,Medium,About to Sleep,811.73,660.79,180.2
+593,0.096,Active,Low,Needs Attention,790.91,646.4,75.93
+594,0.007,Active,Low,Loyal,1645.51,2421.39,11.52
+595,0.013,Active,Low,Loyal,1276.27,2373.74,16.59
+596,0.011,Active,Low,Champions,1738.22,2996.37,19.12
+597,0.005,Active,Low,Champions,2432.81,3826.25,12.16
+598,0.005,Active,Low,Champions,1984.01,3354.9,9.92
+599,,Already lapsed (56+ days),Lapsed,Lost,850.46,357.78,0.0
+600,0.006,Active,Low,Champions,5298.71,5520.3,31.79
+601,0.005,Active,Low,Potential Loyalists,2106.04,5241.27,10.53
+602,0.176,Active,Medium,About to Sleep,1659.91,1850.07,292.14
+603,0.037,Active,Low,Champions,1318.09,3219.5,48.77
+604,0.006,Active,Low,Potential Loyalists,1966.16,2311.65,11.8
+605,0.005,Active,Low,Champions,3210.22,5856.38,16.05
+606,0.013,Active,Low,Potential Loyalists,1875.46,3323.12,24.38
+607,0.106,Active,Medium,Champions,1110.16,3203.01,117.68
+608,0.004,Active,Low,Champions,2888.11,5148.98,11.55
+609,0.018,Active,Low,Loyal,950.62,1665.89,17.11
+610,0.182,Active,Medium,About to Sleep,710.52,573.06,129.31
+611,0.006,Active,Low,Potential Loyalists,2658.84,2316.24,15.95
+612,0.005,Active,Low,Champions,3915.35,3978.72,19.58
+613,0.423,Active,High,New / Light Shoppers,862.41,347.31,364.8
+614,0.005,Active,Low,Loyal,2133.46,2757.24,10.67
+615,0.109,Active,Medium,New / Light Shoppers,888.97,346.4,96.9
+616,0.119,Active,Medium,New / Light Shoppers,761.39,476.14,90.61
+617,0.167,Active,Medium,Needs Attention,1537.63,1315.54,256.78
+618,0.005,Active,Low,Champions,1493.62,7343.87,7.47
+619,,Already lapsed (56+ days),Lapsed,Lost,516.87,168.98,0.0
+620,,Already lapsed (56+ days),Lapsed,Lost,428.43,304.98,0.0
+621,0.004,Active,Low,Champions,2269.84,3179.15,9.08
+622,0.005,Active,Low,Loyal,1363.31,2384.37,6.82
+623,0.078,Active,Low,Champions,1637.28,3899.16,127.71
+624,0.005,Active,Low,Champions,3691.35,6003.47,18.46
+625,0.019,Active,Low,Potential Loyalists,1406.86,1233.92,26.73
+626,0.346,Active,High,New / Light Shoppers,900.31,649.33,311.51
+627,0.019,Active,Low,Potential Loyalists,1620.91,1785.46,30.8
+628,0.342,Active,High,New / Light Shoppers,1261.43,1147.99,431.41
+629,,Already lapsed (56+ days),Lapsed,Lost,510.23,377.49,0.0
+630,0.005,Active,Low,Champions,4607.53,7746.27,23.04
+631,0.005,Active,Low,Champions,5416.18,9277.72,27.08
+632,0.005,Active,Low,Potential Loyalists,3069.38,3370.68,15.35
+633,0.005,Active,Low,Champions,2953.0,5493.89,14.76
+634,,Already lapsed (56+ days),Lapsed,Lost,1020.71,1555.15,0.0
+635,0.68,Active,High,About to Sleep,535.95,362.9,364.45
+636,0.005,Active,Low,Champions,5412.49,9045.17,27.06
+637,0.017,Active,Low,Loyal,1668.71,2510.04,28.37
+638,0.004,Active,Low,Champions,4828.31,8039.29,19.31
+639,,Already lapsed (56+ days),Lapsed,Lost,874.89,759.83,0.0
+640,0.537,Active,High,About to Sleep,1026.63,2253.25,551.3
+641,0.005,Active,Low,Champions,5584.81,13221.75,27.92
+642,,Already lapsed (56+ days),Lapsed,Lost,1095.35,2208.34,0.0
+643,0.026,Active,Low,New / Light Shoppers,1619.16,1415.59,42.1
+644,0.005,Active,Low,Champions,1700.58,3772.03,8.5
+645,,Already lapsed (56+ days),Lapsed,Lost,542.45,429.06,0.0
+646,0.21,Active,Medium,Needs Attention,1281.61,1691.72,269.14
+647,0.005,Active,Low,Champions,5184.27,6326.74,25.92
+648,0.005,Active,Low,Potential Loyalists,2176.63,1910.4,10.88
+649,,Already lapsed (56+ days),Lapsed,Lost,1006.26,1553.45,0.0
+650,0.042,Active,Low,Needs Attention,914.7,1415.65,38.42
+651,,Already lapsed (56+ days),Lapsed,Lost,593.26,370.53,0.0
+652,0.008,Active,Low,Potential Loyalists,1729.35,1800.09,13.83
+653,0.006,Active,Low,Champions,4874.9,10822.55,29.25
+654,0.004,Active,Low,Loyal,1646.65,2330.08,6.59
+655,0.013,Active,Low,Potential Loyalists,2130.26,1991.29,27.69
+656,0.024,Active,Low,Needs Attention,1485.13,5040.28,35.64
+657,0.2,Active,Medium,New / Light Shoppers,491.23,119.8,98.25
+658,0.043,Active,Low,Potential Loyalists,940.17,1052.48,40.43
+659,0.321,Active,High,Needs Attention,835.63,760.89,268.24
+660,0.005,Active,Low,Champions,3813.24,7954.28,19.07
+661,0.004,Active,Low,Champions,3482.74,8271.31,13.93
+662,0.072,Active,Low,Needs Attention,963.02,1381.73,69.34
+663,0.005,Active,Low,Champions,2227.4,3199.53,11.14
+664,0.208,Active,Medium,Needs Attention,1007.07,995.08,209.47
+665,0.07,Active,Low,Potential Loyalists,1003.24,715.98,70.23
+666,0.005,Active,Low,Potential Loyalists,1308.62,1020.7,6.54
+667,0.029,Active,Low,Potential Loyalists,1467.66,1121.2,42.56
+668,0.01,Active,Low,Potential Loyalists,1141.76,1151.04,11.42
+669,0.004,Active,Low,Champions,3819.22,9164.15,15.28
+670,0.005,Active,Low,Champions,4121.22,5685.67,20.61
+671,0.017,Active,Low,Loyal,1593.76,5089.66,27.09
+672,0.006,Active,Low,Loyal,2918.76,2731.15,17.51
+673,0.031,Active,Low,Potential Loyalists,1384.35,704.61,42.91
+674,0.005,Active,Low,Champions,2132.57,4727.57,10.66
+675,0.005,Active,Low,Champions,4232.78,4832.38,21.16
+676,0.006,Active,Low,Champions,5553.01,10741.1,33.32
+677,0.07,Active,Low,Potential Loyalists,1190.92,1600.99,83.36
+678,,Already lapsed (56+ days),Lapsed,Lost,538.63,459.17,0.0
+679,0.004,Active,Low,Champions,1019.14,6494.31,4.08
+680,0.007,Active,Low,Potential Loyalists,2184.16,3513.02,15.29
+681,0.004,Active,Low,Potential Loyalists,2289.96,2773.19,9.16
+682,,Already lapsed (56+ days),Lapsed,At Risk (High Value),1621.77,4438.29,0.0
+683,,Already lapsed (56+ days),Lapsed,Lost,447.01,170.05,0.0
+684,0.01,Active,Low,Loyal,1166.83,2052.67,11.67
+685,0.005,Active,Low,Champions,3651.37,6019.77,18.26
+686,0.093,Active,Low,About to Sleep,702.84,534.57,65.36
+687,0.011,Active,Low,Potential Loyalists,2269.67,3205.8,24.97
+688,0.092,Active,Low,Needs Attention,1971.68,3207.61,181.39
+689,,Already lapsed (56+ days),Lapsed,Lost,607.18,28.96,0.0
+690,0.004,Active,Low,Champions,1576.41,4963.14,6.31
+691,0.02,Active,Low,Potential Loyalists,1755.02,2511.33,35.1
+692,0.004,Active,Low,Champions,2805.25,3891.14,11.22
+693,0.012,Active,Low,Loyal,1103.83,6378.8,13.25
+694,0.021,Active,Low,Loyal,1080.32,1756.64,22.69
+695,0.004,Active,Low,Champions,5861.49,8523.93,23.45
+696,0.005,Active,Low,Champions,7461.7,14715.53,37.31
+697,0.01,Active,Low,Potential Loyalists,1829.35,2823.59,18.29
+698,0.012,Active,Low,Loyal,1148.8,1204.49,13.79
+699,0.004,Active,Low,Champions,5160.47,10353.0,20.64
+700,0.065,Active,Low,Potential Loyalists,3838.08,2981.04,249.48
+701,0.012,Active,Low,Potential Loyalists,2807.7,2593.56,33.69
+702,0.005,Active,Low,Champions,5491.53,8205.68,27.46
+703,0.004,Active,Low,Champions,5244.06,9475.69,20.98
+704,,Already lapsed (56+ days),Lapsed,Lost,421.15,76.53,0.0
+705,0.022,Active,Low,Needs Attention,1001.87,1385.93,22.04
+706,0.005,Active,Low,Champions,2796.81,4024.6,13.98
+707,0.004,Active,Low,Champions,9884.77,19194.42,39.54
+708,0.005,Active,Low,Potential Loyalists,2098.29,2828.06,10.49
+709,0.005,Active,Low,Champions,3505.49,5534.31,17.53
+710,0.005,Active,Low,Champions,2606.47,3724.48,13.03
+711,0.129,Active,Medium,Potential Loyalists,824.39,429.79,106.35
+712,0.005,Active,Low,Champions,4987.29,11711.02,24.94
+713,0.148,Active,Medium,Needs Attention,1044.23,540.9,154.55
+714,0.005,Active,Low,Champions,2222.75,4117.34,11.11
+715,0.005,Active,Low,Champions,2738.18,3712.14,13.69
+716,0.009,Active,Low,Potential Loyalists,1118.47,1290.68,10.07
+717,0.078,Active,Low,Needs Attention,788.96,616.72,61.54
+718,0.135,Active,Medium,Champions,6432.74,19299.86,868.42
+719,0.034,Active,Low,Potential Loyalists,1691.47,1098.51,57.51
+720,0.013,Active,Low,Potential Loyalists,1246.11,1678.8,16.2
+721,0.031,Active,Low,Potential Loyalists,874.55,553.57,27.11
+722,0.005,Active,Low,Champions,5028.69,6437.62,25.14
+723,0.107,Active,Medium,New / Light Shoppers,1704.6,1230.83,182.39
+724,0.204,Active,Medium,About to Sleep,799.25,639.3,163.05
+725,0.005,Active,Low,Champions,2128.25,4828.58,10.64
+726,0.007,Active,Low,Potential Loyalists,2487.39,2220.15,17.41
+727,0.005,Active,Low,Champions,1874.82,4923.13,9.37
+728,0.032,Active,Low,Champions,1155.83,10732.91,36.99
+729,0.085,Active,Low,New / Light Shoppers,1141.66,1159.32,97.04
+730,0.012,Active,Low,Potential Loyalists,1033.38,1111.69,12.4
+731,0.006,Active,Low,Champions,1283.9,3151.31,7.7
+732,0.005,Active,Low,Champions,2527.31,3967.82,12.64
+733,0.005,Active,Low,Potential Loyalists,2308.65,2678.56,11.54
+734,0.02,Active,Low,Potential Loyalists,946.68,1319.76,18.93
+735,0.057,Active,Low,Needs Attention,947.18,1062.25,53.99
+736,0.014,Active,Low,Potential Loyalists,4290.87,3061.62,60.07
+737,,Already lapsed (56+ days),Lapsed,Lost,1218.86,1593.51,0.0
+738,0.031,Active,Low,Loyal,1337.77,2593.12,41.47
+739,,Already lapsed (56+ days),Lapsed,Lost,544.33,160.06,0.0
+740,0.005,Active,Low,Champions,4930.39,6644.85,24.65
+741,0.006,Active,Low,Potential Loyalists,2921.76,3414.6,17.53
+742,0.006,Active,Low,Champions,931.26,3950.96,5.59
+743,0.012,Active,Low,Potential Loyalists,1655.82,1988.97,19.87
+744,0.005,Active,Low,Champions,3180.78,4730.31,15.9
+745,0.004,Active,Low,Champions,2524.43,6713.51,10.1
+746,,Already lapsed (56+ days),Lapsed,Lost,753.48,569.05,0.0
+747,0.013,Active,Low,Loyal,995.25,1166.73,12.94
+748,0.022,Active,Low,Potential Loyalists,1835.92,2709.18,40.39
+749,0.046,Active,Low,Potential Loyalists,811.71,1066.62,37.34
+750,0.053,Active,Low,Potential Loyalists,1174.52,598.62,62.25
+751,0.31,Active,High,About to Sleep,642.88,521.04,199.29
+752,0.01,Active,Low,Champions,1530.86,3792.56,15.31
+753,0.017,Active,Low,Potential Loyalists,2160.71,2177.13,36.73
+754,0.03,Active,Low,Potential Loyalists,1302.08,1535.13,39.06
+755,0.117,Active,Medium,Champions,3459.19,10617.05,404.73
+756,,Already lapsed (56+ days),Lapsed,Lost,758.85,690.42,0.0
+757,0.163,Active,Medium,About to Sleep,1598.27,2023.37,260.52
+758,0.186,Active,Medium,Needs Attention,573.53,344.92,106.68
+759,0.054,Active,Low,Potential Loyalists,1466.45,1274.09,79.19
+760,,Already lapsed (56+ days),Lapsed,Lost,1062.54,1872.52,0.0
+761,0.005,Active,Low,Champions,5782.31,9036.01,28.91
+762,0.004,Active,Low,Champions,6668.97,8982.79,26.68
+763,,Already lapsed (56+ days),Lapsed,At Risk (High Value),1396.11,2815.58,0.0
+764,0.006,Active,Low,Champions,3275.6,3196.78,19.65
+765,0.019,Active,Low,New / Light Shoppers,1830.45,1586.58,34.78
+766,0.005,Active,Low,Champions,5040.86,8350.09,25.2
+767,0.461,Active,High,About to Sleep,943.9,562.77,435.14
+768,0.005,Active,Low,Champions,4881.2,6681.34,24.41
+769,0.056,Active,Low,Potential Loyalists,1527.79,1543.63,85.56
+770,0.028,Active,Low,Potential Loyalists,2700.26,2246.36,75.61
+771,0.005,Active,Low,Champions,4331.75,7990.97,21.66
+772,0.238,Active,Medium,Needs Attention,388.18,271.88,92.39
+773,0.062,Active,Low,New / Light Shoppers,1640.35,899.63,101.7
+774,0.818,Active,High,About to Sleep,1221.59,909.96,999.26
+775,,Already lapsed (56+ days),Lapsed,Lost,878.45,1121.0,0.0
+776,0.061,Active,Low,Potential Loyalists,1675.9,3153.7,102.23
+777,0.315,Active,High,Potential Loyalists,3742.93,2745.75,1179.02
+778,,Already lapsed (56+ days),Lapsed,At Risk (High Value),1145.25,2285.59,0.0
+779,0.006,Active,Low,Potential Loyalists,4212.43,3918.28,25.27
+780,0.113,Active,Medium,Potential Loyalists,775.96,579.72,87.68
+781,0.015,Active,Low,Potential Loyalists,1263.33,1665.51,18.95
+782,0.277,Active,Medium,About to Sleep,979.79,1557.05,271.4
+783,,Already lapsed (56+ days),Lapsed,Lost,502.28,387.34,0.0
+784,0.004,Active,Low,Champions,2253.56,3117.66,9.01
+785,0.015,Active,Low,Loyal,1567.97,2089.8,23.52
+786,0.005,Active,Low,Champions,4664.78,7434.07,23.32
+787,0.005,Active,Low,Loyal,1492.73,2504.59,7.46
+788,0.005,Active,Low,Champions,4020.28,7514.2,20.1
+789,0.181,Active,Medium,New / Light Shoppers,898.23,370.3,162.58
+790,0.006,Active,Low,Potential Loyalists,2616.17,2842.63,15.7
+791,,Already lapsed (56+ days),Lapsed,Lost,489.39,303.01,0.0
+792,0.404,Active,High,New / Light Shoppers,729.91,337.11,294.88
+793,0.013,Active,Low,Loyal,1316.97,1832.03,17.12
+794,0.072,Active,Low,Potential Loyalists,1763.79,1752.5,126.99
+795,0.236,Active,Medium,About to Sleep,1131.48,1295.91,267.03
+796,0.3,Active,Medium,Potential Loyalists,593.14,445.65,177.94
+797,0.004,Active,Low,Potential Loyalists,1814.62,3059.57,7.26
+798,0.017,Active,Low,Potential Loyalists,1969.75,1586.58,33.49
+799,0.019,Active,Low,Potential Loyalists,1631.05,2084.11,30.99
+800,0.005,Active,Low,Champions,5587.15,10426.58,27.94
+801,0.017,Active,Low,New / Light Shoppers,1776.91,1652.07,30.21
+802,0.007,Active,Low,Potential Loyalists,1293.74,2154.43,9.06
+803,0.005,Active,Low,Potential Loyalists,1752.41,2036.84,8.76
+804,0.006,Active,Low,Champions,1304.54,3917.74,7.83
+805,0.005,Active,Low,Champions,5469.78,5565.47,27.35
+806,0.005,Active,Low,Champions,2982.16,5875.35,14.91
+807,0.008,Active,Low,Champions,2149.26,4014.02,17.19
+808,0.008,Active,Low,Loyal,1180.45,2317.9,9.44
+809,0.118,Active,Medium,Needs Attention,814.71,619.75,96.14
+810,0.055,Active,Low,Needs Attention,883.94,540.1,48.62
+811,0.173,Active,Medium,Potential Loyalists,1011.14,680.23,174.93
+812,0.19,Active,Medium,Needs Attention,823.38,1165.27,156.44
+813,0.126,Active,Medium,Potential Loyalists,2304.25,2065.1,290.34
+814,0.271,Active,Medium,Needs Attention,1328.46,773.76,360.01
+815,0.103,Active,Medium,Needs Attention,1386.16,1802.37,142.77
+816,0.007,Active,Low,Loyal,1766.21,3468.66,12.36
+817,0.006,Active,Low,Champions,2290.92,4801.85,13.75
+818,0.012,Active,Low,Potential Loyalists,2419.94,1724.59,29.04
+819,0.41,Active,High,New / Light Shoppers,524.15,161.75,214.9
+820,0.005,Active,Low,Champions,2443.11,4603.98,12.22
+821,,Already lapsed (56+ days),Lapsed,Lost,541.11,464.56,0.0
+822,0.079,Active,Low,Potential Loyalists,959.46,866.56,75.8
+823,0.005,Active,Low,Loyal,1653.95,2590.15,8.27
+824,0.011,Active,Low,Potential Loyalists,2006.25,1167.03,22.07
+825,0.005,Active,Low,Champions,5366.19,11835.02,26.83
+826,0.478,Active,High,Needs Attention,549.64,203.01,262.73
+827,0.784,Active,High,New / Light Shoppers,670.32,326.88,525.53
+828,,Already lapsed (56+ days),Lapsed,Lost,1027.91,1123.16,0.0
+829,0.073,Active,Low,Potential Loyalists,2434.18,1635.21,177.7
+830,0.007,Active,Low,Loyal,1222.52,1694.3,8.56
+831,0.005,Active,Low,Champions,5418.45,8831.35,27.09
+832,0.425,Active,High,New / Light Shoppers,847.94,479.24,360.37
+833,,Already lapsed (56+ days),Lapsed,Lost,1265.18,1975.56,0.0
+834,0.697,Active,High,New / Light Shoppers,1112.23,946.28,775.22
+835,,Already lapsed (56+ days),Lapsed,Lost,441.45,273.81,0.0
+836,0.047,Active,Low,Needs Attention,923.45,1564.35,43.4
+837,0.096,Active,Low,Potential Loyalists,949.36,793.38,91.14
+838,0.119,Active,Medium,New / Light Shoppers,664.56,384.69,79.08
+839,0.674,Active,High,Needs Attention,1368.78,846.7,922.56
+840,0.004,Active,Low,Champions,5992.9,11944.57,23.97
+841,0.005,Active,Low,Loyal,2750.98,2550.37,13.75
+842,0.024,Active,Low,Champions,4343.38,7527.27,104.24
+843,0.008,Active,Low,Potential Loyalists,2037.53,2619.23,16.3
+844,0.004,Active,Low,Champions,2632.16,5399.64,10.53
+845,0.013,Active,Low,Champions,1482.65,5097.28,19.27
+846,0.167,Active,Medium,Needs Attention,1261.03,1120.9,210.59
+847,0.01,Active,Low,Potential Loyalists,1605.76,1463.32,16.06
+848,0.014,Active,Low,New / Light Shoppers,2524.72,2684.13,35.35
+849,0.006,Active,Low,Potential Loyalists,2710.42,4599.52,16.26
+850,0.017,Active,Low,Potential Loyalists,1199.35,1252.91,20.39
+851,0.683,Active,High,About to Sleep,470.74,166.78,321.52
+852,0.013,Active,Low,Potential Loyalists,1346.4,1943.73,17.5
+853,0.004,Active,Low,Champions,5120.24,13497.29,20.48
+854,0.179,Active,Medium,About to Sleep,990.77,551.87,177.35
+855,0.006,Active,Low,Champions,4950.11,5617.79,29.7
+856,0.005,Active,Low,Champions,3005.56,5080.04,15.03
+857,0.009,Active,Low,Potential Loyalists,2720.34,4040.81,24.48
+858,0.041,Active,Low,Potential Loyalists,985.2,594.23,40.39
+859,0.004,Active,Low,Champions,4099.62,7074.2,16.4
+860,,Already lapsed (56+ days),Lapsed,Lost,435.05,261.06,0.0
+861,0.072,Active,Low,Potential Loyalists,1159.62,1382.53,83.49
+862,0.042,Active,Low,Potential Loyalists,1320.54,1753.9,55.46
+863,0.014,Active,Low,Loyal,2802.01,2183.53,39.23
+864,0.004,Active,Low,Champions,5258.03,7892.97,21.03
+865,0.077,Active,Low,Needs Attention,2267.04,1887.73,174.56
+866,0.008,Active,Low,Loyal,2607.55,5519.35,20.86
+867,0.004,Active,Low,Champions,4659.31,6088.84,18.64
+868,0.004,Active,Low,Champions,3530.52,6836.65,14.12
+869,0.004,Active,Low,Loyal,2051.58,1428.67,8.21
+870,,Already lapsed (56+ days),Lapsed,Lost,466.09,241.41,0.0
+871,0.004,Active,Low,Champions,5978.48,10435.96,23.91
+872,0.11,Active,Medium,Needs Attention,602.37,172.07,66.26
+873,0.029,Active,Low,Champions,1364.2,2938.15,39.56
+874,,Already lapsed (56+ days),Lapsed,Lost,407.57,222.22,0.0
+875,0.058,Active,Low,Needs Attention,948.44,1473.27,55.01
+876,0.005,Active,Low,Champions,3408.38,5899.04,17.04
+877,0.007,Active,Low,Potential Loyalists,2992.88,3355.07,20.95
+878,0.005,Active,Low,Champions,2852.82,5980.71,14.26
+879,0.011,Active,Low,Potential Loyalists,1726.17,2448.6,18.99
+880,0.629,Active,High,About to Sleep,615.31,197.39,387.03
+881,0.005,Active,Low,Champions,1610.94,4295.11,8.05
+882,0.006,Active,Low,Champions,2385.11,4609.8,14.31
+883,0.004,Active,Low,Champions,6074.69,10165.13,24.3
+884,0.084,Active,Low,Potential Loyalists,896.08,674.35,75.27
+885,0.029,Active,Low,Potential Loyalists,3670.95,2602.8,106.46
+886,0.005,Active,Low,Champions,2553.46,4890.11,12.77
+887,0.061,Active,Low,Needs Attention,918.2,1133.71,56.01
+888,0.005,Active,Low,Potential Loyalists,5168.27,8689.01,25.84
+889,0.004,Active,Low,Champions,6404.7,12983.01,25.62
+890,0.22,Active,Medium,Needs Attention,1055.77,1068.91,232.27
+891,0.005,Active,Low,Champions,4996.01,7035.21,24.98
+892,,Already lapsed (56+ days),Lapsed,Lost,523.65,443.31,0.0
+893,0.005,Active,Low,Champions,4248.78,4729.01,21.24
+894,0.285,Active,Medium,Needs Attention,953.7,1095.29,271.8
+895,0.006,Active,Low,Champions,4899.95,8700.15,29.4
+896,0.005,Active,Low,Champions,2629.49,5274.46,13.15
+897,0.014,Active,Low,Potential Loyalists,1130.82,840.23,15.83
+898,0.004,Active,Low,Champions,5420.21,8355.23,21.68
+899,,Already lapsed (56+ days),Lapsed,Lost,614.14,315.15,0.0
+900,0.004,Active,Low,Champions,9888.87,16450.53,39.56
+901,0.018,Active,Low,Potential Loyalists,1709.75,2766.7,30.78
+902,,Already lapsed (56+ days),Lapsed,Lost,430.0,135.23,0.0
+903,0.006,Active,Low,Potential Loyalists,1757.98,2949.56,10.55
+904,0.084,Active,Low,New / Light Shoppers,1152.88,890.25,96.84
+905,0.194,Active,Medium,About to Sleep,986.15,851.93,191.31
+906,0.005,Active,Low,Champions,2908.38,7048.71,14.54
+907,0.006,Active,Low,Potential Loyalists,1741.76,1953.06,10.45
+908,0.006,Active,Low,Champions,2492.07,6097.47,14.95
+909,0.005,Active,Low,Champions,3135.04,12414.56,15.68
+910,,Already lapsed (56+ days),Lapsed,Lost,1397.97,1158.11,0.0
+911,0.011,Active,Low,Needs Attention,2338.37,3696.76,25.72
+912,,Already lapsed (56+ days),Lapsed,Lost,1183.98,1164.11,0.0
+913,0.008,Active,Low,Potential Loyalists,1642.64,1830.63,13.14
+914,0.005,Active,Low,Potential Loyalists,1705.57,1834.08,8.53
+915,0.008,Active,Low,Loyal,969.94,970.11,7.76
+916,0.005,Active,Low,Champions,4115.68,3764.6,20.58
+917,,Already lapsed (56+ days),Lapsed,Lost,541.54,488.48,0.0
+918,,Already lapsed (56+ days),Lapsed,At Risk (High Value),1036.85,3135.38,0.0
+919,0.006,Active,Low,Loyal,1455.37,1469.45,8.73
+920,0.005,Active,Low,Champions,5373.1,5887.36,26.87
+921,,Already lapsed (56+ days),Lapsed,Lost,395.53,101.3,0.0
+922,0.008,Active,Low,Champions,1655.49,3336.99,13.24
+923,0.008,Active,Low,Champions,1840.09,3305.54,14.72
+924,0.004,Active,Low,Potential Loyalists,1568.47,2336.18,6.27
+925,,Already lapsed (56+ days),Lapsed,Lost,548.93,485.24,0.0
+926,0.004,Active,Low,Champions,1954.42,7274.1,7.82
+927,0.072,Active,Low,Potential Loyalists,1174.0,1530.88,84.53
+928,0.007,Active,Low,Champions,1777.14,3571.7,12.44
+929,0.005,Active,Low,Champions,3205.31,5342.55,16.03
+930,0.038,Active,Low,Potential Loyalists,1034.36,966.88,39.31
+931,0.562,Active,High,At Risk (High Value),1969.11,4967.07,1106.64
+932,0.012,Active,Low,Loyal,1720.31,5845.96,20.64
+933,0.084,Active,Low,About to Sleep,1464.99,2175.19,123.06
+934,0.005,Active,Low,Champions,5762.64,10709.38,28.81
+935,0.063,Active,Low,Needs Attention,1112.96,1564.67,70.12
+936,0.008,Active,Low,Champions,2218.57,7089.49,17.75
+937,0.005,Active,Low,Potential Loyalists,1822.52,1669.89,9.11
+938,,Already lapsed (56+ days),Lapsed,Lost,1122.37,1647.36,0.0
+939,0.005,Active,Low,Champions,5037.43,5254.66,25.19
+940,0.068,Active,Low,About to Sleep,1173.18,1261.62,79.78
+941,0.01,Active,Low,Loyal,2031.26,2206.06,20.31
+942,0.2,Active,Medium,At Risk (High Value),1670.18,5890.14,334.04
+943,0.301,Active,High,At Risk (High Value),1690.9,3434.14,508.96
+944,0.005,Active,Low,Champions,1902.68,2859.76,9.51
+945,0.012,Active,Low,Potential Loyalists,2046.03,1926.03,24.55
+946,0.005,Active,Low,Loyal,2126.54,2530.45,10.63
+947,0.004,Active,Low,Loyal,1429.58,2305.51,5.72
+948,,Already lapsed (56+ days),Lapsed,Lost,508.91,304.85,0.0
+949,0.004,Active,Low,Champions,4606.24,5799.97,18.42
+950,,Already lapsed (56+ days),Lapsed,Lost,1414.49,2027.0,0.0
+951,0.059,Active,Low,New / Light Shoppers,1595.61,690.22,94.14
+952,0.005,Active,Low,Loyal,1726.92,2201.47,8.63
+953,0.01,Active,Low,Loyal,2199.86,2513.39,22.0
+954,0.023,Active,Low,Needs Attention,1808.03,2537.43,41.58
+955,0.005,Active,Low,Champions,2893.5,4053.69,14.47
+956,0.004,Active,Low,Champions,6110.48,10231.93,24.44
+957,0.007,Active,Low,Champions,1570.0,3754.9,10.99
+958,0.763,Active,High,New / Light Shoppers,603.95,313.37,460.81
+959,0.01,Active,Low,Potential Loyalists,1623.37,1074.69,16.23
+960,0.014,Active,Low,Loyal,1351.85,2447.49,18.93
+961,0.01,Active,Low,Potential Loyalists,2051.59,3956.27,20.52
+962,0.013,Active,Low,Needs Attention,1122.57,1530.44,14.59
+963,,Already lapsed (56+ days),Lapsed,Lost,1641.76,2036.66,0.0
+964,0.006,Active,Low,Potential Loyalists,2189.61,2044.85,13.14
+965,0.187,Active,Medium,Potential Loyalists,1227.72,1764.07,229.58
+966,,Already lapsed (56+ days),Lapsed,Lost,406.22,202.06,0.0
+967,0.906,Active,High,About to Sleep,593.94,299.38,538.11
+968,0.005,Active,Low,Champions,5317.17,9805.11,26.59
+969,0.08,Active,Low,Needs Attention,577.01,311.59,46.16
+970,0.24,Active,Medium,New / Light Shoppers,1082.78,691.45,259.87
+971,0.004,Active,Low,Champions,2146.77,3676.15,8.59
+972,0.004,Active,Low,Champions,1716.38,4219.18,6.87
+973,0.004,Active,Low,Potential Loyalists,5268.7,13486.32,21.07
+974,0.017,Active,Low,Potential Loyalists,1848.58,1993.06,31.43
+975,0.004,Active,Low,Champions,2835.87,4769.31,11.34
+976,0.005,Active,Low,Potential Loyalists,5466.74,6190.51,27.33
+977,0.061,Active,Low,Potential Loyalists,1070.47,1036.52,65.3
+978,0.006,Active,Low,Potential Loyalists,2269.67,3014.35,13.62
+979,0.005,Active,Low,Champions,6455.74,12854.66,32.28
+980,0.105,Active,Medium,New / Light Shoppers,1366.69,1330.22,143.5
+981,0.07,Active,Low,Needs Attention,1232.94,1394.11,86.31
+982,0.004,Active,Low,Champions,8233.22,18790.34,32.93
+983,0.005,Active,Low,Champions,2660.25,3807.15,13.3
+984,0.149,Active,Medium,Needs Attention,1194.16,1219.71,177.93
+985,0.005,Active,Low,Loyal,1925.83,2057.47,9.63
+986,0.016,Active,Low,Potential Loyalists,1388.41,1827.87,22.21
+987,0.043,Active,Low,Potential Loyalists,1192.27,2334.53,51.27
+988,0.005,Active,Low,Champions,1781.72,6109.18,8.91
+989,0.005,Active,Low,Champions,1883.95,4663.38,9.42
+990,,Already lapsed (56+ days),Lapsed,Lost,475.0,247.12,0.0
+991,0.778,Active,High,About to Sleep,992.25,1419.88,771.97
+992,0.015,Active,Low,Loyal,1440.82,823.35,21.61
+993,0.005,Active,Low,Champions,2078.96,3064.87,10.39
+994,0.177,Active,Medium,New / Light Shoppers,1060.14,581.45,187.64
+995,0.692,Active,High,New / Light Shoppers,1155.86,1217.16,799.86
+996,0.005,Active,Low,Loyal,1974.2,2220.85,9.87
+997,0.004,Active,Low,Potential Loyalists,2329.0,4646.81,9.32
+998,0.006,Active,Low,Champions,2022.59,8305.39,12.14
+999,0.033,Active,Low,Potential Loyalists,1643.75,2154.25,54.24
+1000,0.004,Active,Low,Champions,1617.19,4150.76,6.47
+1001,0.007,Active,Low,Potential Loyalists,3468.7,4082.0,24.28
+1002,0.028,Active,Low,New / Light Shoppers,1279.05,973.93,35.81
+1003,0.304,Active,High,Needs Attention,1145.36,2588.73,348.19
+1004,0.007,Active,Low,Champions,1709.6,3708.72,11.97
+1005,0.005,Active,Low,Loyal,1728.48,2470.09,8.64
+1006,0.696,Active,High,About to Sleep,608.58,161.48,423.57
+1007,0.008,Active,Low,Loyal,913.25,1368.97,7.31
+1008,0.046,Active,Low,Needs Attention,728.68,511.12,33.52
+1009,,Already lapsed (56+ days),Lapsed,Lost,410.72,125.52,0.0
+1010,0.004,Active,Low,Potential Loyalists,2147.06,2486.39,8.59
+1011,0.004,Active,Low,Champions,1726.02,3495.2,6.9
+1012,0.189,Active,Medium,At Risk (High Value),1412.05,2342.51,266.88
+1013,0.469,Active,High,Potential Loyalists,1002.67,947.03,470.25
+1014,0.009,Active,Low,Champions,1108.4,4199.76,9.98
+1015,0.005,Active,Low,Champions,1676.29,3807.72,8.38
+1016,,Already lapsed (56+ days),Lapsed,At Risk (High Value),2414.95,3089.84,0.0
+1017,0.019,Active,Low,Potential Loyalists,3079.67,3436.26,58.51
+1018,0.005,Active,Low,Loyal,1320.97,2138.59,6.6
+1019,0.021,Active,Low,Potential Loyalists,1333.44,1553.56,28.0
+1020,0.004,Active,Low,Champions,5857.68,9561.46,23.43
+1021,0.007,Active,Low,Loyal,1522.26,2086.12,10.66
+1022,,Already lapsed (56+ days),Lapsed,Lost,424.63,263.27,0.0
+1023,0.412,Active,High,Champions,21104.61,38319.79,8695.1
+1024,0.005,Active,Low,Champions,5024.48,9448.75,25.12
+1025,0.015,Active,Low,Needs Attention,2337.98,3552.13,35.07
+1026,,Already lapsed (56+ days),Lapsed,Lost,544.39,412.54,0.0
+1027,0.089,Active,Low,Potential Loyalists,1034.78,1064.99,92.1
+1028,,Already lapsed (56+ days),Lapsed,Lost,423.48,121.91,0.0
+1029,0.004,Active,Low,Champions,6110.69,13785.55,24.44
+1030,0.183,Active,Medium,About to Sleep,1056.7,1260.29,193.38
+1031,,Already lapsed (56+ days),Lapsed,At Risk (High Value),1368.31,4232.12,0.0
+1032,0.387,Active,High,About to Sleep,1246.42,2473.76,482.36
+1033,,Already lapsed (56+ days),Lapsed,Lost,1219.63,1366.97,0.0
+1034,0.071,Active,Low,Potential Loyalists,1121.44,840.87,79.62
+1035,,Already lapsed (56+ days),Lapsed,Lost,383.32,183.04,0.0
+1036,0.66,Active,High,About to Sleep,1275.0,1231.17,841.5
+1037,0.167,Active,Medium,Potential Loyalists,1254.22,1076.69,209.45
+1038,0.118,Active,Medium,Loyal,429.52,1602.0,50.68
+1039,0.005,Active,Low,Potential Loyalists,2590.8,5168.38,12.95
+1040,0.004,Active,Low,Champions,2245.29,5664.74,8.98
+1041,0.005,Active,Low,Champions,5283.87,7156.68,26.42
+1042,0.005,Active,Low,Champions,2767.32,5284.12,13.84
+1043,0.747,Active,High,About to Sleep,953.79,988.73,712.48
+1044,0.647,Active,High,New / Light Shoppers,650.68,423.51,420.99
+1045,0.005,Active,Low,Champions,1880.05,4893.11,9.4
+1046,0.008,Active,Low,Loyal,1428.0,4314.95,11.42
+1047,0.01,Active,Low,Potential Loyalists,981.4,1052.94,9.81
+1048,,Already lapsed (56+ days),Lapsed,At Risk (High Value),1290.59,1934.45,0.0
+1049,0.073,Active,Low,Potential Loyalists,913.3,698.06,66.67
+1050,0.004,Active,Low,Champions,4518.04,5134.89,18.07
+1051,0.035,Active,Low,Potential Loyalists,1767.63,2275.67,61.87
+1052,,Already lapsed (56+ days),Lapsed,Lost,566.92,231.66,0.0
+1053,0.004,Active,Low,Potential Loyalists,2757.26,4616.42,11.03
+1054,0.08,Active,Low,Needs Attention,857.74,1035.19,68.62
+1055,0.083,Active,Low,Potential Loyalists,876.15,1204.41,72.72
+1056,0.015,Active,Low,Potential Loyalists,1829.7,4871.09,27.45
+1057,0.004,Active,Low,Champions,5616.35,8219.34,22.47
+1058,0.008,Active,Low,Champions,1557.2,3280.18,12.46
+1059,,Already lapsed (56+ days),Lapsed,Lost,434.56,72.91,0.0
+1060,0.081,Active,Low,At Risk (High Value),1871.18,6096.93,151.57
+1061,0.005,Active,Low,Champions,6389.67,6211.67,31.95
+1062,0.008,Active,Low,Loyal,1147.32,1495.76,9.18
+1063,,Already lapsed (56+ days),Lapsed,Lost,906.84,1327.48,0.0
+1064,0.017,Active,Low,Potential Loyalists,2324.54,3074.68,39.52
+1065,0.006,Active,Low,Potential Loyalists,2893.91,5167.16,17.36
+1066,0.005,Active,Low,Champions,1507.81,3114.34,7.54
+1067,0.009,Active,Low,Potential Loyalists,5283.03,3741.92,47.55
+1068,0.052,Active,Low,Loyal,1342.38,1321.85,69.8
+1069,0.043,Active,Low,At Risk (High Value),2355.09,3433.27,101.27
+1070,0.004,Active,Low,Champions,2088.83,5187.13,8.36
+1071,0.005,Active,Low,Potential Loyalists,1721.92,2052.29,8.61
+1072,0.007,Active,Low,Potential Loyalists,1857.82,2694.8,13.0
+1073,0.004,Active,Low,Champions,2355.98,3014.08,9.42
+1074,0.005,Active,Low,Champions,5731.83,7769.22,28.66
+1075,0.045,Active,Low,Needs Attention,1106.68,1469.02,49.8
+1076,0.007,Active,Low,Potential Loyalists,1638.16,2241.01,11.47
+1077,0.015,Active,Low,Potential Loyalists,2584.57,1492.81,38.77
+1078,0.004,Active,Low,Champions,2599.37,6885.68,10.4
+1079,0.405,Active,High,About to Sleep,915.47,1001.3,370.77
+1080,0.086,Active,Low,Needs Attention,1459.97,2206.11,125.56
+1081,0.012,Active,Low,Champions,4987.38,10201.55,59.85
+1082,0.005,Active,Low,Loyal,1890.88,2032.54,9.45
+1083,0.054,Active,Low,Needs Attention,1189.31,1396.93,64.22
+1084,0.008,Active,Low,Loyal,1174.89,2363.16,9.4
+1085,0.012,Active,Low,Champions,1603.56,4806.0,19.24
+1086,0.071,Active,Low,New / Light Shoppers,1249.71,1188.61,88.73
+1087,0.257,Active,Medium,Loyal,1072.43,3010.24,275.61
+1088,0.008,Active,Low,Potential Loyalists,1173.33,1439.61,9.39
+1089,0.012,Active,Low,Potential Loyalists,2234.54,2404.98,26.81
+1090,0.476,Active,High,About to Sleep,769.74,307.87,366.4
+1091,0.999,Active,High,At Risk (High Value),2045.69,5617.4,2043.64
+1092,0.041,Active,Low,Potential Loyalists,1162.84,944.69,47.68
+1093,0.042,Active,Low,Potential Loyalists,1387.57,993.76,58.28
+1094,0.005,Active,Low,Potential Loyalists,3617.93,5935.57,18.09
+1095,,Already lapsed (56+ days),Lapsed,Lost,796.75,599.54,0.0
+1096,0.3,Active,High,Needs Attention,781.93,592.36,234.58
+1097,0.004,Active,Low,Champions,3084.66,8806.33,12.34
+1098,0.005,Active,Low,Champions,5601.45,9500.7,28.01
+1099,,Already lapsed (56+ days),Lapsed,Lost,727.99,683.13,0.0
+1100,0.346,Active,High,New / Light Shoppers,731.65,313.41,253.15
+1101,0.898,Active,High,About to Sleep,451.17,190.78,405.15
+1102,0.012,Active,Low,Needs Attention,1614.07,2263.4,19.37
+1103,0.005,Active,Low,Champions,2502.06,6104.19,12.51
+1104,0.007,Active,Low,Champions,1991.27,3378.16,13.94
+1105,0.171,Active,Medium,Needs Attention,1795.34,500.14,307.0
+1106,0.048,Active,Low,Potential Loyalists,1132.87,683.26,54.38
+1107,,Already lapsed (56+ days),Lapsed,Lost,967.15,877.32,0.0
+1108,0.389,Active,High,About to Sleep,498.48,292.1,193.91
+1109,0.017,Active,Low,Needs Attention,1501.9,3059.0,25.53
+1110,0.018,Active,Low,Champions,2761.54,5508.47,49.71
+1111,0.004,Active,Low,Champions,4953.26,18894.72,19.81
+1112,0.054,Active,Low,About to Sleep,1270.11,1889.45,68.59
+1113,0.005,Active,Low,Champions,2023.94,4391.3,10.12
+1114,0.033,Active,Low,Potential Loyalists,1668.03,970.95,55.04
+1115,0.131,Active,Medium,Potential Loyalists,1362.84,1828.64,178.53
+1116,0.032,Active,Low,Needs Attention,1646.62,2779.14,52.69
+1117,0.004,Active,Low,Champions,1510.82,3667.44,6.04
+1118,,Already lapsed (56+ days),Lapsed,Lost,919.68,945.89,0.0
+1119,0.009,Active,Low,Potential Loyalists,1633.71,2232.75,14.7
+1120,0.054,Active,Low,Potential Loyalists,1074.32,1737.84,58.01
+1121,0.041,Active,Low,About to Sleep,1530.94,2486.64,62.77
+1122,,Already lapsed (56+ days),Lapsed,Lost,1053.91,1236.98,0.0
+1123,0.062,Active,Low,At Risk (High Value),1960.62,3915.81,121.56
+1124,0.014,Active,Low,Potential Loyalists,1361.42,1896.39,19.06
+1125,0.064,Active,Low,Potential Loyalists,812.78,691.1,52.02
+1126,0.032,Active,Low,New / Light Shoppers,2327.99,2543.36,74.5
+1127,0.056,Active,Low,New / Light Shoppers,1764.66,1563.53,98.82
+1128,0.004,Active,Low,Champions,2142.91,3027.0,8.57
+1129,0.005,Active,Low,Potential Loyalists,2025.24,2401.41,10.13
+1130,0.005,Active,Low,Champions,4055.64,6563.15,20.28
+1131,0.006,Active,Low,Champions,2637.05,3034.77,15.82
+1132,0.025,Active,Low,Potential Loyalists,1570.53,2073.62,39.26
+1133,0.008,Active,Low,Loyal,1300.05,1377.66,10.4
+1134,0.049,Active,Low,Needs Attention,2365.98,5050.53,115.93
+1135,0.166,Active,Medium,Potential Loyalists,1173.32,748.88,194.77
+1136,0.007,Active,Low,Potential Loyalists,1788.02,1934.11,12.52
+1137,0.004,Active,Low,Loyal,1534.2,2121.89,6.14
+1138,0.005,Active,Low,Champions,2739.87,4546.37,13.7
+1139,0.006,Active,Low,Potential Loyalists,2666.93,7539.55,16.0
+1140,0.32,Active,High,About to Sleep,1740.68,1164.18,557.02
+1141,0.025,Active,Low,Needs Attention,1136.74,1137.28,28.42
+1142,0.004,Active,Low,Champions,8849.59,15178.96,35.4
+1143,,Already lapsed (56+ days),Lapsed,Lost,473.16,173.31,0.0
+1144,0.734,Active,High,New / Light Shoppers,515.67,187.09,378.5
+1145,0.021,Active,Low,Potential Loyalists,1718.27,3875.17,36.08
+1146,0.005,Active,Low,Champions,5774.75,8854.64,28.87
+1147,0.01,Active,Low,Potential Loyalists,3128.55,3779.36,31.29
+1148,0.298,Active,Medium,New / Light Shoppers,871.3,478.59,259.65
+1149,0.21,Active,Medium,About to Sleep,537.35,307.91,112.84
+1150,,Already lapsed (56+ days),Lapsed,Lost,816.49,845.39,0.0
+1151,0.004,Active,Low,Champions,2555.38,2808.91,10.22
+1152,0.048,Active,Low,Needs Attention,1094.51,1305.66,52.54
+1153,0.184,Active,Medium,Potential Loyalists,896.91,1142.86,165.03
+1154,0.005,Active,Low,Champions,2496.68,3803.55,12.48
+1155,0.015,Active,Low,Potential Loyalists,2488.04,2053.02,37.32
+1156,,Already lapsed (56+ days),Lapsed,Lost,923.95,999.33,0.0
+1157,0.171,Active,Medium,At Risk (High Value),1235.42,2779.86,211.26
+1158,0.009,Active,Low,Champions,1758.23,2903.2,15.82
+1159,0.006,Active,Low,Champions,2155.1,4468.63,12.93
+1160,0.005,Active,Low,Champions,2278.11,4377.96,11.39
+1161,0.027,Active,Low,Potential Loyalists,1193.53,1377.57,32.23
+1162,,Already lapsed (56+ days),Lapsed,Lost,656.27,431.76,0.0
+1163,0.021,Active,Low,Loyal,1583.2,4808.01,33.25
+1164,0.005,Active,Low,Champions,2369.21,4689.35,11.85
+1165,0.009,Active,Low,Potential Loyalists,1249.53,1413.52,11.25
+1166,0.005,Active,Low,Champions,5667.01,12300.62,28.34
+1167,0.004,Active,Low,Champions,3366.59,6798.79,13.47
+1168,0.017,Active,Low,Potential Loyalists,911.23,874.23,15.49
+1169,0.006,Active,Low,Champions,2325.17,5159.4,13.95
+1170,,Already lapsed (56+ days),Lapsed,Lost,499.86,68.45,0.0
+1171,0.051,Active,Low,Potential Loyalists,1313.5,996.6,66.99
+1172,0.004,Active,Low,Champions,3797.93,4569.24,15.19
+1173,,Already lapsed (56+ days),Lapsed,Lost,838.67,655.77,0.0
+1174,0.014,Active,Low,Loyal,1677.32,2156.65,23.48
+1175,0.005,Active,Low,Champions,4538.31,7403.51,22.69
+1176,0.071,Active,Low,New / Light Shoppers,844.96,240.85,59.99
+1177,0.096,Active,Low,New / Light Shoppers,850.01,337.97,81.6
+1178,0.005,Active,Low,Champions,3449.73,5022.28,17.25
+1179,0.005,Active,Low,Champions,6113.24,9428.4,30.57
+1180,0.005,Active,Low,Champions,1974.12,5430.04,9.87
+1181,0.083,Active,Low,Potential Loyalists,1043.02,2196.58,86.57
+1182,0.131,Active,Medium,Loyal,1130.29,1966.38,148.07
+1183,0.814,Active,High,About to Sleep,819.97,260.04,667.46
+1184,0.729,Active,High,Needs Attention,1039.62,713.9,757.88
+1185,0.016,Active,Low,Potential Loyalists,2317.96,1334.18,37.09
+1186,0.005,Active,Low,Potential Loyalists,5580.06,6060.38,27.9
+1187,0.009,Active,Low,Champions,2317.16,2996.18,20.85
+1188,0.005,Active,Low,Champions,3979.38,3722.22,19.9
+1189,0.041,Active,Low,Potential Loyalists,1019.4,954.21,41.8
+1190,0.005,Active,Low,Champions,1997.51,3327.02,9.99
+1191,0.004,Active,Low,Potential Loyalists,2003.1,2485.87,8.01
+1192,0.005,Active,Low,Potential Loyalists,2020.88,1482.54,10.1
+1193,0.011,Active,Low,Champions,930.1,4723.65,10.23
+1194,0.009,Active,Low,Potential Loyalists,1220.19,1276.74,10.98
+1195,0.017,Active,Low,Potential Loyalists,1656.32,1271.09,28.16
+1196,0.13,Active,Medium,About to Sleep,1917.34,1915.95,249.25
+1197,0.005,Active,Low,Champions,5975.97,7988.73,29.88
+1198,0.085,Active,Low,Needs Attention,918.28,1004.6,78.05
+1199,,Already lapsed (56+ days),Lapsed,Lost,569.02,163.57,0.0
+1200,0.163,Active,Medium,Needs Attention,1344.4,1619.45,219.14
+1201,0.159,Active,Medium,Needs Attention,818.15,537.6,130.09
+1202,0.281,Active,Medium,Needs Attention,1032.84,587.47,290.23
+1203,0.004,Active,Low,Champions,3773.71,6385.44,15.09
+1204,0.007,Active,Low,Potential Loyalists,1343.03,2043.13,9.4
+1205,0.178,Active,Medium,At Risk (High Value),1432.37,4383.72,254.96
+1206,0.015,Active,Low,Champions,1737.59,6172.13,26.06
+1207,0.016,Active,Low,Loyal,812.97,765.37,13.01
+1208,0.031,Active,Low,Needs Attention,1236.57,1078.06,38.33
+1209,0.064,Active,Low,New / Light Shoppers,958.53,361.42,61.35
+1210,0.083,Active,Low,Needs Attention,1178.68,921.33,97.83
+1211,0.004,Active,Low,Champions,5382.84,9045.04,21.53
+1212,0.37,Active,High,Needs Attention,536.74,195.27,198.59
+1213,0.217,Active,Medium,Potential Loyalists,864.06,622.22,187.5
+1214,0.916,Active,High,About to Sleep,569.3,122.95,521.48
+1215,0.37,Active,High,Needs Attention,1404.28,786.45,519.58
+1216,0.005,Active,Low,Champions,1358.63,5303.53,6.79
+1217,0.007,Active,Low,Potential Loyalists,2898.73,2656.9,20.29
+1218,0.006,Active,Low,Potential Loyalists,2062.35,3093.53,12.37
+1219,0.008,Active,Low,Loyal,1481.93,823.08,11.86
+1220,,Already lapsed (56+ days),Lapsed,Lost,739.9,787.04,0.0
+1221,0.246,Active,Medium,About to Sleep,1168.06,652.34,287.34
+1222,0.005,Active,Low,Champions,1309.83,5833.39,6.55
+1223,0.025,Active,Low,Needs Attention,1757.09,1743.69,43.93
+1224,0.005,Active,Low,Potential Loyalists,1757.2,2363.78,8.79
+1225,0.03,Active,Low,Needs Attention,1220.34,1415.38,36.61
+1226,0.006,Active,Low,Potential Loyalists,4245.56,6237.46,25.47
+1227,0.005,Active,Low,Potential Loyalists,2844.21,3810.36,14.22
+1228,0.005,Active,Low,Champions,7427.1,14503.89,37.14
+1229,0.004,Active,Low,Champions,10528.56,18304.31,42.11
+1230,0.326,Active,High,Needs Attention,552.49,258.53,180.11
+1231,0.009,Active,Low,Potential Loyalists,1647.54,1919.79,14.83
+1232,,Already lapsed (56+ days),Lapsed,Lost,533.71,488.49,0.0
+1233,0.441,Active,High,Needs Attention,1361.99,1778.52,600.64
+1234,0.005,Active,Low,Potential Loyalists,3272.35,5547.83,16.36
+1235,0.132,Active,Medium,New / Light Shoppers,1217.61,894.0,160.72
+1236,0.007,Active,Low,Champions,1120.98,3993.01,7.85
+1237,,Already lapsed (56+ days),Lapsed,Lost,1223.02,1051.16,0.0
+1238,0.01,Active,Low,Potential Loyalists,1759.53,4678.61,17.6
+1239,0.2,Active,Medium,New / Light Shoppers,1666.31,2068.5,333.26
+1240,0.005,Active,Low,Champions,9059.54,11250.07,45.3
+1241,0.011,Active,Low,Potential Loyalists,2658.99,2041.45,29.25
+1242,0.064,Active,Low,Potential Loyalists,925.78,830.11,59.25
+1243,,Already lapsed (56+ days),Lapsed,Lost,456.53,249.7,0.0
+1244,0.132,Active,Medium,Potential Loyalists,877.33,603.45,115.81
+1245,0.004,Active,Low,Champions,3312.06,4469.27,13.25
+1246,0.005,Active,Low,Potential Loyalists,2710.57,5428.25,13.55
+1247,0.005,Active,Low,Champions,3960.74,6639.95,19.8
+1248,0.004,Active,Low,Champions,2768.87,9091.29,11.08
+1249,0.058,Active,Low,New / Light Shoppers,1139.6,491.62,66.1
+1250,0.068,Active,Low,New / Light Shoppers,701.26,203.17,47.69
+1251,,Already lapsed (56+ days),Lapsed,Lost,458.97,325.77,0.0
+1252,0.043,Active,Low,Needs Attention,1318.57,1152.78,56.7
+1253,,Already lapsed (56+ days),Lapsed,Lost,766.09,570.15,0.0
+1254,,Already lapsed (56+ days),Lapsed,Lost,508.01,252.31,0.0
+1255,0.116,Active,Medium,Needs Attention,799.18,522.3,92.7
+1256,0.005,Active,Low,Champions,2532.98,5274.32,12.66
+1257,0.033,Active,Low,New / Light Shoppers,1810.56,1389.12,59.75
+1258,0.005,Active,Low,Champions,2494.23,3502.45,12.47
+1259,0.142,Active,Medium,About to Sleep,1030.83,1163.62,146.38
+1260,0.004,Active,Low,Champions,4935.01,11200.8,19.74
+1261,0.005,Active,Low,Champions,1975.68,3777.98,9.88
+1262,0.735,Active,High,About to Sleep,738.02,769.72,542.44
+1263,0.098,Active,Low,At Risk (High Value),1175.6,5257.44,115.21
+1264,0.009,Active,Low,Champions,2327.3,6458.78,20.95
+1265,0.024,Active,Low,Potential Loyalists,1123.4,1409.87,26.96
+1266,0.009,Active,Low,Loyal,1389.91,1657.11,12.51
+1267,0.013,Active,Low,Potential Loyalists,1365.0,1689.84,17.74
+1268,0.012,Active,Low,Potential Loyalists,1533.16,3013.56,18.4
+1269,0.005,Active,Low,Loyal,1671.57,2595.17,8.36
+1270,0.009,Active,Low,Potential Loyalists,2476.16,3455.32,22.29
+1271,0.005,Active,Low,Champions,2632.97,4155.52,13.16
+1272,0.004,Active,Low,Champions,4060.39,10019.45,16.24
+1273,0.089,Active,Low,New / Light Shoppers,785.94,265.04,69.95
+1274,0.004,Active,Low,Champions,5109.57,12503.24,20.44
+1275,,Already lapsed (56+ days),Lapsed,Lost,527.67,137.63,0.0
+1276,0.224,Active,Medium,New / Light Shoppers,877.6,623.45,196.58
+1277,0.005,Active,Low,Champions,2157.85,5900.81,10.79
+1278,0.112,Active,Medium,New / Light Shoppers,938.24,738.34,105.08
+1279,0.005,Active,Low,Champions,2265.6,4793.38,11.33
+1280,0.226,Active,Medium,Needs Attention,780.09,427.63,176.3
+1281,0.053,Active,Low,Needs Attention,1428.21,788.4,75.7
+1282,0.014,Active,Low,Loyal,3401.05,5957.48,47.61
+1283,0.017,Active,Low,Potential Loyalists,696.51,332.46,11.84
+1284,0.005,Active,Low,Loyal,2321.3,1974.49,11.61
+1285,0.005,Active,Low,Champions,3017.27,5048.59,15.09
+1286,,Already lapsed (56+ days),Lapsed,Lost,700.79,595.0,0.0
+1287,0.006,Active,Low,Champions,1276.58,2818.0,7.66
+1288,0.039,Active,Low,Potential Loyalists,1351.64,1896.5,52.71
+1289,0.005,Active,Low,Loyal,1728.78,1512.08,8.64
+1290,0.059,Active,Low,Potential Loyalists,1335.94,1060.24,78.82
+1291,0.005,Active,Low,Champions,2003.5,3290.01,10.02
+1292,0.222,Active,Medium,Needs Attention,759.27,520.32,168.56
+1293,0.004,Active,Low,Loyal,2100.56,2762.8,8.4
+1294,0.005,Active,Low,Potential Loyalists,2746.58,4829.32,13.73
+1295,0.027,Active,Low,Potential Loyalists,1610.29,1637.41,43.48
+1296,0.02,Active,Low,Potential Loyalists,1538.45,2124.43,30.77
+1297,0.005,Active,Low,Loyal,3542.96,2733.08,17.71
+1298,0.009,Active,Low,Potential Loyalists,1561.21,1487.99,14.05
+1299,0.005,Active,Low,Champions,3665.37,5959.57,18.33
+1300,0.006,Active,Low,Potential Loyalists,3773.55,2959.65,22.64
+1301,0.116,Active,Medium,Potential Loyalists,1058.71,1494.22,122.81
+1302,0.059,Active,Low,Potential Loyalists,1031.5,757.95,60.86
+1303,0.005,Active,Low,Champions,3826.43,6344.09,19.13
+1304,0.007,Active,Low,Potential Loyalists,1168.73,899.49,8.18
+1305,0.606,Active,High,At Risk (High Value),1073.11,7552.93,650.3
+1306,0.005,Active,Low,Champions,2152.61,3041.67,10.76
+1307,0.011,Active,Low,Loyal,1363.68,2049.58,15.0
+1308,,Already lapsed (56+ days),Lapsed,Lost,524.14,320.58,0.0
+1309,,Already lapsed (56+ days),Lapsed,Lost,438.53,158.48,0.0
+1310,0.101,Active,Medium,Needs Attention,859.9,857.98,86.85
+1311,,Already lapsed (56+ days),Lapsed,Lost,723.17,685.63,0.0
+1312,0.008,Active,Low,Champions,1198.64,5055.88,9.59
+1313,0.031,Active,Low,New / Light Shoppers,1237.0,1030.97,38.35
+1314,0.004,Active,Low,Champions,5627.47,14330.4,22.51
+1315,,Already lapsed (56+ days),Lapsed,Lost,958.14,645.36,0.0
+1316,0.015,Active,Low,Needs Attention,2191.96,3736.48,32.88
+1317,0.009,Active,Low,Champions,874.11,4065.24,7.87
+1318,0.007,Active,Low,Potential Loyalists,3657.45,5583.96,25.6
+1319,0.174,Active,Medium,About to Sleep,895.29,1059.79,155.78
+1320,0.383,Active,High,New / Light Shoppers,774.83,360.43,296.76
+1321,0.005,Active,Low,Loyal,1738.87,1888.13,8.69
+1322,0.812,Active,High,Needs Attention,556.56,260.65,451.93
+1323,0.651,Active,High,New / Light Shoppers,549.35,297.05,357.63
+1324,0.012,Active,Low,Potential Loyalists,2763.55,2667.23,33.16
+1325,0.012,Active,Low,Potential Loyalists,2934.32,2835.99,35.21
+1326,0.005,Active,Low,Champions,4620.71,8831.21,23.1
+1327,,Already lapsed (56+ days),Lapsed,Lost,717.01,477.17,0.0
+1328,0.006,Active,Low,Potential Loyalists,3058.64,2544.89,18.35
+1329,0.83,Active,High,New / Light Shoppers,1436.85,1546.05,1192.59
+1330,0.019,Active,Low,Potential Loyalists,1509.06,2177.55,28.67
+1331,0.143,Active,Medium,At Risk (High Value),1085.14,1821.03,155.18
+1332,0.015,Active,Low,Potential Loyalists,1521.09,2047.26,22.82
+1333,0.005,Active,Low,Champions,4523.21,7709.85,22.62
+1334,0.049,Active,Low,Potential Loyalists,1118.22,629.58,54.79
+1335,0.154,Active,Medium,Needs Attention,1089.16,978.87,167.73
+1336,0.005,Active,Low,Champions,3645.32,6035.21,18.23
+1337,0.005,Active,Low,Champions,6200.13,11500.76,31.0
+1338,0.016,Active,Low,Loyal,2576.07,1783.98,41.22
+1339,0.334,Active,High,New / Light Shoppers,750.88,390.16,250.79
+1340,0.155,Active,Medium,Needs Attention,716.66,512.53,111.08
+1341,,Already lapsed (56+ days),Lapsed,Lost,532.83,434.77,0.0
+1342,0.651,Active,High,About to Sleep,574.02,160.02,373.69
+1343,0.88,Active,High,About to Sleep,691.07,267.19,608.14
+1344,0.077,Active,Low,Needs Attention,2347.93,2728.78,180.79
+1345,0.042,Active,Low,Needs Attention,926.63,1348.56,38.92
+1346,0.008,Active,Low,Potential Loyalists,1218.48,1174.31,9.75
+1347,0.004,Active,Low,Champions,3528.33,3360.34,14.11
+1348,,Already lapsed (56+ days),Lapsed,Lost,504.95,324.22,0.0
+1349,0.027,Active,Low,Champions,1148.22,5380.22,31.0
+1350,0.01,Active,Low,Loyal,2239.26,2568.6,22.39
+1351,0.034,Active,Low,Potential Loyalists,712.99,564.4,24.24
+1352,0.004,Active,Low,Champions,2521.24,5398.95,10.08
+1353,0.009,Active,Low,Champions,1752.9,4019.91,15.78
+1354,0.005,Active,Low,Potential Loyalists,2181.9,2534.76,10.91
+1355,0.093,Active,Low,New / Light Shoppers,1743.98,547.82,162.19
+1356,0.007,Active,Low,Potential Loyalists,1546.79,2239.34,10.83
+1357,0.008,Active,Low,Potential Loyalists,1801.81,3061.9,14.41
+1358,0.027,Active,Low,Loyal,3371.11,2466.68,91.02
+1359,0.046,Active,Low,Potential Loyalists,1032.04,1192.68,47.47
+1360,0.306,Active,High,About to Sleep,806.24,630.19,246.71
+1361,0.464,Active,High,New / Light Shoppers,1341.21,608.58,622.32
+1362,0.019,Active,Low,Needs Attention,1141.71,1418.76,21.69
+1363,0.013,Active,Low,Potential Loyalists,2698.44,4075.4,35.08
+1364,0.013,Active,Low,Loyal,1490.14,2466.05,19.37
+1365,,Already lapsed (56+ days),Lapsed,Lost,561.49,103.65,0.0
+1366,0.005,Active,Low,Champions,2014.97,4242.62,10.07
+1367,0.005,Active,Low,Champions,6961.83,12125.48,34.81
+1368,0.019,Active,Low,Potential Loyalists,2694.99,2766.97,51.2
+1369,0.004,Active,Low,Champions,2491.74,3105.71,9.97
+1370,0.005,Active,Low,Potential Loyalists,5404.57,8531.89,27.02
+1371,,Already lapsed (56+ days),Lapsed,Lost,767.26,835.71,0.0
+1372,0.445,Active,High,About to Sleep,1227.29,1337.07,546.14
+1373,0.019,Active,Low,Potential Loyalists,961.06,657.52,18.26
+1374,0.008,Active,Low,Champions,1560.91,2841.56,12.49
+1375,0.005,Active,Low,Champions,1907.88,3745.41,9.54
+1376,0.005,Active,Low,Champions,6266.85,11041.41,31.33
+1377,0.549,Active,High,Potential Loyalists,890.29,791.34,488.77
+1378,0.004,Active,Low,Champions,4741.92,6933.72,18.97
+1379,0.005,Active,Low,Champions,8336.28,13995.22,41.68
+1380,0.248,Active,Medium,About to Sleep,528.32,349.81,131.02
+1381,0.303,Active,High,Potential Loyalists,515.47,134.4,156.19
+1382,0.019,Active,Low,Champions,1279.89,3082.47,24.32
+1383,0.02,Active,Low,Loyal,1336.03,1532.65,26.72
+1384,0.087,Active,Low,Needs Attention,935.66,827.46,81.4
+1385,0.013,Active,Low,Loyal,2403.57,5637.51,31.25
+1386,0.869,Active,High,About to Sleep,499.05,111.15,433.67
+1387,0.008,Active,Low,Potential Loyalists,1686.91,2057.95,13.5
+1388,0.007,Active,Low,Champions,2436.33,6949.16,17.05
+1389,0.027,Active,Low,Potential Loyalists,2324.56,2841.16,62.76
+1390,0.006,Active,Low,Champions,2694.4,4879.86,16.17
+1391,0.005,Active,Low,Champions,4839.18,8105.74,24.2
+1392,0.311,Active,High,At Risk (High Value),1134.65,2315.07,352.88
+1393,0.004,Active,Low,Champions,5084.92,5950.89,20.34
+1394,0.005,Active,Low,Champions,2373.42,4391.58,11.87
+1395,0.04,Active,Low,Potential Loyalists,1411.2,1142.42,56.45
+1396,,Already lapsed (56+ days),Lapsed,At Risk (High Value),1462.42,7177.06,0.0
+1397,0.005,Active,Low,Champions,4314.37,5707.6,21.57
+1398,0.198,Active,Medium,Needs Attention,842.07,404.96,166.73
+1399,0.017,Active,Low,Potential Loyalists,1236.17,1032.63,21.01
+1400,0.365,Active,High,New / Light Shoppers,632.8,284.31,230.97
+1401,0.145,Active,Medium,Needs Attention,850.45,587.37,123.32
+1402,0.043,Active,Low,Loyal,899.99,2245.76,38.7
+1403,0.44,Active,High,Loyal,1276.0,3673.26,561.44
+1404,0.015,Active,Low,Potential Loyalists,1392.44,1248.19,20.89
+1405,0.025,Active,Low,Potential Loyalists,2593.8,2480.88,64.85
+1406,0.004,Active,Low,Champions,2820.39,3790.44,11.28
+1407,0.055,Active,Low,Potential Loyalists,1987.24,1615.94,109.3
+1408,0.044,Active,Low,Needs Attention,823.93,1055.29,36.25
+1409,0.004,Active,Low,Potential Loyalists,2381.84,4324.03,9.53
+1410,0.206,Active,Medium,Needs Attention,1604.92,2525.94,330.61
+1411,,Already lapsed (56+ days),Lapsed,Lost,440.12,131.52,0.0
+1412,0.006,Active,Low,Potential Loyalists,2869.78,4053.15,17.22
+1413,0.094,Active,Low,New / Light Shoppers,626.26,344.06,58.87
+1414,0.11,Active,Medium,New / Light Shoppers,936.8,274.03,103.05
+1415,0.164,Active,Medium,New / Light Shoppers,549.69,271.41,90.15
+1416,0.071,Active,Low,Needs Attention,483.38,91.65,34.32
+1417,0.015,Active,Low,Potential Loyalists,2278.91,3703.93,34.18
+1418,0.004,Active,Low,Potential Loyalists,2035.47,2735.2,8.14
+1419,0.005,Active,Low,Champions,3057.88,7634.56,15.29
+1420,,Already lapsed (56+ days),Lapsed,At Risk (High Value),1593.2,3891.97,0.0
+1421,0.005,Active,Low,Champions,3085.53,5535.2,15.43
+1422,0.104,Active,Medium,New / Light Shoppers,1192.17,481.77,123.99
+1423,0.034,Active,Low,Loyal,860.17,1695.76,29.25
+1424,,Already lapsed (56+ days),Lapsed,Lost,747.8,595.22,0.0
+1425,0.005,Active,Low,Champions,1856.86,3828.6,9.28
+1426,0.055,Active,Low,Potential Loyalists,1420.71,2330.87,78.14
+1427,0.015,Active,Low,Potential Loyalists,3865.4,2640.47,57.98
+1428,0.005,Active,Low,Champions,2194.81,4911.53,10.97
+1429,0.011,Active,Low,Potential Loyalists,965.99,818.56,10.63
+1430,0.004,Active,Low,Champions,9421.35,20352.99,37.69
+1431,0.004,Active,Low,Loyal,1636.32,2718.4,6.55
+1432,0.226,Active,Medium,New / Light Shoppers,779.38,336.95,176.14
+1433,0.317,Active,High,Needs Attention,548.55,70.04,173.89
+1434,0.005,Active,Low,Champions,2494.84,4160.33,12.47
+1435,,Already lapsed (56+ days),Lapsed,Lost,562.85,511.78,0.0
+1436,,Already lapsed (56+ days),Lapsed,Lost,422.91,134.89,0.0
+1437,0.014,Active,Low,Loyal,1785.09,4775.56,24.99
+1438,0.048,Active,Low,Potential Loyalists,1802.75,2130.77,86.53
+1439,0.814,Active,High,About to Sleep,724.4,555.56,589.66
+1440,0.007,Active,Low,Loyal,2389.7,2551.58,16.73
+1441,,Already lapsed (56+ days),Lapsed,Lost,630.65,401.47,0.0
+1442,0.426,Active,High,Needs Attention,740.86,312.5,315.61
+1443,0.005,Active,Low,Loyal,1380.6,2221.48,6.9
+1444,,Already lapsed (56+ days),Lapsed,Lost,497.87,323.99,0.0
+1445,0.005,Active,Low,Champions,4212.56,5130.59,21.06
+1446,0.033,Active,Low,Potential Loyalists,1678.13,2095.83,55.38
+1447,0.075,Active,Low,Potential Loyalists,964.9,604.95,72.37
+1448,,Already lapsed (56+ days),Lapsed,Lost,1018.18,1927.33,0.0
+1449,,Already lapsed (56+ days),Lapsed,Lost,484.58,405.83,0.0
+1450,0.05,Active,Low,Needs Attention,1018.36,1647.2,50.92
+1451,0.005,Active,Low,Champions,4678.79,6700.05,23.39
+1452,0.022,Active,Low,Loyal,857.35,1884.05,18.86
+1453,0.005,Active,Low,Champions,10118.84,21661.29,50.59
+1454,0.005,Active,Low,Champions,4749.21,4934.0,23.75
+1455,,Already lapsed (56+ days),Lapsed,Lost,926.42,820.18,0.0
+1456,0.203,Active,Medium,Needs Attention,949.31,1506.5,192.71
+1457,0.058,Active,Low,Needs Attention,2614.99,2667.34,151.67
+1458,0.005,Active,Low,Champions,2846.29,3480.63,14.23
+1459,0.006,Active,Low,Potential Loyalists,4224.75,4769.04,25.35
+1460,,Already lapsed (56+ days),Lapsed,Lost,1288.97,2455.68,0.0
+1461,0.004,Active,Low,Champions,4336.85,7246.2,17.35
+1462,0.005,Active,Low,Champions,3326.55,4830.0,16.63
+1463,0.007,Active,Low,Champions,1552.76,3460.15,10.87
+1464,0.054,Active,Low,About to Sleep,1256.36,2474.4,67.84
+1465,0.031,Active,Low,Potential Loyalists,997.19,1038.52,30.91
+1466,0.1,Active,Medium,Potential Loyalists,944.38,1029.47,94.44
+1467,0.005,Active,Low,Champions,2945.95,2957.82,14.73
+1468,,Already lapsed (56+ days),Lapsed,At Risk (High Value),1803.05,4131.73,0.0
+1469,,Already lapsed (56+ days),Lapsed,Lost,901.68,1160.0,0.0
+1470,0.008,Active,Low,Loyal,1950.21,1991.33,15.6
+1471,0.191,Active,Medium,About to Sleep,625.47,486.72,119.46
+1472,,Already lapsed (56+ days),Lapsed,Lost,418.15,269.54,0.0
+1473,0.004,Active,Low,Champions,2743.69,4339.15,10.97
+1474,0.01,Active,Low,Potential Loyalists,2424.76,2445.87,24.25
+1475,0.005,Active,Low,Champions,8544.75,14855.21,42.72
+1476,0.004,Active,Low,Champions,5399.72,9481.75,21.6
+1477,0.159,Active,Medium,About to Sleep,453.17,279.2,72.05
+1478,,Already lapsed (56+ days),Lapsed,Lost,488.27,88.59,0.0
+1479,0.004,Active,Low,Champions,6304.3,9129.23,25.22
+1480,0.32,Active,High,About to Sleep,410.52,152.21,131.37
+1481,0.005,Active,Low,Champions,2021.51,3298.77,10.11
+1482,,Already lapsed (56+ days),Lapsed,Lost,863.34,1042.35,0.0
+1483,0.009,Active,Low,Champions,2922.59,4725.27,26.3
+1484,0.005,Active,Low,Champions,2311.26,3209.39,11.56
+1485,0.009,Active,Low,Needs Attention,1525.54,2187.88,13.73
+1486,0.383,Active,High,New / Light Shoppers,982.7,548.32,376.37
+1487,0.029,Active,Low,Potential Loyalists,2604.78,1471.28,75.54
+1488,0.009,Active,Low,Needs Attention,2668.25,3246.92,24.01
+1489,0.005,Active,Low,Champions,8047.11,17251.53,40.24
+1490,0.005,Active,Low,Champions,2523.74,5064.7,12.62
+1491,0.004,Active,Low,Champions,3274.48,5635.97,13.1
+1492,0.011,Active,Low,Potential Loyalists,1142.9,1226.29,12.57
+1493,0.165,Active,Medium,New / Light Shoppers,1109.37,943.13,183.05
+1494,0.008,Active,Low,Potential Loyalists,1563.79,2595.09,12.51
+1495,0.007,Active,Low,Loyal,1131.54,1779.86,7.92
+1496,0.881,Active,High,About to Sleep,1055.63,852.95,930.01
+1497,0.298,Active,Medium,Needs Attention,848.22,527.3,252.77
+1498,0.283,Active,Medium,About to Sleep,893.45,960.18,252.85
+1499,0.006,Active,Low,Potential Loyalists,1701.18,2106.09,10.21
+1500,0.068,Active,Low,Potential Loyalists,1099.1,1051.12,74.74
+1501,0.005,Active,Low,Champions,4880.27,8490.73,24.4
+1502,0.329,Active,High,About to Sleep,1512.7,2160.82,497.68
+1503,0.271,Active,Medium,About to Sleep,479.13,117.69,129.84
+1504,,Already lapsed (56+ days),Lapsed,Lost,561.03,66.33,0.0
+1505,,Already lapsed (56+ days),Lapsed,At Risk (High Value),1240.37,4053.23,0.0
+1506,0.005,Active,Low,Loyal,1498.7,2387.73,7.49
+1507,0.093,Active,Low,New / Light Shoppers,2559.81,1499.37,238.06
+1508,0.179,Active,Medium,About to Sleep,1322.18,1849.2,236.67
+1509,0.004,Active,Low,Champions,2823.31,6452.83,11.29
+1510,0.004,Active,Low,Champions,7275.23,11211.37,29.1
+1511,0.005,Active,Low,Champions,1901.97,3740.16,9.51
+1512,0.009,Active,Low,Potential Loyalists,1277.47,1674.23,11.5
+1513,0.014,Active,Low,Potential Loyalists,1002.02,931.89,14.03
+1514,0.01,Active,Low,Potential Loyalists,1344.63,2355.31,13.45
+1515,0.019,Active,Low,Champions,1172.76,4158.2,22.28
+1516,,Already lapsed (56+ days),Lapsed,Lost,418.82,189.66,0.0
+1517,0.005,Active,Low,Champions,2518.31,3871.04,12.59
+1518,0.31,Active,High,About to Sleep,1076.78,1373.77,333.8
+1519,0.102,Active,Medium,Needs Attention,3259.42,2425.66,332.46
+1520,0.004,Active,Low,Champions,1956.24,3839.36,7.82
+1521,0.304,Active,High,About to Sleep,771.2,753.95,234.44
+1522,,Already lapsed (56+ days),Lapsed,Lost,876.91,1086.56,0.0
+1523,0.787,Active,High,About to Sleep,1111.73,1668.3,874.93
+1524,0.006,Active,Low,Potential Loyalists,2190.84,2800.81,13.15
+1525,0.09,Active,Low,Needs Attention,2405.14,1645.25,216.46
+1526,0.005,Active,Low,Champions,1740.96,2901.09,8.7
+1527,0.004,Active,Low,Champions,8930.09,17295.18,35.72
+1528,0.005,Active,Low,Champions,5431.15,8086.55,27.16
+1529,0.005,Active,Low,Champions,4887.04,9025.41,24.44
+1530,0.026,Active,Low,Potential Loyalists,983.48,879.93,25.57
+1531,0.031,Active,Low,Potential Loyalists,1029.87,978.91,31.93
+1532,0.639,Active,High,About to Sleep,1257.13,1916.02,803.31
+1533,0.412,Active,High,New / Light Shoppers,693.58,255.24,285.75
+1534,0.005,Active,Low,Champions,5736.02,8449.68,28.68
+1535,0.005,Active,Low,Champions,5673.67,8453.65,28.37
+1536,0.004,Active,Low,Champions,3009.62,6960.19,12.04
+1537,0.036,Active,Low,Loyal,1226.5,2878.58,44.15
+1538,0.492,Active,High,New / Light Shoppers,766.97,504.92,377.35
+1539,0.164,Active,Medium,About to Sleep,542.89,79.41,89.03
+1540,0.005,Active,Low,Champions,1889.36,3598.69,9.45
+1541,0.005,Active,Low,Champions,4917.63,7743.35,24.59
+1542,0.012,Active,Low,Loyal,1203.96,1969.93,14.45
+1543,0.055,Active,Low,Needs Attention,1495.89,2612.4,82.27
+1544,0.168,Active,Medium,Needs Attention,1229.74,2457.93,206.6
+1545,0.005,Active,Low,Champions,1624.12,3948.53,8.12
+1546,0.005,Active,Low,Champions,2879.74,4095.37,14.4
+1547,0.006,Active,Low,Loyal,2872.98,2222.05,17.24
+1548,0.005,Active,Low,Champions,2606.37,3850.53,13.03
+1549,0.005,Active,Low,Loyal,1392.09,1988.91,6.96
+1550,0.014,Active,Low,Loyal,2395.62,2542.45,33.54
+1551,0.622,Active,High,Needs Attention,954.67,800.11,593.8
+1552,0.036,Active,Low,Needs Attention,1210.55,1084.76,43.58
+1553,0.617,Active,High,Needs Attention,745.99,140.84,460.28
+1554,0.695,Active,High,Potential Loyalists,1059.93,982.76,736.65
+1555,0.024,Active,Low,Potential Loyalists,866.73,1446.54,20.8
+1556,0.005,Active,Low,Champions,1993.98,3799.8,9.97
+1557,0.004,Active,Low,Champions,1704.47,6528.36,6.82
+1558,0.006,Active,Low,Champions,1639.12,4487.1,9.83
+1559,0.038,Active,Low,Potential Loyalists,2601.93,2725.42,98.87
+1560,0.022,Active,Low,Potential Loyalists,1487.52,1209.04,32.73
+1561,,Already lapsed (56+ days),Lapsed,Lost,579.42,401.41,0.0
+1562,0.056,Active,Low,Potential Loyalists,1409.71,1198.02,78.94
+1563,0.007,Active,Low,Champions,4004.58,4754.88,28.03
+1564,0.273,Active,Medium,About to Sleep,576.97,437.77,157.51
+1565,,Already lapsed (56+ days),Lapsed,Lost,623.97,447.91,0.0
+1566,0.005,Active,Low,Champions,8670.77,10567.71,43.35
+1567,0.006,Active,Low,Loyal,1219.85,2124.23,7.32
+1568,0.005,Active,Low,Potential Loyalists,2957.06,4575.94,14.79
+1569,0.029,Active,Low,Loyal,963.11,1345.59,27.93
+1570,0.126,Active,Medium,About to Sleep,1465.26,2389.96,184.62
+1571,0.077,Active,Low,Potential Loyalists,825.63,567.87,63.57
+1572,0.024,Active,Low,Potential Loyalists,3097.74,2544.41,74.35
+1573,0.15,Active,Medium,Needs Attention,552.38,372.87,82.86
+1574,,Already lapsed (56+ days),Lapsed,At Risk (High Value),2078.59,3616.03,0.0
+1575,0.007,Active,Low,Potential Loyalists,1741.79,1642.49,12.19
+1576,0.213,Active,Medium,Needs Attention,794.54,471.11,169.24
+1577,0.022,Active,Low,Needs Attention,2006.79,3794.61,44.15
+1578,0.008,Active,Low,Potential Loyalists,2018.42,2846.81,16.15
+1579,0.005,Active,Low,Champions,6112.47,12695.25,30.56
+1580,0.009,Active,Low,Loyal,1923.03,1771.02,17.31
+1581,0.006,Active,Low,New / Light Shoppers,1506.14,1249.26,9.04
+1582,,Already lapsed (56+ days),Lapsed,Lost,1315.06,1907.02,0.0
+1583,0.174,Active,Medium,Needs Attention,662.02,338.28,115.19
+1584,0.004,Active,Low,Champions,4815.84,7435.38,19.26
+1585,0.005,Active,Low,Champions,5426.58,9353.85,27.13
+1586,0.007,Active,Low,Potential Loyalists,1435.34,2237.21,10.05
+1587,0.015,Active,Low,Potential Loyalists,925.19,714.61,13.88
+1588,0.005,Active,Low,Champions,2028.0,5199.98,10.14
+1589,0.174,Active,Medium,New / Light Shoppers,639.34,341.54,111.25
+1590,0.004,Active,Low,Champions,4947.93,8033.79,19.79
+1591,0.005,Active,Low,Champions,5221.3,4844.96,26.11
+1592,0.007,Active,Low,Potential Loyalists,2576.07,2371.59,18.03
+1593,0.032,Active,Low,Needs Attention,1415.57,1789.1,45.3
+1594,0.006,Active,Low,Champions,3227.58,2986.13,19.37
+1595,0.004,Active,Low,Champions,2269.58,5644.07,9.08
+1596,0.029,Active,Low,New / Light Shoppers,2386.07,2154.63,69.2
+1597,0.022,Active,Low,Potential Loyalists,1388.92,801.63,30.56
+1598,0.005,Active,Low,Champions,5668.09,11516.83,28.34
+1599,0.005,Active,Low,Champions,4067.56,6161.21,20.34
+1600,0.083,Active,Low,Potential Loyalists,1055.36,914.7,87.59
+1601,0.599,Active,High,New / Light Shoppers,1256.37,1288.54,752.57
+1602,0.012,Active,Low,Champions,2123.46,6425.14,25.48
+1603,,Already lapsed (56+ days),Lapsed,Lost,551.32,492.72,0.0
+1604,0.006,Active,Low,Loyal,999.01,818.41,5.99
+1605,0.104,Active,Medium,Potential Loyalists,933.48,729.22,97.08
+1606,0.094,Active,Low,Needs Attention,1334.83,1131.91,125.47
+1607,0.014,Active,Low,Champions,2274.5,3882.88,31.84
+1608,0.112,Active,Medium,Needs Attention,1419.24,1399.89,158.95
+1609,0.004,Active,Low,Champions,10713.26,27859.68,42.85
+1610,,Already lapsed (56+ days),Lapsed,Lost,457.92,164.49,0.0
+1611,0.019,Active,Low,Potential Loyalists,1501.62,677.46,28.53
+1612,0.004,Active,Low,Champions,4688.82,8429.05,18.76
+1613,0.004,Active,Low,Champions,4084.39,6699.49,16.34
+1614,0.015,Active,Low,Potential Loyalists,693.75,518.16,10.41
+1615,0.539,Active,High,About to Sleep,764.35,869.28,411.98
+1616,,Already lapsed (56+ days),Lapsed,Lost,1066.03,1235.72,0.0
+1617,0.064,Active,Low,Loyal,1169.98,4067.8,74.88
+1618,0.007,Active,Low,Champions,2684.74,4562.48,18.79
+1619,0.004,Active,Low,Champions,2703.89,4454.73,10.82
+1620,0.005,Active,Low,Champions,2494.21,9219.35,12.47
+1621,0.005,Active,Low,Potential Loyalists,3033.18,3231.48,15.17
+1622,0.008,Active,Low,Champions,2028.3,3844.31,16.23
+1623,0.005,Active,Low,Champions,5049.62,4733.62,25.25
+1624,0.036,Active,Low,Needs Attention,1211.61,1567.81,43.62
+1625,0.037,Active,Low,Potential Loyalists,795.37,464.64,29.43
+1626,,Already lapsed (56+ days),Lapsed,Lost,452.48,42.96,0.0
+1627,0.005,Active,Low,Champions,3586.82,3484.02,17.93
+1628,0.055,Active,Low,New / Light Shoppers,1718.05,546.78,94.49
+1629,0.459,Active,High,About to Sleep,1200.96,590.71,551.24
+1630,0.005,Active,Low,Champions,5508.81,9265.32,27.54
+1631,0.005,Active,Low,Champions,5441.54,10427.21,27.21
+1632,0.081,Active,Low,About to Sleep,1259.84,2104.91,102.05
+1633,0.005,Active,Low,Champions,5769.28,10162.78,28.85
+1634,0.005,Active,Low,Potential Loyalists,2708.25,4616.14,13.54
+1635,0.216,Active,Medium,About to Sleep,424.18,128.98,91.62
+1636,0.073,Active,Low,New / Light Shoppers,6257.88,1197.77,456.83
+1637,0.022,Active,Low,Potential Loyalists,2367.52,1170.13,52.09
+1638,0.024,Active,Low,Needs Attention,808.9,552.18,19.41
+1639,0.007,Active,Low,Loyal,2177.96,2578.1,15.25
+1640,0.005,Active,Low,Champions,1456.39,4410.1,7.28
+1641,0.202,Active,Medium,Potential Loyalists,941.75,577.62,190.23
+1642,0.005,Active,Low,Loyal,1607.63,2096.12,8.04
+1643,0.015,Active,Low,Potential Loyalists,1403.1,1461.4,21.05
+1644,0.137,Active,Medium,New / Light Shoppers,1204.27,397.48,164.98
+1645,0.607,Active,High,About to Sleep,599.42,296.52,363.85
+1646,0.07,Active,Low,Potential Loyalists,1008.07,1553.53,70.56
+1647,0.297,Active,Medium,About to Sleep,555.36,50.49,164.94
+1648,0.033,Active,Low,Loyal,2076.08,5250.36,68.51
+1649,0.014,Active,Low,Potential Loyalists,1367.1,1132.4,19.14
+1650,0.005,Active,Low,Loyal,1663.55,2259.16,8.32
+1651,0.006,Active,Low,Potential Loyalists,1964.65,2025.08,11.79
+1652,0.042,Active,Low,Potential Loyalists,1739.64,946.0,73.06
+1653,0.005,Active,Low,Champions,9374.94,19153.75,46.87
+1654,0.181,Active,Medium,About to Sleep,795.91,786.53,144.06
+1655,0.19,Active,Medium,Potential Loyalists,727.92,502.77,138.3
+1656,0.249,Active,Medium,About to Sleep,833.13,458.22,207.45
+1657,0.289,Active,Medium,About to Sleep,1282.42,647.9,370.62
+1658,0.006,Active,Low,Potential Loyalists,1663.58,1778.67,9.98
+1659,0.005,Active,Low,Champions,2021.55,2820.61,10.11
+1660,0.013,Active,Low,Potential Loyalists,1585.47,2045.5,20.61
+1661,0.023,Active,Low,Potential Loyalists,1585.78,1425.4,36.47
+1662,0.008,Active,Low,Potential Loyalists,2890.98,8617.94,23.13
+1663,0.005,Active,Low,Loyal,1518.7,1834.06,7.59
+1664,0.075,Active,Low,Potential Loyalists,3333.3,2194.31,250.0
+1665,0.008,Active,Low,Loyal,2151.26,1556.84,17.21
+1666,0.194,Active,Medium,About to Sleep,821.8,1078.47,159.43
+1667,0.093,Active,Low,Potential Loyalists,916.65,891.1,85.25
+1668,0.011,Active,Low,Needs Attention,1389.06,2283.69,15.28
+1669,0.13,Active,Medium,New / Light Shoppers,784.03,297.97,101.92
+1670,,Already lapsed (56+ days),Lapsed,Lost,394.79,96.48,0.0
+1671,0.135,Active,Medium,Potential Loyalists,1164.77,1420.41,157.24
+1672,0.02,Active,Low,Potential Loyalists,1411.24,1718.08,28.22
+1673,0.013,Active,Low,Loyal,1323.03,4773.85,17.2
+1674,,Already lapsed (56+ days),Lapsed,Lost,376.78,120.28,0.0
+1675,,Already lapsed (56+ days),Lapsed,At Risk (High Value),1859.37,4862.09,0.0
+1676,0.004,Active,Low,Potential Loyalists,4798.21,5203.43,19.19
+1677,0.016,Active,Low,Champions,5667.58,12559.61,90.68
+1678,0.061,Active,Low,Potential Loyalists,1237.16,2613.99,75.47
+1679,0.104,Active,Medium,Potential Loyalists,578.79,276.13,60.19
+1680,0.073,Active,Low,Needs Attention,1300.55,2039.68,94.94
+1681,,Already lapsed (56+ days),Lapsed,Lost,1374.52,2602.28,0.0
+1682,0.8,Active,High,New / Light Shoppers,721.61,158.93,577.29
+1683,0.007,Active,Low,Potential Loyalists,1400.95,1920.99,9.81
+1684,0.046,Active,Low,Potential Loyalists,1203.82,1449.58,55.38
+1685,0.008,Active,Low,Potential Loyalists,2275.64,1571.37,18.21
+1686,0.007,Active,Low,Potential Loyalists,1187.77,1313.76,8.31
+1687,0.009,Active,Low,Champions,1858.03,3766.27,16.72
+1688,0.714,Active,High,Needs Attention,968.07,971.12,691.2
+1689,0.006,Active,Low,Loyal,1882.15,2711.79,11.29
+1690,0.011,Active,Low,Needs Attention,1709.43,1508.04,18.8
+1691,0.018,Active,Low,Potential Loyalists,1617.28,2283.69,29.11
+1692,0.005,Active,Low,Loyal,1773.24,2017.18,8.87
+1693,0.004,Active,Low,Champions,5172.25,8354.55,20.69
+1694,0.005,Active,Low,Champions,5660.74,8055.47,28.3
+1695,0.013,Active,Low,Loyal,812.26,1174.56,10.56
+1696,0.022,Active,Low,Potential Loyalists,1328.04,2640.01,29.22
+1697,0.065,Active,Low,Potential Loyalists,991.15,949.01,64.42
+1698,0.034,Active,Low,Potential Loyalists,2128.72,1757.51,72.38
+1699,0.045,Active,Low,New / Light Shoppers,1401.96,1064.84,63.09
+1700,0.131,Active,Medium,About to Sleep,1528.31,1606.69,200.21
+1701,0.086,Active,Low,Needs Attention,1274.9,1390.28,109.64
+1702,0.171,Active,Medium,About to Sleep,1920.06,1927.05,328.33
+1703,0.005,Active,Low,Champions,4239.97,4648.88,21.2
+1704,0.129,Active,Medium,Potential Loyalists,673.28,400.83,86.85
+1705,0.005,Active,Low,Loyal,1675.19,1805.93,8.38
+1706,0.211,Active,Medium,Needs Attention,1032.3,360.07,217.82
+1707,0.006,Active,Low,Champions,4340.08,6580.49,26.04
+1708,0.007,Active,Low,Potential Loyalists,2447.5,3571.6,17.13
+1709,0.012,Active,Low,Potential Loyalists,1711.86,2141.64,20.54
+1710,0.005,Active,Low,Champions,3457.1,11984.59,17.29
+1711,,Already lapsed (56+ days),Lapsed,Lost,903.36,664.98,0.0
+1712,0.243,Active,Medium,Needs Attention,830.52,728.93,201.82
+1713,0.016,Active,Low,Potential Loyalists,2327.81,1733.81,37.24
+1714,,Already lapsed (56+ days),Lapsed,Lost,687.62,264.72,0.0
+1715,0.012,Active,Low,Potential Loyalists,1013.98,983.53,12.17
+1716,0.02,Active,Low,Loyal,898.01,1950.26,17.96
+1717,0.005,Active,Low,Potential Loyalists,1733.89,1757.9,8.67
+1718,0.052,Active,Low,Potential Loyalists,1392.75,868.69,72.42
+1719,0.007,Active,Low,Potential Loyalists,4359.01,3402.45,30.51
+1720,0.005,Active,Low,Champions,3582.1,5755.69,17.91
+1721,0.103,Active,Medium,New / Light Shoppers,677.99,339.59,69.83
+1722,0.005,Active,Low,Champions,3255.83,11229.71,16.28
+1723,0.037,Active,Low,At Risk (High Value),1823.98,4469.22,67.49
+1724,0.013,Active,Low,Needs Attention,1527.49,2626.98,19.86
+1725,0.118,Active,Medium,New / Light Shoppers,976.54,826.74,115.23
+1726,0.004,Active,Low,Champions,5425.48,8131.91,21.7
+1727,,Already lapsed (56+ days),Lapsed,Lost,582.64,149.01,0.0
+1728,0.053,Active,Low,New / Light Shoppers,1802.89,1517.18,95.55
+1729,0.022,Active,Low,Potential Loyalists,1322.14,2910.61,29.09
+1730,0.276,Active,Medium,Champions,1614.3,3509.78,445.55
+1731,0.007,Active,Low,Potential Loyalists,4674.61,3451.81,32.72
+1732,0.005,Active,Low,Potential Loyalists,2099.69,3427.3,10.5
+1733,0.033,Active,Low,Potential Loyalists,2098.47,1487.37,69.25
+1734,0.582,Active,High,About to Sleep,385.67,161.78,224.46
+1735,0.006,Active,Low,Potential Loyalists,4056.83,3902.77,24.34
+1736,,Already lapsed (56+ days),Lapsed,Lost,583.75,374.48,0.0
+1737,0.242,Active,Medium,Needs Attention,719.98,350.94,174.24
+1738,0.037,Active,Low,About to Sleep,993.39,1379.36,36.76
+1739,0.082,Active,Low,Potential Loyalists,904.59,778.4,74.18
+1740,0.005,Active,Low,Champions,5536.8,11938.2,27.68
+1741,0.43,Active,High,Needs Attention,476.15,161.99,204.74
+1742,0.009,Active,Low,Loyal,795.41,2140.1,7.16
+1743,0.039,Active,Low,Potential Loyalists,1071.5,1168.94,41.79
+1744,0.019,Active,Low,Potential Loyalists,892.71,1088.62,16.96
+1745,0.008,Active,Low,Loyal,1379.83,2591.48,11.04
+1746,,Already lapsed (56+ days),Lapsed,Lost,1316.85,2177.16,0.0
+1747,0.006,Active,Low,Potential Loyalists,1758.22,3066.6,10.55
+1748,0.005,Active,Low,Champions,4464.74,5161.78,22.32
+1749,0.005,Active,Low,Champions,1730.82,4209.35,8.65
+1750,0.325,Active,High,About to Sleep,861.14,736.42,279.87
+1751,0.009,Active,Low,Champions,2094.92,4142.87,18.85
+1752,0.005,Active,Low,Champions,2744.06,6593.81,13.72
+1753,0.01,Active,Low,Champions,732.81,2964.05,7.33
+1754,0.005,Active,Low,Champions,2468.48,4120.16,12.34
+1755,0.059,Active,Low,Needs Attention,1494.35,1202.51,88.17
+1756,0.016,Active,Low,Potential Loyalists,1963.98,3344.29,31.42
+1757,,Already lapsed (56+ days),Lapsed,Lost,449.74,253.11,0.0
+1758,0.031,Active,Low,Potential Loyalists,1627.0,2041.93,50.44
+1759,0.005,Active,Low,Champions,1901.45,4009.62,9.51
+1760,0.037,Active,Low,Potential Loyalists,959.23,563.64,35.49
+1761,0.016,Active,Low,New / Light Shoppers,2193.17,1845.46,35.09
+1762,0.005,Active,Low,Champions,8720.01,15360.14,43.6
+1763,0.005,Active,Low,Champions,2561.34,3919.37,12.81
+1764,0.004,Active,Low,Champions,9481.81,11412.2,37.93
+1765,0.021,Active,Low,Needs Attention,2047.34,2949.01,42.99
+1766,0.07,Active,Low,Potential Loyalists,890.58,460.68,62.34
+1767,0.005,Active,Low,Champions,3409.57,9204.22,17.05
+1768,0.008,Active,Low,Potential Loyalists,1572.01,1522.47,12.58
+1769,0.005,Active,Low,Champions,4727.07,7447.28,23.64
+1770,0.005,Active,Low,Champions,2241.33,8793.19,11.21
+1771,,Already lapsed (56+ days),Lapsed,Lost,874.23,532.2,0.0
+1772,,Already lapsed (56+ days),Lapsed,Lost,1086.55,2452.88,0.0
+1773,0.007,Active,Low,Potential Loyalists,1854.96,3356.9,12.98
+1774,0.008,Active,Low,Potential Loyalists,4401.88,5012.46,35.22
+1775,0.005,Active,Low,Champions,5243.25,9485.14,26.22
+1776,0.18,Active,Medium,Loyal,1403.67,3724.26,252.66
+1777,0.035,Active,Low,Potential Loyalists,988.03,1169.97,34.58
+1778,0.004,Active,Low,Champions,3732.29,9336.3,14.93
+1779,0.015,Active,Low,Champions,1706.5,3508.58,25.6
+1780,0.239,Active,Medium,About to Sleep,1042.56,1413.68,249.17
+1781,0.016,Active,Low,Needs Attention,1728.18,3228.57,27.65
+1782,0.023,Active,Low,Potential Loyalists,1301.35,1742.85,29.93
+1783,0.006,Active,Low,Potential Loyalists,2733.25,4125.89,16.4
+1784,0.074,Active,Low,Needs Attention,1644.12,1980.62,121.66
+1785,0.007,Active,Low,Potential Loyalists,1576.44,1555.7,11.04
+1786,0.467,Active,High,About to Sleep,660.53,409.73,308.47
+1787,0.147,Active,Medium,Needs Attention,761.35,1097.5,111.92
+1788,0.005,Active,Low,Champions,5185.58,9072.28,25.93
+1789,0.539,Active,High,About to Sleep,499.77,293.19,269.38
+1790,0.023,Active,Low,Potential Loyalists,1529.33,1978.83,35.17
+1791,0.005,Active,Low,Champions,2211.58,2970.1,11.06
+1792,0.014,Active,Low,Champions,2146.84,3140.33,30.06
+1793,0.013,Active,Low,Potential Loyalists,1499.05,1888.55,19.49
+1794,0.006,Active,Low,Potential Loyalists,2211.27,3594.48,13.27
+1795,0.005,Active,Low,Champions,6426.71,9751.16,32.13
+1796,0.006,Active,Low,Potential Loyalists,2580.22,2601.06,15.48
+1797,0.005,Active,Low,Champions,5353.53,5551.49,26.77
+1798,0.059,Active,Low,Potential Loyalists,1664.58,2457.02,98.21
+1799,0.224,Active,Medium,Potential Loyalists,491.78,395.47,110.16
+1800,0.117,Active,Medium,Potential Loyalists,2087.75,3667.31,244.27
+1801,0.01,Active,Low,Potential Loyalists,1305.28,758.74,13.05
+1802,0.007,Active,Low,Needs Attention,3006.38,4835.44,21.04
+1803,0.004,Active,Low,Champions,4862.17,14420.9,19.45
+1804,0.005,Active,Low,Champions,5937.74,10251.19,29.69
+1805,0.01,Active,Low,Potential Loyalists,931.21,792.2,9.31
+1806,0.005,Active,Low,Champions,1566.05,3979.6,7.83
+1807,0.005,Active,Low,Champions,1825.25,7773.21,9.13
+1808,0.007,Active,Low,Potential Loyalists,1389.97,1824.33,9.73
+1809,0.014,Active,Low,Potential Loyalists,1259.25,1509.41,17.63
+1810,0.005,Active,Low,Champions,1204.81,4025.59,6.02
+1811,0.52,Active,High,About to Sleep,1126.94,852.56,586.01
+1812,0.005,Active,Low,Loyal,1665.59,1948.99,8.33
+1813,0.174,Active,Medium,Needs Attention,841.41,233.45,146.41
+1814,0.012,Active,Low,Potential Loyalists,2421.06,4107.85,29.05
+1815,0.005,Active,Low,Potential Loyalists,4727.58,4405.47,23.64
+1816,0.005,Active,Low,Champions,2186.35,3869.51,10.93
+1817,0.013,Active,Low,Potential Loyalists,1385.38,1024.72,18.01
+1818,0.06,Active,Low,Potential Loyalists,1642.88,1333.43,98.57
+1819,0.01,Active,Low,Potential Loyalists,1119.06,1446.23,11.19
+1820,0.344,Active,High,At Risk (High Value),1769.46,4208.08,608.69
+1821,0.012,Active,Low,Champions,4399.46,4937.27,52.79
+1822,0.017,Active,Low,Champions,1326.64,3516.44,22.55
+1823,0.005,Active,Low,Champions,6505.85,12268.85,32.53
+1824,0.005,Active,Low,Champions,2198.54,3117.11,10.99
+1825,,Already lapsed (56+ days),Lapsed,Lost,1251.6,1831.84,0.0
+1826,0.008,Active,Low,Loyal,1925.46,1994.47,15.4
+1827,0.039,Active,Low,Potential Loyalists,1093.29,682.23,42.64
+1828,,Already lapsed (56+ days),Lapsed,At Risk (High Value),1482.83,5813.77,0.0
+1829,0.004,Active,Low,Champions,1595.02,6618.55,6.38
+1830,,Already lapsed (56+ days),Lapsed,Lost,1011.33,39.44,0.0
+1831,0.006,Active,Low,Champions,3555.92,5562.06,21.34
+1832,0.015,Active,Low,Potential Loyalists,1234.31,1357.55,18.51
+1833,0.006,Active,Low,Potential Loyalists,1948.21,2991.81,11.69
+1834,0.552,Active,High,At Risk (High Value),1683.0,3769.5,929.02
+1835,0.004,Active,Low,Champions,5471.47,10995.71,21.89
+1836,0.005,Active,Low,Potential Loyalists,1741.36,2991.96,8.71
+1837,0.005,Active,Low,Champions,6037.55,7528.5,30.19
+1838,0.115,Active,Medium,Needs Attention,1160.38,1179.61,133.44
+1839,0.005,Active,Low,Potential Loyalists,1677.11,1764.15,8.39
+1840,,Already lapsed (56+ days),Lapsed,Lost,501.82,337.21,0.0
+1841,0.034,Active,Low,Potential Loyalists,2056.47,2401.78,69.92
+1842,0.14,Active,Medium,New / Light Shoppers,952.3,906.65,133.32
+1843,0.145,Active,Medium,About to Sleep,1023.65,770.15,148.43
+1844,0.005,Active,Low,Potential Loyalists,1393.28,1523.8,6.97
+1845,0.004,Active,Low,Champions,5094.61,12647.61,20.38
+1846,0.142,Active,Medium,New / Light Shoppers,1116.6,690.39,158.56
+1847,0.005,Active,Low,Loyal,2139.89,2678.71,10.7
+1848,0.004,Active,Low,Champions,4770.33,10848.11,19.08
+1849,0.008,Active,Low,Loyal,1747.9,2666.5,13.98
+1850,0.005,Active,Low,Champions,2805.21,6882.11,14.03
+1851,0.134,Active,Medium,Needs Attention,1078.75,1255.55,144.55
+1852,0.141,Active,Medium,Loyal,1201.5,9800.02,169.41
+1853,0.055,Active,Low,Potential Loyalists,579.91,274.39,31.9
+1854,0.004,Active,Low,Champions,3127.96,7631.72,12.51
+1855,0.532,Active,High,Needs Attention,610.59,251.95,324.83
+1856,0.005,Active,Low,Champions,2224.25,4661.53,11.12
+1857,0.072,Active,Low,Potential Loyalists,1133.5,1755.3,81.61
+1858,0.009,Active,Low,Potential Loyalists,1836.94,2860.07,16.53
+1859,0.024,Active,Low,Potential Loyalists,1670.86,1791.28,40.1
+1860,,Already lapsed (56+ days),Lapsed,Lost,714.67,753.42,0.0
+1861,0.005,Active,Low,Loyal,1693.97,1868.45,8.47
+1862,0.114,Active,Medium,Loyal,848.38,2210.04,96.72
+1863,,Already lapsed (56+ days),Lapsed,Lost,619.05,411.45,0.0
+1864,0.004,Active,Low,Champions,6375.01,16941.58,25.5
+1865,0.005,Active,Low,Champions,2684.58,6651.93,13.42
+1866,,Already lapsed (56+ days),Lapsed,Lost,463.12,159.05,0.0
+1867,0.108,Active,Medium,Potential Loyalists,886.27,1093.51,95.72
+1868,0.12,Active,Medium,Potential Loyalists,1120.06,700.96,134.41
+1869,0.008,Active,Low,Champions,2105.59,3630.62,16.84
+1870,0.235,Active,Medium,Needs Attention,490.24,303.6,115.21
+1871,0.062,Active,Low,New / Light Shoppers,1070.14,547.41,66.35
+1872,0.004,Active,Low,Champions,1726.3,3762.97,6.91
+1873,0.005,Active,Low,Champions,1344.52,5686.82,6.72
+1874,0.173,Active,Medium,Needs Attention,932.17,834.29,161.27
+1875,0.052,Active,Low,Needs Attention,1181.45,909.05,61.44
+1876,0.058,Active,Low,New / Light Shoppers,746.0,86.19,43.27
+1877,0.022,Active,Low,Potential Loyalists,1270.88,1975.04,27.96
+1878,0.106,Active,Medium,Potential Loyalists,1495.4,625.64,158.51
+1879,0.028,Active,Low,Champions,983.54,4861.95,27.54
+1880,0.173,Active,Medium,Needs Attention,1111.11,773.39,192.22
+1881,0.005,Active,Low,Champions,1926.23,2913.96,9.63
+1882,0.329,Active,High,About to Sleep,674.4,405.54,221.88
+1883,0.015,Active,Low,Loyal,1181.65,2460.98,17.72
+1884,0.101,Active,Medium,New / Light Shoppers,986.9,592.73,99.68
+1885,0.449,Active,High,New / Light Shoppers,696.27,265.35,312.63
+1886,0.769,Active,High,About to Sleep,558.59,406.25,429.56
+1887,0.018,Active,Low,Potential Loyalists,823.4,876.88,14.82
+1888,,Already lapsed (56+ days),Lapsed,Lost,422.87,135.61,0.0
+1889,0.019,Active,Low,Needs Attention,1508.53,1803.8,28.66
+1890,0.013,Active,Low,Potential Loyalists,1758.7,1934.45,22.86
+1891,0.015,Active,Low,Potential Loyalists,1316.62,1344.71,19.75
+1892,0.009,Active,Low,Champions,1389.68,5532.21,12.51
+1893,0.237,Active,Medium,New / Light Shoppers,747.24,373.71,177.1
+1894,0.276,Active,Medium,About to Sleep,1697.5,2335.47,468.51
+1895,0.185,Active,Medium,About to Sleep,939.93,927.56,173.89
+1896,0.005,Active,Low,Champions,2737.56,3378.34,13.69
+1897,,Already lapsed (56+ days),Lapsed,Lost,997.6,19.58,0.0
+1898,0.024,Active,Low,Potential Loyalists,1667.8,717.71,40.03
+1899,0.005,Active,Low,Potential Loyalists,5274.0,11276.8,26.37
+1900,0.006,Active,Low,Potential Loyalists,5870.43,8541.14,35.22
+1901,0.005,Active,Low,Champions,5927.42,11462.24,29.64
+1902,0.158,Active,Medium,Needs Attention,1565.53,1646.0,247.35
+1903,0.247,Active,Medium,About to Sleep,1145.09,1152.32,282.84
+1904,0.471,Active,High,About to Sleep,439.18,304.26,206.85
+1905,0.012,Active,Low,Potential Loyalists,1054.19,1772.91,12.65
+1906,0.004,Active,Low,Champions,5897.78,8631.61,23.59
+1907,0.005,Active,Low,Champions,6458.36,8939.0,32.29
+1908,,Already lapsed (56+ days),Lapsed,Lost,761.67,714.31,0.0
+1909,0.179,Active,Medium,About to Sleep,705.04,546.99,126.2
+1910,,Already lapsed (56+ days),Lapsed,Lost,789.52,741.83,0.0
+1911,0.017,Active,Low,Loyal,1118.28,1601.27,19.01
+1912,0.025,Active,Low,Needs Attention,1084.85,2256.45,27.12
+1913,0.036,Active,Low,Potential Loyalists,1126.04,895.76,40.54
+1914,0.004,Active,Low,Champions,1485.63,4075.95,5.94
+1915,0.545,Active,High,New / Light Shoppers,726.25,485.8,395.81
+1916,0.014,Active,Low,Loyal,1389.62,2883.09,19.45
+1917,0.005,Active,Low,Champions,2597.58,6788.0,12.99
+1918,0.017,Active,Low,Potential Loyalists,1634.32,3012.49,27.78
+1919,0.008,Active,Low,Champions,2156.58,4154.95,17.25
+1920,0.006,Active,Low,Potential Loyalists,1641.3,1927.74,9.85
+1921,,Already lapsed (56+ days),Lapsed,At Risk (High Value),1084.26,1460.12,0.0
+1922,0.004,Active,Low,Champions,2198.48,3096.94,8.79
+1923,0.004,Active,Low,Champions,2387.99,4870.31,9.55
+1924,0.005,Active,Low,Champions,3145.71,6225.45,15.73
+1925,0.206,Active,Medium,At Risk (High Value),1286.15,3019.2,264.95
+1926,0.015,Active,Low,Potential Loyalists,1582.95,2145.71,23.74
+1927,0.01,Active,Low,Needs Attention,2388.97,5097.28,23.89
+1928,0.009,Active,Low,Loyal,1513.86,2328.37,13.62
+1929,0.005,Active,Low,Potential Loyalists,2662.7,4395.83,13.31
+1930,0.053,Active,Low,Loyal,1256.25,2674.9,66.58
+1931,0.036,Active,Low,Loyal,1225.63,2211.08,44.12
+1932,0.036,Active,Low,Potential Loyalists,1243.16,2678.78,44.75
+1933,0.008,Active,Low,Potential Loyalists,1229.72,2180.22,9.84
+1934,,Already lapsed (56+ days),Lapsed,Lost,706.98,542.87,0.0
+1935,0.859,Active,High,Champions,6267.69,12371.26,5383.95
+1936,0.026,Active,Low,Champions,680.81,5029.86,17.7
+1937,0.005,Active,Low,Champions,3346.81,6742.44,16.73
+1938,0.043,Active,Low,New / Light Shoppers,1272.66,1032.95,54.72
+1939,0.006,Active,Low,Potential Loyalists,3491.96,3784.62,20.95
+1940,0.03,Active,Low,Potential Loyalists,1553.71,2392.72,46.61
+1941,0.013,Active,Low,Loyal,1030.91,742.85,13.4
+1942,0.005,Active,Low,Champions,1942.7,3135.06,9.71
+1943,0.005,Active,Low,Champions,1554.38,5116.58,7.77
+1944,0.004,Active,Low,Champions,7493.27,10942.88,29.97
+1945,0.354,Active,High,Needs Attention,1350.43,1020.57,478.05
+1946,0.018,Active,Low,Potential Loyalists,2247.76,3312.46,40.46
+1947,0.005,Active,Low,Potential Loyalists,4956.86,7209.25,24.78
+1948,0.01,Active,Low,Potential Loyalists,1607.65,1602.32,16.08
+1949,0.094,Active,Low,Potential Loyalists,1461.09,1658.96,137.34
+1950,0.203,Active,Medium,About to Sleep,858.88,746.74,174.35
+1951,0.176,Active,Medium,About to Sleep,1187.54,561.48,209.01
+1952,0.036,Active,Low,Potential Loyalists,2350.05,1003.87,84.6
+1953,0.007,Active,Low,Loyal,1455.66,2722.81,10.19
+1954,0.062,Active,Low,Loyal,1039.46,1965.65,64.45
+1955,0.008,Active,Low,Champions,2732.52,7634.5,21.86
+1956,0.016,Active,Low,Potential Loyalists,2537.87,2174.55,40.61
+1957,0.083,Active,Low,Needs Attention,1644.75,1994.23,136.51
+1958,0.019,Active,Low,Potential Loyalists,1518.97,1017.86,28.86
+1959,0.22,Active,Medium,At Risk (High Value),1903.62,5592.54,418.8
+1960,0.005,Active,Low,Potential Loyalists,1937.72,2637.78,9.69
+1961,0.127,Active,Medium,Needs Attention,1489.4,1634.22,189.15
+1962,0.004,Active,Low,Champions,3195.17,3512.23,12.78
+1963,0.01,Active,Low,Potential Loyalists,2001.81,2542.45,20.02
+1964,0.006,Active,Low,Potential Loyalists,1560.47,1990.12,9.36
+1965,0.005,Active,Low,Champions,976.58,4142.69,4.88
+1966,0.005,Active,Low,Champions,2733.94,5307.89,13.67
+1967,0.012,Active,Low,Potential Loyalists,1660.51,1802.93,19.93
+1968,0.005,Active,Low,Potential Loyalists,2297.61,2479.97,11.49
+1969,0.005,Active,Low,Loyal,1806.71,2246.2,9.03
+1970,0.013,Active,Low,Potential Loyalists,1063.55,1091.08,13.83
+1971,0.018,Active,Low,Loyal,895.11,5297.13,16.11
+1972,0.007,Active,Low,Loyal,1821.31,2435.73,12.75
+1973,,Already lapsed (56+ days),Lapsed,At Risk (High Value),1113.77,1683.55,0.0
+1974,,Already lapsed (56+ days),Lapsed,At Risk (High Value),1549.81,5266.0,0.0
+1975,0.004,Active,Low,Champions,8392.38,17548.27,33.57
+1976,0.007,Active,Low,Champions,1488.29,3546.81,10.42
+1977,,Already lapsed (56+ days),Lapsed,Lost,527.24,357.99,0.0
+1978,0.027,Active,Low,Potential Loyalists,1051.22,1459.68,28.38
+1979,0.019,Active,Low,Loyal,1025.62,1146.67,19.49
+1980,0.046,Active,Low,At Risk (High Value),2385.8,4443.15,109.75
+1981,0.007,Active,Low,Loyal,1415.3,1450.68,9.91
+1982,0.006,Active,Low,Champions,1566.08,4213.85,9.4
+1983,0.029,Active,Low,Potential Loyalists,1979.04,2497.9,57.39
+1984,,Already lapsed (56+ days),Lapsed,Lost,403.93,38.94,0.0
+1985,0.004,Active,Low,Champions,6009.74,8605.36,24.04
+1986,,Already lapsed (56+ days),Lapsed,Lost,395.26,230.06,0.0
+1987,0.008,Active,Low,Potential Loyalists,1764.5,1973.54,14.12
+1988,0.005,Active,Low,Champions,4891.33,7907.93,24.46
+1989,0.005,Active,Low,Champions,1879.74,3052.87,9.4
+1990,0.005,Active,Low,Champions,2704.94,4593.26,13.52
+1991,0.028,Active,Low,Potential Loyalists,630.47,320.14,17.65
+1992,0.162,Active,Medium,Needs Attention,662.9,528.65,107.39
+1993,0.036,Active,Low,Needs Attention,1089.98,1359.33,39.24
+1994,0.028,Active,Low,Potential Loyalists,1182.84,1069.0,33.12
+1995,0.005,Active,Low,Champions,10727.39,15332.43,53.64
+1996,0.007,Active,Low,Loyal,1530.3,2654.2,10.71
+1997,0.006,Active,Low,Potential Loyalists,2993.31,4295.68,17.96
+1998,0.008,Active,Low,Loyal,1078.17,2383.54,8.63
+1999,0.033,Active,Low,Potential Loyalists,1309.0,783.33,43.2
+2000,0.081,Active,Low,Potential Loyalists,761.49,552.29,61.68
+2001,0.252,Active,Medium,Needs Attention,2004.76,1214.28,505.2
+2002,0.084,Active,Low,Needs Attention,1944.49,2465.12,163.34
+2003,0.016,Active,Low,Potential Loyalists,2506.18,1976.48,40.1
+2004,0.005,Active,Low,Champions,5059.09,10053.87,25.3
+2005,0.034,Active,Low,Potential Loyalists,1352.99,1439.19,46.0
+2006,0.005,Active,Low,Champions,5238.67,4873.24,26.19
+2007,0.004,Active,Low,Champions,5748.47,8887.75,22.99
+2008,0.022,Active,Low,Potential Loyalists,1658.7,2332.45,36.49
+2009,,Already lapsed (56+ days),Lapsed,Lost,1091.28,1506.88,0.0
+2010,0.07,Active,Low,Potential Loyalists,2962.11,1605.98,207.35
+2011,0.01,Active,Low,Loyal,1224.91,1367.34,12.25
+2012,0.005,Active,Low,Champions,5459.62,8535.06,27.3
+2013,,Already lapsed (56+ days),Lapsed,Lost,925.6,1182.47,0.0
+2014,0.04,Active,Low,Potential Loyalists,1471.04,1489.89,58.84
+2015,0.005,Active,Low,Champions,4437.21,6628.7,22.19
+2016,0.032,Active,Low,Loyal,956.01,1728.53,30.59
+2017,0.005,Active,Low,Champions,5463.54,7106.62,27.32
+2018,0.005,Active,Low,Champions,4717.83,4038.15,23.59
+2019,0.007,Active,Low,Champions,7796.14,13160.5,54.57
+2020,0.004,Active,Low,Champions,2624.71,8458.21,10.5
+2021,0.008,Active,Low,Potential Loyalists,959.12,1393.24,7.67
+2022,0.005,Active,Low,Potential Loyalists,4363.75,7875.78,21.82
+2023,0.006,Active,Low,Loyal,1967.19,1805.63,11.8
+2024,0.004,Active,Low,Potential Loyalists,4560.89,4956.99,18.24
+2025,0.158,Active,Medium,Needs Attention,1103.87,1119.54,174.41
+2026,0.308,Active,High,About to Sleep,1065.77,1181.63,328.26
+2027,0.023,Active,Low,Loyal,1038.92,1915.28,23.9
+2028,0.019,Active,Low,Needs Attention,1166.89,1984.73,22.17
+2029,0.093,Active,Low,About to Sleep,1189.0,1688.9,110.58
+2030,0.007,Active,Low,Potential Loyalists,1836.75,2628.1,12.86
+2031,0.48,Active,High,Needs Attention,1161.29,306.37,557.42
+2032,0.034,Active,Low,Potential Loyalists,1247.94,1274.78,42.43
+2033,0.005,Active,Low,Loyal,1986.78,2512.78,9.93
+2034,0.005,Active,Low,Champions,2768.95,3118.35,13.84
+2035,,Already lapsed (56+ days),Lapsed,Lost,771.24,1077.8,0.0
+2036,0.01,Active,Low,Potential Loyalists,4400.52,4064.45,44.01
+2037,0.012,Active,Low,Potential Loyalists,1351.33,1743.97,16.22
+2038,0.017,Active,Low,Potential Loyalists,1762.4,1489.8,29.96
+2039,0.075,Active,Low,Potential Loyalists,6692.81,2260.46,501.96
+2040,0.034,Active,Low,Champions,142.98,2968.51,4.86
+2041,0.005,Active,Low,Champions,4166.09,6406.99,20.83
+2042,0.78,Active,High,Needs Attention,2133.39,4809.05,1664.04
+2043,0.008,Active,Low,Potential Loyalists,1420.22,1640.79,11.36
+2044,,Already lapsed (56+ days),Lapsed,Lost,906.89,1000.84,0.0
+2045,,Already lapsed (56+ days),Lapsed,Lost,460.73,310.64,0.0
+2046,0.236,Active,Medium,Needs Attention,728.29,638.8,171.88
+2047,0.012,Active,Low,Champions,2633.16,4816.35,31.6
+2048,0.117,Active,Medium,Needs Attention,2087.92,1538.46,244.29
+2049,0.056,Active,Low,Potential Loyalists,1269.52,998.12,71.09
+2050,0.005,Active,Low,Champions,2529.1,5193.22,12.65
+2051,,Already lapsed (56+ days),Lapsed,At Risk (High Value),751.5,4923.16,0.0
+2052,,Already lapsed (56+ days),Lapsed,Lost,481.41,131.83,0.0
+2053,0.01,Active,Low,Champions,1473.92,3351.34,14.74
+2054,0.352,Active,High,New / Light Shoppers,594.4,217.6,209.23
+2055,0.006,Active,Low,Loyal,2823.35,2408.74,16.94
+2056,0.012,Active,Low,Loyal,1496.05,2450.8,17.95
+2057,0.005,Active,Low,Champions,2702.68,3150.45,13.51
+2058,0.004,Active,Low,Champions,2592.93,5970.57,10.37
+2059,0.014,Active,Low,Potential Loyalists,2288.7,2359.12,32.04
+2060,0.092,Active,Low,Needs Attention,860.12,629.9,79.13
+2061,,Already lapsed (56+ days),Lapsed,Lost,397.84,226.71,0.0
+2062,0.013,Active,Low,Champions,1066.09,5357.62,13.86
+2063,0.008,Active,Low,Potential Loyalists,1529.5,2591.43,12.24
+2064,0.004,Active,Low,Champions,4170.12,5424.85,16.68
+2065,0.005,Active,Low,Potential Loyalists,2902.94,3268.33,14.51
+2066,0.166,Active,Medium,Loyal,1201.58,2141.77,199.46
+2067,0.463,Active,High,New / Light Shoppers,681.4,120.01,315.49
+2068,0.02,Active,Low,Loyal,1726.43,2561.4,34.53
+2069,0.008,Active,Low,Needs Attention,1490.61,2068.17,11.92
+2070,0.006,Active,Low,Champions,13361.28,9210.42,80.17
+2071,0.006,Active,Low,Loyal,1274.18,1732.97,7.65
+2072,0.788,Active,High,About to Sleep,616.94,278.28,486.15
+2073,,Already lapsed (56+ days),Lapsed,Lost,1115.09,1697.23,0.0
+2074,,Already lapsed (56+ days),Lapsed,Lost,704.68,678.72,0.0
+2075,0.006,Active,Low,Champions,3428.99,4736.51,20.57
+2076,0.007,Active,Low,Champions,4990.82,8297.94,34.94
+2077,0.007,Active,Low,Loyal,1709.55,1835.18,11.97
+2078,0.018,Active,Low,Potential Loyalists,1498.29,2323.92,26.97
+2079,0.023,Active,Low,Champions,1133.57,4802.87,26.07
+2080,0.005,Active,Low,Champions,2011.53,5704.14,10.06
+2081,0.203,Active,Medium,About to Sleep,807.27,921.84,163.88
+2082,0.005,Active,Low,Champions,3966.38,5082.41,19.83
+2083,0.004,Active,Low,Champions,5294.77,8308.39,21.18
+2084,0.009,Active,Low,Champions,2045.91,2937.95,18.41
+2085,0.005,Active,Low,Champions,6186.0,12894.57,30.93
+2086,0.005,Active,Low,Champions,5760.21,6269.54,28.8
+2087,0.005,Active,Low,Champions,4107.53,7832.72,20.54
+2088,0.005,Active,Low,Champions,3186.93,4905.71,15.93
+2089,0.206,Active,Medium,Needs Attention,534.16,159.96,110.04
+2090,0.089,Active,Low,Potential Loyalists,1166.33,1201.03,103.8
+2091,0.384,Active,High,Needs Attention,1051.2,834.56,403.66
+2092,,Already lapsed (56+ days),Lapsed,At Risk (High Value),1413.5,2290.54,0.0
+2093,0.114,Active,Medium,About to Sleep,604.28,490.98,68.89
+2094,0.013,Active,Low,Potential Loyalists,2445.56,3055.52,31.79
+2095,0.004,Active,Low,Champions,3341.6,3790.49,13.37
+2096,,Already lapsed (56+ days),Lapsed,Lost,1167.92,1301.65,0.0
+2097,,Already lapsed (56+ days),Lapsed,At Risk (High Value),1541.4,8823.83,0.0
+2098,,Already lapsed (56+ days),Lapsed,Lost,846.43,682.46,0.0
+2099,0.07,Active,Low,Needs Attention,807.77,691.3,56.54
+2100,0.007,Active,Low,Potential Loyalists,2346.85,3185.31,16.43
+2101,0.068,Active,Low,New / Light Shoppers,1183.91,420.02,80.51
+2102,0.005,Active,Low,Champions,3312.86,3619.76,16.56
+2103,0.286,Active,Medium,New / Light Shoppers,762.32,361.01,218.02
+2104,,Already lapsed (56+ days),Lapsed,Lost,557.84,494.57,0.0
+2105,0.335,Active,High,Potential Loyalists,909.11,899.92,304.55
+2106,,Already lapsed (56+ days),Lapsed,At Risk (High Value),1549.16,2807.03,0.0
+2107,0.01,Active,Low,Potential Loyalists,2008.14,3409.06,20.08
+2108,0.011,Active,Low,Loyal,1114.26,1830.99,12.26
+2109,0.005,Active,Low,Loyal,1967.42,2508.24,9.84
+2110,0.004,Active,Low,Champions,5920.32,12470.03,23.68
+2111,0.041,Active,Low,Loyal,1278.76,2590.37,52.43
+2112,0.005,Active,Low,Champions,3036.32,5116.15,15.18
+2113,0.029,Active,Low,Needs Attention,1344.97,1599.08,39.0
+2114,0.041,Active,Low,Loyal,1393.7,3170.28,57.14
+2115,0.901,Active,High,Champions,6429.21,14774.86,5792.72
+2116,0.005,Active,Low,Champions,5553.62,12228.09,27.77
+2117,0.04,Active,Low,Potential Loyalists,942.09,1050.39,37.68
+2118,0.2,Active,Medium,New / Light Shoppers,1118.92,1107.79,223.78
+2119,0.011,Active,Low,Potential Loyalists,2960.01,2295.16,32.56
+2120,0.024,Active,Low,Potential Loyalists,1819.19,1643.2,43.66
+2121,0.004,Active,Low,Champions,3542.03,5582.79,14.17
+2122,0.236,Active,Medium,New / Light Shoppers,1384.62,441.84,326.77
+2123,0.005,Active,Low,Potential Loyalists,3387.76,4332.45,16.94
+2124,0.004,Active,Low,Champions,3542.18,7859.41,14.17
+2125,0.014,Active,Low,Champions,4838.51,4833.29,67.74
+2126,0.009,Active,Low,Champions,1527.22,4713.85,13.74
+2127,0.091,Active,Low,New / Light Shoppers,1510.25,1461.82,137.43
+2128,0.569,Active,High,Needs Attention,1019.68,1877.71,580.2
+2129,0.005,Active,Low,Champions,3177.71,7164.99,15.89
+2130,0.005,Active,Low,Potential Loyalists,3883.48,6060.39,19.42
+2131,0.07,Active,Low,At Risk (High Value),1429.07,3982.87,100.03
+2132,0.075,Active,Low,Potential Loyalists,972.48,575.87,72.94
+2133,0.004,Active,Low,Champions,2688.92,6759.92,10.76
+2134,0.004,Active,Low,Potential Loyalists,4783.86,9129.83,19.14
+2135,0.151,Active,Medium,About to Sleep,883.99,779.29,133.48
+2136,0.053,Active,Low,New / Light Shoppers,2605.49,1552.43,138.09
+2137,0.126,Active,Medium,Loyal,1375.71,2970.14,173.34
+2138,0.032,Active,Low,Needs Attention,1247.74,1878.48,39.93
+2139,0.004,Active,Low,Champions,968.32,4695.59,3.87
+2140,,Already lapsed (56+ days),Lapsed,Lost,1257.68,1567.89,0.0
+2141,0.004,Active,Low,Potential Loyalists,2722.56,5246.67,10.89
+2142,0.004,Active,Low,Champions,5156.74,7631.12,20.63
+2143,,Already lapsed (56+ days),Lapsed,Lost,476.25,298.65,0.0
+2144,,Already lapsed (56+ days),Lapsed,Lost,1790.4,2265.9,0.0
+2145,0.073,Active,Low,Needs Attention,950.58,1090.62,69.39
+2146,0.011,Active,Low,Needs Attention,1211.23,1692.54,13.32
+2147,0.005,Active,Low,Potential Loyalists,3921.86,5706.01,19.61
+2148,0.005,Active,Low,Champions,1914.34,3263.92,9.57
+2149,0.014,Active,Low,Champions,2114.4,3703.42,29.6
+2150,,Already lapsed (56+ days),Lapsed,Lost,402.8,69.32,0.0
+2151,0.209,Active,Medium,Potential Loyalists,1353.34,834.27,282.85
+2152,,Already lapsed (56+ days),Lapsed,Lost,366.37,156.55,0.0
+2153,0.045,Active,Low,Needs Attention,1180.18,933.43,53.11
+2154,0.007,Active,Low,Loyal,2043.98,2523.34,14.31
+2155,0.596,Active,High,About to Sleep,681.7,313.83,406.29
+2156,0.007,Active,Low,Champions,2095.46,5874.46,14.67
+2157,,Already lapsed (56+ days),Lapsed,Lost,503.25,390.7,0.0
+2158,0.005,Active,Low,Champions,2317.0,3194.17,11.58
+2159,0.009,Active,Low,Loyal,1556.45,2018.95,14.01
+2160,0.08,Active,Low,Needs Attention,926.97,748.07,74.16
+2161,0.052,Active,Low,Potential Loyalists,3119.7,2064.11,162.22
+2162,0.004,Active,Low,Champions,8361.38,13923.45,33.45
+2163,0.35,Active,High,About to Sleep,835.73,356.1,292.51
+2164,,Already lapsed (56+ days),Lapsed,Lost,982.66,1596.48,0.0
+2165,,Already lapsed (56+ days),Lapsed,Lost,559.75,182.1,0.0
+2166,,Already lapsed (56+ days),Lapsed,Lost,428.61,84.21,0.0
+2167,0.138,Active,Medium,Needs Attention,910.7,1714.61,125.68
+2168,0.005,Active,Low,Champions,3387.06,5666.66,16.94
+2169,0.032,Active,Low,Needs Attention,981.4,857.96,31.4
+2170,0.005,Active,Low,Champions,2478.73,6198.89,12.39
+2171,0.004,Active,Low,Champions,2770.46,4031.08,11.08
+2172,0.004,Active,Low,Loyal,2293.18,2408.11,9.17
+2173,0.017,Active,Low,Potential Loyalists,1723.91,2177.52,29.31
+2174,0.109,Active,Medium,About to Sleep,828.67,644.33,90.33
+2175,0.374,Active,High,About to Sleep,964.6,610.22,360.76
+2176,0.338,Active,High,At Risk (High Value),911.99,2601.56,308.25
+2177,,Already lapsed (56+ days),Lapsed,Lost,706.66,133.5,0.0
+2178,,Already lapsed (56+ days),Lapsed,At Risk (High Value),1351.67,3681.13,0.0
+2179,0.015,Active,Low,Potential Loyalists,1276.11,1452.29,19.14
+2180,,Already lapsed (56+ days),Lapsed,Lost,844.36,936.39,0.0
+2181,0.019,Active,Low,Potential Loyalists,3106.86,3074.45,59.03
+2182,0.022,Active,Low,Potential Loyalists,985.43,1530.52,21.68
+2183,0.005,Active,Low,Champions,2020.3,4093.12,10.1
+2184,0.004,Active,Low,Champions,913.01,5094.8,3.65
+2185,0.004,Active,Low,Champions,3039.74,8550.73,12.16
+2186,0.302,Active,High,Champions,3014.77,5469.53,910.46
+2187,0.09,Active,Low,Needs Attention,1714.39,2667.13,154.3
+2188,0.005,Active,Low,Champions,2740.63,3917.34,13.7
+2189,0.02,Active,Low,Potential Loyalists,1190.29,1335.47,23.81
+2190,0.005,Active,Low,Champions,4941.11,9520.85,24.71
+2191,0.315,Active,High,New / Light Shoppers,1054.09,780.92,332.04
+2192,0.796,Active,High,New / Light Shoppers,691.38,492.03,550.34
+2193,0.005,Active,Low,Champions,3203.48,9155.01,16.02
+2194,0.004,Active,Low,Champions,3343.98,7169.78,13.38
+2195,0.013,Active,Low,Potential Loyalists,1234.77,1180.72,16.05
+2196,0.01,Active,Low,Potential Loyalists,997.8,1153.05,9.98
+2197,0.043,Active,Low,Potential Loyalists,971.44,670.43,41.77
+2198,0.005,Active,Low,Champions,5540.09,7205.88,27.7
+2199,0.005,Active,Low,Champions,2305.46,5639.17,11.53
+2200,0.005,Active,Low,Champions,4639.77,8673.11,23.2
+2201,,Already lapsed (56+ days),Lapsed,Lost,970.52,27.51,0.0
+2202,0.32,Active,High,New / Light Shoppers,617.67,319.9,197.65
+2203,0.005,Active,Low,Champions,3085.25,5239.09,15.43
+2204,0.008,Active,Low,Loyal,1233.39,2646.05,9.87
+2205,0.008,Active,Low,Loyal,1495.93,1978.76,11.97
+2206,0.033,Active,Low,Potential Loyalists,879.8,502.25,29.03
+2207,0.167,Active,Medium,Loyal,1284.37,4866.06,214.49
+2208,0.119,Active,Medium,Champions,4305.52,9456.83,512.36
+2209,0.004,Active,Low,Champions,5004.86,6996.68,20.02
+2210,,Already lapsed (56+ days),Lapsed,Lost,1311.85,1727.97,0.0
+2211,0.006,Active,Low,Potential Loyalists,2864.86,2292.52,17.19
+2212,0.767,Active,High,About to Sleep,407.23,251.33,312.35
+2213,0.07,Active,Low,Needs Attention,1641.94,3505.21,114.94
+2214,0.19,Active,Medium,New / Light Shoppers,1089.99,450.87,207.1
+2215,0.005,Active,Low,Loyal,1546.61,2402.11,7.73
+2216,0.052,Active,Low,Potential Loyalists,835.41,454.57,43.44
+2217,0.005,Active,Low,Champions,1333.94,4430.01,6.67
+2218,0.219,Active,Medium,New / Light Shoppers,1404.95,975.25,307.68
+2219,0.844,Active,High,New / Light Shoppers,793.23,1077.42,669.49
+2220,,Already lapsed (56+ days),Lapsed,Lost,534.87,215.58,0.0
+2221,0.006,Active,Low,Loyal,1625.13,2301.4,9.75
+2222,0.02,Active,Low,Potential Loyalists,2108.33,3076.27,42.17
+2223,0.671,Active,High,At Risk (High Value),474.96,2059.76,318.7
+2224,0.005,Active,Low,Champions,1849.79,3984.1,9.25
+2225,0.007,Active,Low,Potential Loyalists,2194.28,3352.07,15.36
+2226,0.005,Active,Low,Champions,1492.2,8917.54,7.46
+2227,,Already lapsed (56+ days),Lapsed,At Risk (High Value),1090.16,4893.9,0.0
+2228,0.436,Active,High,Champions,764.26,5298.05,333.22
+2229,0.01,Active,Low,Potential Loyalists,3866.5,2415.49,38.66
+2230,0.06,Active,Low,About to Sleep,1144.37,1195.65,68.66
+2231,0.004,Active,Low,Potential Loyalists,2987.21,4400.26,11.95
+2232,0.058,Active,Low,Potential Loyalists,1301.73,1131.65,75.5
+2233,0.004,Active,Low,Champions,4191.93,8440.77,16.77
+2234,0.005,Active,Low,Champions,5394.17,7971.57,26.97
+2235,0.006,Active,Low,Potential Loyalists,1965.59,3824.87,11.79
+2236,0.261,Active,Medium,Loyal,832.65,2880.5,217.32
+2237,0.005,Active,Low,Champions,2316.51,4941.52,11.58
+2238,0.005,Active,Low,Loyal,1441.91,2479.46,7.21
+2239,0.074,Active,Low,Needs Attention,1456.28,1787.48,107.76
+2240,0.005,Active,Low,Champions,2365.04,5413.2,11.83
+2241,0.013,Active,Low,Potential Loyalists,1271.75,1505.67,16.53
+2242,0.015,Active,Low,Loyal,1817.63,1239.07,27.26
+2243,0.026,Active,Low,Potential Loyalists,3119.8,4019.71,81.11
+2244,0.005,Active,Low,Champions,3608.69,5477.2,18.04
+2245,0.004,Active,Low,Champions,5080.76,4614.02,20.32
+2246,,Already lapsed (56+ days),Lapsed,Lost,476.62,321.35,0.0
+2247,0.008,Active,Low,Potential Loyalists,3144.6,3992.67,25.16
+2248,0.169,Active,Medium,New / Light Shoppers,1198.86,937.23,202.61
+2249,,Already lapsed (56+ days),Lapsed,Lost,569.86,181.51,0.0
+2250,0.006,Active,Low,Potential Loyalists,1505.23,2333.16,9.03
+2251,0.276,Active,Medium,About to Sleep,1694.19,2022.54,467.6
+2252,0.005,Active,Low,Champions,6391.47,9489.82,31.96
+2253,0.316,Active,High,Needs Attention,902.08,450.33,285.06
+2254,,Already lapsed (56+ days),Lapsed,Lost,930.27,1270.35,0.0
+2255,,Already lapsed (56+ days),Lapsed,Lost,765.17,570.03,0.0
+2256,0.068,Active,Low,New / Light Shoppers,1835.0,1497.56,124.78
+2257,0.012,Active,Low,Potential Loyalists,864.02,791.54,10.37
+2258,0.012,Active,Low,Potential Loyalists,1627.75,1574.94,19.53
+2259,0.109,Active,Medium,New / Light Shoppers,3581.61,589.17,390.4
+2260,0.004,Active,Low,Champions,2990.07,7456.64,11.96
+2261,0.004,Active,Low,Champions,5692.62,13379.78,22.77
+2262,0.005,Active,Low,Loyal,1299.85,1491.0,6.5
+2263,0.005,Active,Low,Champions,2186.28,5763.9,10.93
+2264,0.004,Active,Low,Champions,8751.59,16960.59,35.01
+2265,,Already lapsed (56+ days),Lapsed,Lost,695.76,77.44,0.0
+2266,0.005,Active,Low,Champions,5590.6,8754.12,27.95
+2267,0.007,Active,Low,Potential Loyalists,3136.31,2304.15,21.95
+2268,0.155,Active,Medium,About to Sleep,762.8,668.96,118.23
+2269,0.005,Active,Low,Champions,2129.88,3273.95,10.65
+2270,0.005,Active,Low,Champions,1804.3,4728.67,9.02
+2271,0.134,Active,Medium,About to Sleep,513.86,361.88,68.86
+2272,0.055,Active,Low,Potential Loyalists,2735.67,2244.17,150.46
+2273,0.01,Active,Low,Potential Loyalists,1303.09,1594.87,13.03
+2274,0.014,Active,Low,Potential Loyalists,6721.97,6974.46,94.11
+2275,0.005,Active,Low,Champions,2886.0,2789.51,14.43
+2276,0.139,Active,Medium,About to Sleep,1248.45,1007.97,173.53
+2277,0.013,Active,Low,Champions,1784.47,3888.44,23.2
+2278,0.05,Active,Low,Needs Attention,1024.03,1160.57,51.2
+2279,0.019,Active,Low,Potential Loyalists,1273.25,972.47,24.19
+2280,0.005,Active,Low,Champions,5870.28,12332.91,29.35
+2281,0.007,Active,Low,Champions,6436.78,5008.79,45.06
+2282,0.006,Active,Low,Potential Loyalists,1256.56,1103.88,7.54
+2283,0.064,Active,Low,Needs Attention,1973.76,1389.37,126.32
+2284,0.004,Active,Low,Champions,8392.28,17152.63,33.57
+2285,0.022,Active,Low,Potential Loyalists,2454.11,2057.9,53.99
+2286,0.541,Active,High,About to Sleep,859.54,989.26,465.01
+2287,0.036,Active,Low,Potential Loyalists,1197.72,833.51,43.12
+2288,0.011,Active,Low,Loyal,975.1,2093.06,10.73
+2289,0.005,Active,Low,Potential Loyalists,2256.22,2428.06,11.28
+2290,0.048,Active,Low,Needs Attention,727.72,916.97,34.93
+2291,0.197,Active,Medium,About to Sleep,651.03,439.03,128.25
+2292,0.019,Active,Low,Loyal,1955.97,1336.14,37.16
+2293,0.012,Active,Low,Potential Loyalists,2485.61,2462.95,29.83
+2294,0.674,Active,High,At Risk (High Value),1327.7,8381.66,894.87
+2295,0.016,Active,Low,Needs Attention,2180.46,8003.99,34.89
+2296,0.005,Active,Low,Champions,8504.19,13404.83,42.52
+2297,0.056,Active,Low,Potential Loyalists,995.28,698.36,55.74
+2298,0.005,Active,Low,Potential Loyalists,1840.97,2709.53,9.2
+2299,0.006,Active,Low,Potential Loyalists,1630.63,2057.89,9.78
+2300,0.005,Active,Low,Champions,2760.15,4615.35,13.8
+2301,0.007,Active,Low,Champions,2147.47,4661.63,15.03
+2302,0.04,Active,Low,Needs Attention,1548.73,1960.24,61.95
+2303,0.006,Active,Low,Potential Loyalists,1634.19,2158.85,9.81
+2304,,Already lapsed (56+ days),Lapsed,Lost,403.02,240.09,0.0
+2305,0.005,Active,Low,Champions,3277.46,6320.64,16.39
+2306,,Already lapsed (56+ days),Lapsed,Lost,528.49,62.06,0.0
+2307,0.005,Active,Low,Champions,2310.3,6009.24,11.55
+2308,0.22,Active,Medium,New / Light Shoppers,969.86,582.45,213.37
+2309,,Already lapsed (56+ days),Lapsed,Lost,599.34,275.01,0.0
+2310,0.01,Active,Low,Potential Loyalists,1054.5,1389.32,10.54
+2311,0.126,Active,Medium,Potential Loyalists,1400.06,1830.83,176.41
+2312,0.005,Active,Low,Champions,7475.71,14682.81,37.38
+2313,0.168,Active,Medium,New / Light Shoppers,586.63,105.69,98.55
+2314,0.013,Active,Low,Needs Attention,2040.2,5078.05,26.52
+2315,0.091,Active,Low,New / Light Shoppers,803.97,266.1,73.16
+2316,,Already lapsed (56+ days),Lapsed,Lost,775.78,751.89,0.0
+2317,0.005,Active,Low,Champions,8376.23,13967.37,41.88
+2318,,Already lapsed (56+ days),Lapsed,At Risk (High Value),1130.21,10685.72,0.0
+2319,0.055,Active,Low,Loyal,1014.22,1148.68,55.78
+2320,0.196,Active,Medium,Needs Attention,671.08,369.59,131.53
+2321,0.105,Active,Medium,New / Light Shoppers,892.26,336.09,93.69
+2322,0.004,Active,Low,Champions,5783.16,23646.92,23.13
+2323,0.104,Active,Medium,Needs Attention,1098.95,781.34,114.29
+2324,0.005,Active,Low,Loyal,1670.77,2671.77,8.35
+2325,0.699,Active,High,New / Light Shoppers,674.49,106.36,471.47
+2326,0.014,Active,Low,Potential Loyalists,1678.4,1322.87,23.5
+2327,0.218,Active,Medium,Needs Attention,1008.75,1267.76,219.91
+2328,0.004,Active,Low,Champions,8287.48,14193.61,33.15
+2329,,Already lapsed (56+ days),Lapsed,At Risk (High Value),1144.18,2722.37,0.0
+2330,0.111,Active,Medium,Potential Loyalists,4394.19,5683.36,487.76
+2331,0.007,Active,Low,Champions,3294.1,5903.55,23.06
+2332,,Already lapsed (56+ days),Lapsed,Lost,653.15,353.8,0.0
+2333,0.337,Active,High,New / Light Shoppers,1055.41,270.6,355.67
+2334,0.004,Active,Low,Champions,5710.19,11955.38,22.84
+2335,0.017,Active,Low,Potential Loyalists,2356.99,1955.25,40.07
+2336,0.007,Active,Low,Potential Loyalists,1717.88,2384.25,12.03
+2337,0.005,Active,Low,Champions,3056.93,11703.97,15.28
+2338,0.007,Active,Low,Potential Loyalists,1785.57,2111.55,12.5
+2339,0.372,Active,High,Needs Attention,596.24,262.42,221.8
+2340,0.005,Active,Low,Champions,2471.98,2996.82,12.36
+2341,0.042,Active,Low,Champions,1188.63,5698.38,49.92
+2342,0.005,Active,Low,Champions,3612.92,5934.36,18.06
+2343,0.005,Active,Low,Champions,2848.18,4627.48,14.24
+2344,0.016,Active,Low,Potential Loyalists,2080.76,2690.84,33.29
+2345,0.016,Active,Low,Champions,4331.92,4278.5,69.31
+2346,0.125,Active,Medium,New / Light Shoppers,1276.13,1220.38,159.52
+2347,0.006,Active,Low,Potential Loyalists,3137.43,3232.55,18.82
+2348,0.868,Active,High,About to Sleep,573.1,278.87,497.45
+2349,0.006,Active,Low,Potential Loyalists,2018.29,2100.28,12.11
+2350,0.051,Active,Low,Potential Loyalists,2166.9,1915.65,110.51
+2351,0.005,Active,Low,Champions,8998.31,16616.78,44.99
+2352,0.187,Active,Medium,About to Sleep,952.42,1255.85,178.1
+2353,0.565,Active,High,Needs Attention,725.71,412.75,410.03
+2354,0.004,Active,Low,Potential Loyalists,2482.38,4821.89,9.93
+2355,,Already lapsed (56+ days),Lapsed,Lost,403.29,111.34,0.0
+2356,,Already lapsed (56+ days),Lapsed,Lost,1047.71,2159.78,0.0
+2357,0.308,Active,High,About to Sleep,383.26,234.37,118.04
+2358,0.016,Active,Low,Potential Loyalists,1411.06,2423.25,22.58
+2359,0.021,Active,Low,Champions,1030.62,2806.27,21.64
+2360,0.004,Active,Low,Champions,4072.26,9394.58,16.29
+2361,0.011,Active,Low,Potential Loyalists,1731.82,4528.71,19.05
+2362,0.384,Active,High,About to Sleep,636.74,520.29,244.51
+2363,0.07,Active,Low,About to Sleep,883.68,843.76,61.86
+2364,0.005,Active,Low,Champions,3781.9,7414.1,18.91
+2365,,Already lapsed (56+ days),Lapsed,Lost,560.71,313.65,0.0
+2366,0.005,Active,Low,Champions,2873.87,5500.03,14.37
+2367,0.02,Active,Low,Champions,1014.48,4495.53,20.29
+2368,0.269,Active,Medium,About to Sleep,1388.21,1377.69,373.43
+2369,0.005,Active,Low,Potential Loyalists,1814.14,2709.79,9.07
+2370,0.005,Active,Low,Champions,3247.45,5307.52,16.24
+2371,0.015,Active,Low,Potential Loyalists,1455.34,2138.71,21.83
+2372,0.005,Active,Low,Potential Loyalists,2777.86,3208.19,13.89
+2373,0.06,Active,Low,Loyal,1305.21,2585.6,78.31
+2374,0.04,Active,Low,Needs Attention,2011.06,6249.35,80.44
+2375,0.016,Active,Low,Champions,2080.34,2841.4,33.29
+2376,0.005,Active,Low,Champions,3731.95,3925.49,18.66
+2377,0.011,Active,Low,Potential Loyalists,1031.01,1107.54,11.34
+2378,0.005,Active,Low,Champions,5999.63,8311.08,30.0
+2379,0.011,Active,Low,Needs Attention,1242.33,1323.34,13.67
+2380,0.005,Active,Low,Champions,4855.05,5018.78,24.28
+2381,0.005,Active,Low,Potential Loyalists,1916.59,2185.28,9.58
+2382,,Already lapsed (56+ days),Lapsed,Lost,726.31,822.64,0.0
+2383,,Already lapsed (56+ days),Lapsed,Lost,795.62,555.64,0.0
+2384,0.68,Active,High,New / Light Shoppers,927.1,801.41,630.43
+2385,0.017,Active,Low,Champions,880.95,6158.06,14.98
+2386,0.092,Active,Low,Potential Loyalists,1179.86,1056.96,108.55
+2387,0.198,Active,Medium,New / Light Shoppers,1087.46,865.7,215.32
+2388,0.015,Active,Low,Potential Loyalists,1534.3,1703.02,23.01
+2389,0.111,Active,Medium,Needs Attention,1058.94,1485.44,117.54
+2390,,Already lapsed (56+ days),Lapsed,Lost,1015.38,1046.59,0.0
+2391,,Already lapsed (56+ days),Lapsed,Lost,705.41,633.92,0.0
+2392,0.071,Active,Low,Potential Loyalists,1613.0,1428.9,114.52
+2393,0.005,Active,Low,Potential Loyalists,2512.08,4048.29,12.56
+2394,0.027,Active,Low,Potential Loyalists,951.44,1538.01,25.69
+2395,0.014,Active,Low,Loyal,1943.25,5262.3,27.21
+2396,,Already lapsed (56+ days),Lapsed,Lost,816.82,550.48,0.0
+2397,0.085,Active,Low,Potential Loyalists,1490.08,1095.1,126.66
+2398,,Already lapsed (56+ days),Lapsed,Lost,1176.21,2035.1,0.0
+2399,0.803,Active,High,Needs Attention,689.84,188.49,553.94
+2400,0.005,Active,Low,Champions,8824.12,14681.32,44.12
+2401,0.017,Active,Low,Potential Loyalists,873.45,727.45,14.85
+2402,0.111,Active,Medium,Potential Loyalists,1132.65,1088.9,125.72
+2403,,Already lapsed (56+ days),Lapsed,Lost,429.91,118.69,0.0
+2404,0.113,Active,Medium,Needs Attention,1363.87,559.76,154.12
+2405,0.005,Active,Low,Champions,2204.01,3425.7,11.02
+2406,0.007,Active,Low,Loyal,2330.13,4860.81,16.31
+2407,0.006,Active,Low,Champions,4681.97,6665.22,28.09
+2408,0.068,Active,Low,Needs Attention,2935.63,2108.17,199.62
+2409,0.894,Active,High,New / Light Shoppers,811.56,906.55,725.53
+2410,0.015,Active,Low,Needs Attention,2067.51,2636.57,31.01
+2411,0.137,Active,Medium,Potential Loyalists,1067.17,2019.25,146.2
+2412,0.005,Active,Low,Champions,5410.32,12763.78,27.05
+2413,,Already lapsed (56+ days),Lapsed,Lost,558.94,301.41,0.0
+2414,,Already lapsed (56+ days),Lapsed,Lost,518.85,178.68,0.0
+2415,0.034,Active,Low,Loyal,1079.95,1676.34,36.72
+2416,0.004,Active,Low,Champions,2950.16,4422.98,11.8
+2417,0.769,Active,High,New / Light Shoppers,527.27,196.11,405.47
+2418,0.009,Active,Low,Loyal,1443.1,1572.61,12.99
+2419,0.067,Active,Low,Needs Attention,976.37,1199.37,65.42
+2420,0.102,Active,Medium,At Risk (High Value),1979.75,4583.46,201.93
+2421,0.005,Active,Low,Potential Loyalists,5370.3,8749.76,26.85
+2422,,Already lapsed (56+ days),Lapsed,Lost,723.33,368.07,0.0
+2423,0.007,Active,Low,Potential Loyalists,1911.65,2838.62,13.38
+2424,0.004,Active,Low,Champions,1806.19,4122.83,7.22
+2425,0.013,Active,Low,Champions,1859.62,4361.02,24.18
+2426,0.005,Active,Low,Loyal,1640.4,2437.06,8.2
+2427,0.005,Active,Low,Champions,5623.94,8725.94,28.12
+2428,0.136,Active,Medium,New / Light Shoppers,633.83,323.27,86.2
+2429,0.012,Active,Low,Potential Loyalists,1546.74,1807.16,18.56
+2430,0.231,Active,Medium,About to Sleep,1078.9,1885.95,249.23
+2431,0.038,Active,Low,Potential Loyalists,970.47,978.85,36.88
+2432,0.009,Active,Low,Champions,1135.61,4948.11,10.22
+2433,,Already lapsed (56+ days),Lapsed,Lost,702.72,609.75,0.0
+2434,0.303,Active,High,About to Sleep,778.57,771.51,235.91
+2435,0.016,Active,Low,Potential Loyalists,3047.87,3303.85,48.77
+2436,,Already lapsed (56+ days),Lapsed,Lost,918.05,972.68,0.0
+2437,0.007,Active,Low,Potential Loyalists,2613.9,4841.94,18.3
+2438,0.004,Active,Low,Champions,2976.15,3061.58,11.9
+2439,0.025,Active,Low,Potential Loyalists,769.04,596.88,19.23
+2440,0.004,Active,Low,Loyal,3024.32,2563.57,12.1
+2441,0.01,Active,Low,Potential Loyalists,1001.41,1223.56,10.01
+2442,0.073,Active,Low,Needs Attention,843.65,624.33,61.59
+2443,,Already lapsed (56+ days),Lapsed,At Risk (High Value),1607.54,4029.19,0.0
+2444,0.283,Active,Medium,New / Light Shoppers,803.57,69.94,227.41
+2445,0.005,Active,Low,Champions,2884.06,6546.05,14.42
+2446,0.005,Active,Low,Champions,2020.95,6455.78,10.1
+2447,0.008,Active,Low,Champions,2474.59,7520.94,19.8
+2448,0.005,Active,Low,Champions,3596.78,9300.73,17.98
+2449,0.004,Active,Low,Champions,5044.58,10866.87,20.18
+2450,0.019,Active,Low,Potential Loyalists,2108.0,3060.77,40.05
+2451,0.009,Active,Low,Champions,2416.21,8335.74,21.75
+2452,0.004,Active,Low,Champions,1870.29,3060.36,7.48
+2453,0.005,Active,Low,Champions,3622.74,4551.68,18.11
+2454,0.082,Active,Low,New / Light Shoppers,804.49,392.87,65.97
+2455,0.004,Active,Low,Champions,3279.18,5339.03,13.12
+2456,0.019,Active,Low,Potential Loyalists,924.11,1271.24,17.56
+2457,0.078,Active,Low,About to Sleep,1045.81,1540.47,81.57
+2458,0.064,Active,Low,Potential Loyalists,1400.07,1118.33,89.6
+2459,0.06,Active,Low,Champions,3610.43,20671.5,216.63
+2460,0.016,Active,Low,New / Light Shoppers,1327.39,966.05,21.24
+2461,0.207,Active,Medium,New / Light Shoppers,1449.69,1051.1,300.09
+2462,0.005,Active,Low,Champions,7909.36,11593.06,39.55
+2463,,Already lapsed (56+ days),Lapsed,Lost,470.86,158.42,0.0
+2464,0.018,Active,Low,Needs Attention,953.09,1121.48,17.16
+2465,0.031,Active,Low,Loyal,1116.18,2089.29,34.6
+2466,0.004,Active,Low,Loyal,2107.26,2581.82,8.43
+2467,0.006,Active,Low,Champions,6040.57,12850.56,36.24
+2468,0.243,Active,Medium,About to Sleep,1045.4,2506.89,254.03
+2469,0.188,Active,Medium,Needs Attention,935.67,660.92,175.91
+2470,0.014,Active,Low,Needs Attention,1005.19,1042.06,14.07
+2471,0.023,Active,Low,Potential Loyalists,1340.35,947.61,30.83
+2472,0.029,Active,Low,Potential Loyalists,1427.13,1220.81,41.39
+2473,,Already lapsed (56+ days),Lapsed,Lost,537.45,330.68,0.0
+2474,0.067,Active,Low,Needs Attention,556.67,511.41,37.3
+2475,0.048,Active,Low,Loyal,2206.68,5079.02,105.92
+2476,,Already lapsed (56+ days),Lapsed,Lost,591.2,403.26,0.0
+2477,0.079,Active,Low,Needs Attention,1969.24,1871.22,155.57
+2478,0.005,Active,Low,Champions,1410.63,3354.42,7.05
+2479,0.005,Active,Low,Champions,6824.04,14279.7,34.12
+2480,0.289,Active,Medium,Needs Attention,1250.15,1716.05,361.29
+2481,0.005,Active,Low,Champions,4100.72,5403.5,20.5
+2482,0.182,Active,Medium,About to Sleep,1583.42,2728.77,288.18
+2483,0.031,Active,Low,Potential Loyalists,3205.85,1770.91,99.38
+2484,0.005,Active,Low,Champions,5186.58,7824.64,25.93
+2485,0.018,Active,Low,Potential Loyalists,1163.66,1502.2,20.95
+2486,0.009,Active,Low,Potential Loyalists,2344.44,3265.52,21.1
+2487,0.721,Active,High,Needs Attention,870.24,601.25,627.44
+2488,0.005,Active,Low,Champions,3484.95,6327.51,17.42
+2489,0.005,Active,Low,Champions,2344.54,9403.42,11.72
+2490,0.063,Active,Low,Needs Attention,915.67,699.16,57.69
+2491,,Already lapsed (56+ days),Lapsed,Lost,805.68,950.77,0.0
+2492,0.004,Active,Low,Champions,2735.44,2858.85,10.94
+2493,,Already lapsed (56+ days),Lapsed,At Risk (High Value),1220.9,2588.73,0.0
+2494,0.037,Active,Low,Potential Loyalists,2090.22,2120.93,77.34
+2495,,Already lapsed (56+ days),Lapsed,Lost,405.68,209.0,0.0
+2496,0.041,Active,Low,Needs Attention,1831.88,4339.66,75.11
+2497,0.006,Active,Low,Champions,3994.27,7111.98,23.97
+2498,0.007,Active,Low,Loyal,1465.27,2601.6,10.26
+2499,0.005,Active,Low,Potential Loyalists,3153.82,3394.07,15.77
+2500,0.005,Active,Low,Champions,4991.05,5486.16,24.96

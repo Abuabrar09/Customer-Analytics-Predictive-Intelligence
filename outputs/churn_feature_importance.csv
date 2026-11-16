@@ -1,0 +1,20 @@
+feature,importance,label,median_churners,median_stayers
+trips_last_28d,0.025954200672654925,"Trips, last 4 weeks",1.0,4.0
+trips_last_84d,0.021731115173038752,"Trips, last 12 weeks",3.0,12.0
+gap_std_days,0.018544639017484554,Irregularity of trips,29.2,7.94
+spend_trend,0.012566877938137188,Spend trend (12 wk vs prior 12 wk),0.4,0.1
+spend_prev_84d,0.0077007781280152895,"Spend, 12 weeks before that",54.12,324.29
+discount_share,0.006875467999130242,Share of value from discounts,0.16,0.15
+spend_last_56d,0.006529904686377941,"Spend, last 8 weeks",56.37,231.81
+spend_last_28d,0.006277008384749788,"Spend, last 4 weeks",14.06,111.8
+tenure_days,0.006226762886365117,Days as a customer,597.0,585.0
+total_spend,0.002483762686429447,Total spend,682.79,2322.51
+trips_last_56d,0.0011292471374883927,"Trips, last 8 weeks",2.0,8.0
+spend_last_84d,0.0011236201640371147,"Spend, last 12 weeks",74.96,353.9
+gap_vs_usual,0.00033581603262643477,Days since last trip / usual gap,0.74,0.51
+recency_days,-0.004208150678359018,Days since last trip,18.0,4.0
+avg_items,-0.004868668784217167,Average items per trip,22.28,177.13
+avg_basket,-0.005221863462003784,Average basket ($),26.93,27.69
+trips,-0.005705129714160878,Total trips,29.0,84.0
+avg_gap_days,-0.005894541939493164,Usual days between trips,20.78,7.06
+trips_per_week,-0.00678690905669464,Trips per week,0.34,1.0
